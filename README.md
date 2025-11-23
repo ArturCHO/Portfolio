@@ -12,12 +12,22 @@ in which I will share my work.
 
 - [Project 1: Covid - ] (https://github.com/ArturCHO/Portfolio/blob/main/COVID.sql)
   
-  Description: The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+  Description: The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. 
+  This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
   Skills: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-  Technology: SQL Server
-
   Tableau Dashboard (https://public.tableau.com/app/profile/artur.chowa.ski/viz/CovidDashboard_17623568897080/Dashboard1)
 
-- [Project 2: Restaurant] 
+- [Project 2: Restaurant] (https://github.com/ArturCHO/Portfolio/blob/main/Restaurant%20SQL.sql)
+
+  The dataset contains one week of restaurant transaction data, including order details, items, categories, prices, and tips.
+  The project performs exploratory data analysis (EDA) to uncover customer behavior and revenue patterns.
+
+  Key steps include:
+  - Calculating average order value and daily average spending
+  - Identifying the most frequently ordered dishes
+  - Analyzing peak order hours
+  - Computing average tip percentage per day
+  - Determining the most profitable items and categories
+  - Extracting Top 3 best-selling dishes per day using window functions
