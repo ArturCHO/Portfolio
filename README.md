@@ -12,7 +12,7 @@ in which I will share my work.
 
 - [Project 1: Covid - ] (https://github.com/ArturCHO/Portfolio/blob/main/COVID.sql)
   
-  Description: The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. 
+  The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. 
   This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
   Skills: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
@@ -31,3 +31,13 @@ in which I will share my work.
   - Computing average tip percentage per day
   - Determining the most profitable items and categories
   - Extracting Top 3 best-selling dishes per day using window functions
+
+ - [Project 3: Analysis of mammography research in Poland]
+
+   - Percentage of population covered by surveys over time and population size trend (https://github.com/ArturCHO/Portfolio/blob/main/Mammography%201.pdf)
+   
+   - Incidence of cervical cancer in recent years and Value of spending on patient benefits (https://github.com/ArturCHO/Portfolio/blob/main/Mammography%202.pdf)
+  
+     Cleaning and modeling data with DAX, PowerBi Dashboards
+
+   
