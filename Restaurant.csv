@@ -1,0 +1,4041 @@
+order_id,day,hour,item_name,category,price,tip_percent
+1,wtorek,13,Quesadilla,danie_główne,20,7
+1,wtorek,13,Heineken 0.33L,piwo,10,7
+2,wtorek,13,Risotto,danie_główne,32,7
+2,wtorek,13,Craft IPA 0.33L,piwo,14,7
+2,wtorek,13,Cola 0.33L,zimny_napój,7,7
+2,wtorek,13,Sok pomarańczowy,zimny_napój,8,7
+3,wtorek,13,Sałatka Caesar,danie_główne,22,8
+3,wtorek,13,Żywiec 0.5L,piwo,8,8
+4,wtorek,13,Ryba z grilla,danie_główne,35,10
+4,wtorek,13,Heineken 0.33L,piwo,10,10
+5,wtorek,13,Spaghetti Carbonara,danie_główne,26,8
+5,wtorek,13,Cola 0.33L,zimny_napój,7,8
+5,wtorek,13,Żywiec 0.5L,piwo,8,8
+6,wtorek,13,Zupa dnia,danie_główne,16,7
+6,wtorek,13,Woda mineralna,zimny_napój,5,7
+7,wtorek,13,Pizza Margherita,danie_główne,28,11
+7,wtorek,13,Heineken 0.33L,piwo,10,11
+8,wtorek,13,Ryba z grilla,danie_główne,35,7
+8,wtorek,13,Heineken 0.33L,piwo,10,7
+8,wtorek,13,Żywiec 0.5L,piwo,8,7
+9,wtorek,13,Quesadilla,danie_główne,20,8
+9,wtorek,13,Żywiec 0.5L,piwo,8,8
+10,wtorek,13,Quesadilla,danie_główne,20,7
+10,wtorek,13,Sok pomarańczowy,zimny_napój,8,7
+11,wtorek,14,Pizza Margherita,danie_główne,28,4
+11,wtorek,14,Cola 0.33L,zimny_napój,7,4
+12,wtorek,14,Kotlet schabowy,danie_główne,30,9
+12,wtorek,14,Żywiec 0.5L,piwo,8,9
+13,wtorek,14,Spaghetti Carbonara,danie_główne,26,3
+13,wtorek,14,Heineken 0.33L,piwo,10,3
+14,wtorek,14,Wrap z kurczakiem,danie_główne,18,9
+15,wtorek,14,Wrap z kurczakiem,danie_główne,18,10
+15,wtorek,14,Woda mineralna,zimny_napój,5,10
+16,wtorek,14,Pizza Margherita,danie_główne,28,11
+16,wtorek,14,Craft IPA 0.33L,piwo,14,11
+17,wtorek,14,Kotlet schabowy,danie_główne,30,6
+18,wtorek,14,Zupa dnia,danie_główne,16,5
+18,wtorek,14,Kawa espresso,gorący_napój,6,5
+18,wtorek,14,Sok pomarańczowy,zimny_napój,8,5
+19,wtorek,14,Sałatka Caesar,danie_główne,22,9
+19,wtorek,14,Żywiec 0.5L,piwo,8,9
+20,wtorek,14,Burger Classic,danie_główne,24,4
+20,wtorek,14,Kotlet schabowy,danie_główne,30,4
+21,wtorek,14,Wrap z kurczakiem,danie_główne,18,9
+21,wtorek,14,Heineken 0.33L,piwo,10,9
+22,wtorek,14,Sałatka Caesar,danie_główne,22,2
+22,wtorek,14,Kotlet schabowy,danie_główne,30,2
+23,wtorek,14,Kotlet schabowy,danie_główne,30,8
+23,wtorek,14,Heineken 0.33L,piwo,10,8
+24,wtorek,14,Pizza Margherita,danie_główne,28,9
+24,wtorek,14,Sok pomarańczowy,zimny_napój,8,9
+24,wtorek,14,Cola 0.33L,zimny_napój,7,9
+25,wtorek,14,Pizza Margherita,danie_główne,28,14
+25,wtorek,14,Woda mineralna,zimny_napój,5,14
+25,wtorek,14,Heineken 0.33L,piwo,10,14
+26,wtorek,14,Spaghetti Carbonara,danie_główne,26,6
+26,wtorek,14,Woda mineralna,zimny_napój,5,6
+26,wtorek,14,Cola 0.33L,zimny_napój,7,6
+27,wtorek,14,Sałatka Caesar,danie_główne,22,4
+28,wtorek,14,Risotto,danie_główne,32,9
+28,wtorek,14,Herbata,gorący_napój,5,9
+29,wtorek,14,Ryba z grilla,danie_główne,35,4
+29,wtorek,14,Żywiec 0.5L,piwo,8,4
+29,wtorek,14,Cola 0.33L,zimny_napój,7,4
+30,wtorek,14,Quesadilla,danie_główne,20,7
+31,wtorek,14,Risotto,danie_główne,32,7
+31,wtorek,14,Craft IPA 0.33L,piwo,14,7
+32,wtorek,14,Pizza Margherita,danie_główne,28,8
+32,wtorek,14,Żywiec 0.5L,piwo,8,8
+33,wtorek,15,Kotlet schabowy,danie_główne,30,4
+33,wtorek,15,Sok pomarańczowy,zimny_napój,8,4
+34,wtorek,15,Zupa dnia,danie_główne,16,7
+34,wtorek,15,Pizza Margherita,danie_główne,28,7
+34,wtorek,15,Kawa espresso,gorący_napój,6,7
+35,wtorek,15,Wrap z kurczakiem,danie_główne,18,6
+35,wtorek,15,Żywiec 0.5L,piwo,8,6
+36,wtorek,15,Ryba z grilla,danie_główne,35,16
+36,wtorek,15,Heineken 0.33L,piwo,10,16
+37,wtorek,15,Quesadilla,danie_główne,20,12
+37,wtorek,15,Heineken 0.33L,piwo,10,12
+37,wtorek,15,Pizza Margherita,danie_główne,28,12
+38,wtorek,15,Burger Classic,danie_główne,24,6
+38,wtorek,15,Sok pomarańczowy,zimny_napój,8,6
+38,wtorek,15,Herbata,gorący_napój,5,6
+39,wtorek,15,Ryba z grilla,danie_główne,35,4
+39,wtorek,15,Craft IPA 0.33L,piwo,14,4
+40,wtorek,15,Zupa dnia,danie_główne,16,14
+41,wtorek,15,Kotlet schabowy,danie_główne,30,9
+42,wtorek,15,Pizza Margherita,danie_główne,28,9
+42,wtorek,15,Woda mineralna,zimny_napój,5,9
+43,wtorek,15,Pizza Margherita,danie_główne,28,7
+43,wtorek,15,Żywiec 0.5L,piwo,8,7
+44,wtorek,15,Kotlet schabowy,danie_główne,30,11
+45,wtorek,15,Kotlet schabowy,danie_główne,30,6
+45,wtorek,15,Craft IPA 0.33L,piwo,14,6
+46,wtorek,15,Burger Classic,danie_główne,24,14
+47,wtorek,15,Pizza Margherita,danie_główne,28,9
+47,wtorek,15,Żywiec 0.5L,piwo,8,9
+48,wtorek,16,Pizza Margherita,danie_główne,28,5
+48,wtorek,16,Pizza Margherita,danie_główne,28,5
+48,wtorek,16,Risotto,danie_główne,32,5
+49,wtorek,16,Ryba z grilla,danie_główne,35,12
+49,wtorek,16,Woda mineralna,zimny_napój,5,12
+49,wtorek,16,Sok pomarańczowy,zimny_napój,8,12
+50,wtorek,16,Ryba z grilla,danie_główne,35,7
+50,wtorek,16,Żywiec 0.5L,piwo,8,7
+51,wtorek,16,Burger Classic,danie_główne,24,11
+51,wtorek,16,Żywiec 0.5L,piwo,8,11
+52,wtorek,16,Zupa dnia,danie_główne,16,12
+52,wtorek,16,Żywiec 0.5L,piwo,8,12
+53,wtorek,17,Spaghetti Carbonara,danie_główne,26,13
+53,wtorek,17,Kawa espresso,gorący_napój,6,13
+54,wtorek,17,Kotlet schabowy,danie_główne,30,10
+54,wtorek,17,Sok pomarańczowy,zimny_napój,8,10
+54,wtorek,17,Cola 0.33L,zimny_napój,7,10
+55,wtorek,17,Kotlet schabowy,danie_główne,30,13
+55,wtorek,17,Kawa espresso,gorący_napój,6,13
+56,wtorek,17,Pizza Margherita,danie_główne,28,5
+56,wtorek,17,Quesadilla,danie_główne,20,5
+56,wtorek,17,Woda mineralna,zimny_napój,5,5
+57,wtorek,17,Pizza Margherita,danie_główne,28,6
+57,wtorek,17,Heineken 0.33L,piwo,10,6
+58,wtorek,17,Sałatka Caesar,danie_główne,22,8
+58,wtorek,17,Heineken 0.33L,piwo,10,8
+59,wtorek,17,Kotlet schabowy,danie_główne,30,10
+59,wtorek,17,Woda mineralna,zimny_napój,5,10
+60,wtorek,17,Ryba z grilla,danie_główne,35,11
+61,wtorek,17,Spaghetti Carbonara,danie_główne,26,9
+61,wtorek,17,Woda mineralna,zimny_napój,5,9
+62,wtorek,17,Spaghetti Carbonara,danie_główne,26,9
+62,wtorek,17,Żywiec 0.5L,piwo,8,9
+63,wtorek,17,Spaghetti Carbonara,danie_główne,26,6
+63,wtorek,17,Herbata,gorący_napój,5,6
+64,wtorek,17,Sałatka Caesar,danie_główne,22,11
+64,wtorek,17,Kawa espresso,gorący_napój,6,11
+64,wtorek,17,Zupa dnia,danie_główne,16,11
+65,wtorek,17,Ryba z grilla,danie_główne,35,4
+65,wtorek,17,Sok pomarańczowy,zimny_napój,8,4
+65,wtorek,17,Woda mineralna,zimny_napój,5,4
+66,wtorek,17,Spaghetti Carbonara,danie_główne,26,9
+66,wtorek,17,Craft IPA 0.33L,piwo,14,9
+67,wtorek,17,Risotto,danie_główne,32,9
+67,wtorek,17,Cola 0.33L,zimny_napój,7,9
+67,wtorek,17,Ryba z grilla,danie_główne,35,9
+67,wtorek,17,Craft IPA 0.33L,piwo,14,9
+67,wtorek,17,Żywiec 0.5L,piwo,8,9
+68,wtorek,17,Ryba z grilla,danie_główne,35,1
+68,wtorek,17,Żywiec 0.5L,piwo,8,1
+68,wtorek,17,Cola 0.33L,zimny_napój,7,1
+69,wtorek,17,Wrap z kurczakiem,danie_główne,18,6
+69,wtorek,17,Zupa dnia,danie_główne,16,6
+69,wtorek,17,Pizza Margherita,danie_główne,28,6
+70,wtorek,17,Zupa dnia,danie_główne,16,4
+70,wtorek,17,Kawa espresso,gorący_napój,6,4
+71,wtorek,17,Zupa dnia,danie_główne,16,13
+72,wtorek,17,Ryba z grilla,danie_główne,35,8
+72,wtorek,17,Cola 0.33L,zimny_napój,7,8
+73,wtorek,17,Pizza Margherita,danie_główne,28,5
+73,wtorek,17,Cola 0.33L,zimny_napój,7,5
+74,wtorek,17,Ryba z grilla,danie_główne,35,4
+74,wtorek,17,Heineken 0.33L,piwo,10,4
+74,wtorek,17,Kawa espresso,gorący_napój,6,4
+75,wtorek,17,Wrap z kurczakiem,danie_główne,18,8
+75,wtorek,17,Cola 0.33L,zimny_napój,7,8
+76,wtorek,18,Pizza Margherita,danie_główne,28,8
+76,wtorek,18,Żywiec 0.5L,piwo,8,8
+77,wtorek,18,Kotlet schabowy,danie_główne,30,9
+77,wtorek,18,Heineken 0.33L,piwo,10,9
+78,wtorek,18,Kotlet schabowy,danie_główne,30,7
+78,wtorek,18,Żywiec 0.5L,piwo,8,7
+79,wtorek,18,Burger Classic,danie_główne,24,9
+79,wtorek,18,Heineken 0.33L,piwo,10,9
+80,wtorek,18,Ryba z grilla,danie_główne,35,7
+80,wtorek,18,Cola 0.33L,zimny_napój,7,7
+81,wtorek,18,Ryba z grilla,danie_główne,35,9
+81,wtorek,18,Żywiec 0.5L,piwo,8,9
+82,wtorek,18,Wrap z kurczakiem,danie_główne,18,5
+82,wtorek,18,Sok pomarańczowy,zimny_napój,8,5
+82,wtorek,18,Cola 0.33L,zimny_napój,7,5
+83,wtorek,18,Pizza Margherita,danie_główne,28,9
+83,wtorek,18,Craft IPA 0.33L,piwo,14,9
+84,wtorek,18,Burger Classic,danie_główne,24,3
+84,wtorek,18,Żywiec 0.5L,piwo,8,3
+85,wtorek,18,Quesadilla,danie_główne,20,15
+85,wtorek,18,Heineken 0.33L,piwo,10,15
+85,wtorek,18,Craft IPA 0.33L,piwo,14,15
+86,wtorek,18,Zupa dnia,danie_główne,16,7
+86,wtorek,18,Sok pomarańczowy,zimny_napój,8,7
+87,wtorek,18,Burger Classic,danie_główne,24,10
+87,wtorek,18,Sok pomarańczowy,zimny_napój,8,10
+88,wtorek,18,Wrap z kurczakiem,danie_główne,18,12
+88,wtorek,18,Woda mineralna,zimny_napój,5,12
+88,wtorek,18,Żywiec 0.5L,piwo,8,12
+89,wtorek,18,Sałatka Caesar,danie_główne,22,5
+89,wtorek,18,Cola 0.33L,zimny_napój,7,5
+90,wtorek,18,Burger Classic,danie_główne,24,6
+90,wtorek,18,Kawa espresso,gorący_napój,6,6
+91,wtorek,18,Pizza Margherita,danie_główne,28,6
+91,wtorek,18,Żywiec 0.5L,piwo,8,6
+92,wtorek,18,Ryba z grilla,danie_główne,35,9
+92,wtorek,18,Woda mineralna,zimny_napój,5,9
+93,wtorek,18,Spaghetti Carbonara,danie_główne,26,10
+93,wtorek,18,Craft IPA 0.33L,piwo,14,10
+94,wtorek,18,Kotlet schabowy,danie_główne,30,5
+94,wtorek,18,Woda mineralna,zimny_napój,5,5
+94,wtorek,18,Kawa espresso,gorący_napój,6,5
+95,wtorek,18,Ryba z grilla,danie_główne,35,6
+95,wtorek,18,Żywiec 0.5L,piwo,8,6
+95,wtorek,18,Żywiec 0.5L,piwo,8,6
+96,wtorek,18,Kotlet schabowy,danie_główne,30,9
+96,wtorek,18,Żywiec 0.5L,piwo,8,9
+97,wtorek,18,Wrap z kurczakiem,danie_główne,18,12
+97,wtorek,18,Sok pomarańczowy,zimny_napój,8,12
+98,wtorek,18,Zupa dnia,danie_główne,16,10
+98,wtorek,18,Woda mineralna,zimny_napój,5,10
+98,wtorek,18,Risotto,danie_główne,32,10
+99,wtorek,18,Kotlet schabowy,danie_główne,30,13
+99,wtorek,18,Sok pomarańczowy,zimny_napój,8,13
+100,wtorek,18,Zupa dnia,danie_główne,16,7
+100,wtorek,18,Herbata,gorący_napój,5,7
+101,wtorek,18,Zupa dnia,danie_główne,16,6
+102,wtorek,18,Wrap z kurczakiem,danie_główne,18,6
+102,wtorek,18,Kawa espresso,gorący_napój,6,6
+103,wtorek,18,Quesadilla,danie_główne,20,9
+103,wtorek,18,Quesadilla,danie_główne,20,9
+104,wtorek,18,Pizza Margherita,danie_główne,28,4
+104,wtorek,18,Heineken 0.33L,piwo,10,4
+105,wtorek,18,Zupa dnia,danie_główne,16,7
+105,wtorek,18,Woda mineralna,zimny_napój,5,7
+105,wtorek,18,Heineken 0.33L,piwo,10,7
+106,wtorek,19,Ryba z grilla,danie_główne,35,12
+106,wtorek,19,Craft IPA 0.33L,piwo,14,12
+107,wtorek,19,Spaghetti Carbonara,danie_główne,26,7
+107,wtorek,19,Spaghetti Carbonara,danie_główne,26,7
+107,wtorek,19,Żywiec 0.5L,piwo,8,7
+108,wtorek,19,Spaghetti Carbonara,danie_główne,26,4
+109,wtorek,19,Burger Classic,danie_główne,24,7
+109,wtorek,19,Sok pomarańczowy,zimny_napój,8,7
+109,wtorek,19,Woda mineralna,zimny_napój,5,7
+109,wtorek,19,Kotlet schabowy,danie_główne,30,7
+109,wtorek,19,Kawa espresso,gorący_napój,6,7
+110,wtorek,19,Burger Classic,danie_główne,24,5
+110,wtorek,19,Żywiec 0.5L,piwo,8,5
+111,wtorek,19,Sałatka Caesar,danie_główne,22,8
+111,wtorek,19,Woda mineralna,zimny_napój,5,8
+112,wtorek,19,Risotto,danie_główne,32,3
+112,wtorek,19,Żywiec 0.5L,piwo,8,3
+113,wtorek,19,Zupa dnia,danie_główne,16,9
+113,wtorek,19,Kawa espresso,gorący_napój,6,9
+114,wtorek,19,Spaghetti Carbonara,danie_główne,26,15
+114,wtorek,19,Żywiec 0.5L,piwo,8,15
+115,wtorek,19,Quesadilla,danie_główne,20,7
+115,wtorek,19,Heineken 0.33L,piwo,10,7
+115,wtorek,19,Herbata,gorący_napój,5,7
+116,wtorek,19,Pizza Margherita,danie_główne,28,7
+116,wtorek,19,Kawa espresso,gorący_napój,6,7
+117,wtorek,19,Pizza Margherita,danie_główne,28,11
+117,wtorek,19,Żywiec 0.5L,piwo,8,11
+117,wtorek,19,Cola 0.33L,zimny_napój,7,11
+117,wtorek,19,Żywiec 0.5L,piwo,8,11
+118,wtorek,19,Spaghetti Carbonara,danie_główne,26,10
+118,wtorek,19,Cola 0.33L,zimny_napój,7,10
+119,wtorek,19,Risotto,danie_główne,32,8
+120,wtorek,19,Spaghetti Carbonara,danie_główne,26,7
+120,wtorek,19,Heineken 0.33L,piwo,10,7
+121,wtorek,19,Spaghetti Carbonara,danie_główne,26,4
+121,wtorek,19,Cola 0.33L,zimny_napój,7,4
+122,wtorek,19,Spaghetti Carbonara,danie_główne,26,5
+122,wtorek,19,Woda mineralna,zimny_napój,5,5
+123,wtorek,19,Pizza Margherita,danie_główne,28,7
+123,wtorek,19,Żywiec 0.5L,piwo,8,7
+124,wtorek,19,Burger Classic,danie_główne,24,3
+124,wtorek,19,Kawa espresso,gorący_napój,6,3
+125,wtorek,19,Kotlet schabowy,danie_główne,30,2
+125,wtorek,19,Sok pomarańczowy,zimny_napój,8,2
+126,wtorek,19,Ryba z grilla,danie_główne,35,14
+126,wtorek,19,Woda mineralna,zimny_napój,5,14
+126,wtorek,19,Kawa espresso,gorący_napój,6,14
+127,wtorek,19,Quesadilla,danie_główne,20,10
+127,wtorek,19,Kawa espresso,gorący_napój,6,10
+128,wtorek,19,Sałatka Caesar,danie_główne,22,10
+128,wtorek,19,Cola 0.33L,zimny_napój,7,10
+129,wtorek,19,Pizza Margherita,danie_główne,28,6
+130,wtorek,19,Zupa dnia,danie_główne,16,9
+130,wtorek,19,Cola 0.33L,zimny_napój,7,9
+131,wtorek,19,Pizza Margherita,danie_główne,28,9
+131,wtorek,19,Heineken 0.33L,piwo,10,9
+132,wtorek,19,Pizza Margherita,danie_główne,28,6
+132,wtorek,19,Żywiec 0.5L,piwo,8,6
+132,wtorek,19,Kotlet schabowy,danie_główne,30,6
+132,wtorek,19,Herbata,gorący_napój,5,6
+132,wtorek,19,Cola 0.33L,zimny_napój,7,6
+133,wtorek,19,Ryba z grilla,danie_główne,35,8
+133,wtorek,19,Craft IPA 0.33L,piwo,14,8
+134,wtorek,19,Risotto,danie_główne,32,5
+134,wtorek,19,Żywiec 0.5L,piwo,8,5
+135,wtorek,19,Ryba z grilla,danie_główne,35,11
+135,wtorek,19,Heineken 0.33L,piwo,10,11
+136,wtorek,19,Sałatka Caesar,danie_główne,22,7
+136,wtorek,19,Sok pomarańczowy,zimny_napój,8,7
+136,wtorek,19,Sok pomarańczowy,zimny_napój,8,7
+136,wtorek,19,Craft IPA 0.33L,piwo,14,7
+137,wtorek,19,Wrap z kurczakiem,danie_główne,18,12
+137,wtorek,19,Cola 0.33L,zimny_napój,7,12
+138,wtorek,19,Burger Classic,danie_główne,24,8
+138,wtorek,19,Kawa espresso,gorący_napój,6,8
+138,wtorek,19,Risotto,danie_główne,32,8
+139,wtorek,19,Zupa dnia,danie_główne,16,13
+139,wtorek,19,Craft IPA 0.33L,piwo,14,13
+140,wtorek,19,Risotto,danie_główne,32,14
+140,wtorek,19,Pizza Margherita,danie_główne,28,14
+140,wtorek,19,Cola 0.33L,zimny_napój,7,14
+141,wtorek,19,Risotto,danie_główne,32,9
+141,wtorek,19,Żywiec 0.5L,piwo,8,9
+142,wtorek,19,Sałatka Caesar,danie_główne,22,7
+142,wtorek,19,Sok pomarańczowy,zimny_napój,8,7
+143,wtorek,19,Spaghetti Carbonara,danie_główne,26,8
+143,wtorek,19,Żywiec 0.5L,piwo,8,8
+144,wtorek,19,Spaghetti Carbonara,danie_główne,26,4
+144,wtorek,19,Burger Classic,danie_główne,24,4
+145,wtorek,19,Burger Classic,danie_główne,24,8
+145,wtorek,19,Cola 0.33L,zimny_napój,7,8
+145,wtorek,19,Sok pomarańczowy,zimny_napój,8,8
+146,wtorek,19,Wrap z kurczakiem,danie_główne,18,8
+146,wtorek,19,Cola 0.33L,zimny_napój,7,8
+147,wtorek,19,Risotto,danie_główne,32,4
+147,wtorek,19,Craft IPA 0.33L,piwo,14,4
+147,wtorek,19,Wrap z kurczakiem,danie_główne,18,4
+148,wtorek,20,Spaghetti Carbonara,danie_główne,26,7
+149,wtorek,20,Ryba z grilla,danie_główne,35,5
+149,wtorek,20,Żywiec 0.5L,piwo,8,5
+149,wtorek,20,Kawa espresso,gorący_napój,6,5
+150,wtorek,20,Spaghetti Carbonara,danie_główne,26,8
+150,wtorek,20,Craft IPA 0.33L,piwo,14,8
+151,wtorek,20,Pizza Margherita,danie_główne,28,9
+151,wtorek,20,Pizza Margherita,danie_główne,28,9
+151,wtorek,20,Cola 0.33L,zimny_napój,7,9
+152,wtorek,20,Zupa dnia,danie_główne,16,12
+152,wtorek,20,Craft IPA 0.33L,piwo,14,12
+153,wtorek,20,Burger Classic,danie_główne,24,5
+153,wtorek,20,Żywiec 0.5L,piwo,8,5
+154,wtorek,20,Kotlet schabowy,danie_główne,30,8
+154,wtorek,20,Kawa espresso,gorący_napój,6,8
+154,wtorek,20,Sok pomarańczowy,zimny_napój,8,8
+155,wtorek,20,Sałatka Caesar,danie_główne,22,11
+155,wtorek,20,Pizza Margherita,danie_główne,28,11
+155,wtorek,20,Żywiec 0.5L,piwo,8,11
+155,wtorek,20,Craft IPA 0.33L,piwo,14,11
+156,wtorek,20,Spaghetti Carbonara,danie_główne,26,9
+156,wtorek,20,Sok pomarańczowy,zimny_napój,8,9
+157,wtorek,20,Zupa dnia,danie_główne,16,6
+157,wtorek,20,Kawa espresso,gorący_napój,6,6
+157,wtorek,20,Kawa espresso,gorący_napój,6,6
+158,wtorek,20,Ryba z grilla,danie_główne,35,8
+158,wtorek,20,Craft IPA 0.33L,piwo,14,8
+158,wtorek,20,Burger Classic,danie_główne,24,8
+159,wtorek,20,Pizza Margherita,danie_główne,28,7
+159,wtorek,20,Craft IPA 0.33L,piwo,14,7
+160,wtorek,20,Pizza Margherita,danie_główne,28,10
+160,wtorek,20,Cola 0.33L,zimny_napój,7,10
+161,wtorek,20,Sałatka Caesar,danie_główne,22,4
+161,wtorek,20,Heineken 0.33L,piwo,10,4
+162,wtorek,20,Spaghetti Carbonara,danie_główne,26,10
+162,wtorek,20,Żywiec 0.5L,piwo,8,10
+162,wtorek,20,Cola 0.33L,zimny_napój,7,10
+162,wtorek,20,Herbata,gorący_napój,5,10
+163,wtorek,20,Spaghetti Carbonara,danie_główne,26,13
+163,wtorek,20,Craft IPA 0.33L,piwo,14,13
+164,wtorek,20,Kotlet schabowy,danie_główne,30,8
+164,wtorek,20,Sok pomarańczowy,zimny_napój,8,8
+165,wtorek,20,Ryba z grilla,danie_główne,35,7
+165,wtorek,20,Kawa espresso,gorący_napój,6,7
+166,wtorek,20,Pizza Margherita,danie_główne,28,7
+166,wtorek,20,Heineken 0.33L,piwo,10,7
+167,wtorek,20,Spaghetti Carbonara,danie_główne,26,6
+167,wtorek,20,Cola 0.33L,zimny_napój,7,6
+168,wtorek,20,Ryba z grilla,danie_główne,35,7
+168,wtorek,20,Kawa espresso,gorący_napój,6,7
+169,wtorek,20,Ryba z grilla,danie_główne,35,9
+170,wtorek,20,Zupa dnia,danie_główne,16,8
+170,wtorek,20,Kotlet schabowy,danie_główne,30,8
+171,wtorek,20,Wrap z kurczakiem,danie_główne,18,6
+171,wtorek,20,Cola 0.33L,zimny_napój,7,6
+172,wtorek,20,Risotto,danie_główne,32,10
+172,wtorek,20,Craft IPA 0.33L,piwo,14,10
+173,wtorek,20,Sałatka Caesar,danie_główne,22,6
+173,wtorek,20,Heineken 0.33L,piwo,10,6
+174,wtorek,20,Wrap z kurczakiem,danie_główne,18,8
+174,wtorek,20,Wrap z kurczakiem,danie_główne,18,8
+174,wtorek,20,Zupa dnia,danie_główne,16,8
+175,wtorek,20,Burger Classic,danie_główne,24,9
+175,wtorek,20,Heineken 0.33L,piwo,10,9
+176,wtorek,20,Sałatka Caesar,danie_główne,22,7
+176,wtorek,20,Żywiec 0.5L,piwo,8,7
+177,wtorek,20,Pizza Margherita,danie_główne,28,9
+177,wtorek,20,Kawa espresso,gorący_napój,6,9
+178,wtorek,20,Zupa dnia,danie_główne,16,7
+178,wtorek,20,Cola 0.33L,zimny_napój,7,7
+179,wtorek,20,Pizza Margherita,danie_główne,28,16
+179,wtorek,20,Kawa espresso,gorący_napój,6,16
+180,wtorek,20,Pizza Margherita,danie_główne,28,4
+180,wtorek,20,Kawa espresso,gorący_napój,6,4
+180,wtorek,20,Burger Classic,danie_główne,24,4
+180,wtorek,20,Ryba z grilla,danie_główne,35,4
+181,wtorek,20,Sałatka Caesar,danie_główne,22,8
+181,wtorek,20,Sok pomarańczowy,zimny_napój,8,8
+182,wtorek,20,Wrap z kurczakiem,danie_główne,18,8
+182,wtorek,20,Woda mineralna,zimny_napój,5,8
+183,wtorek,20,Wrap z kurczakiem,danie_główne,18,10
+183,wtorek,20,Sok pomarańczowy,zimny_napój,8,10
+184,wtorek,20,Quesadilla,danie_główne,20,6
+184,wtorek,20,Woda mineralna,zimny_napój,5,6
+185,wtorek,20,Zupa dnia,danie_główne,16,5
+185,wtorek,20,Craft IPA 0.33L,piwo,14,5
+186,wtorek,20,Risotto,danie_główne,32,7
+186,wtorek,20,Kawa espresso,gorący_napój,6,7
+187,wtorek,20,Pizza Margherita,danie_główne,28,6
+187,wtorek,20,Żywiec 0.5L,piwo,8,6
+188,wtorek,20,Ryba z grilla,danie_główne,35,8
+188,wtorek,20,Woda mineralna,zimny_napój,5,8
+189,wtorek,20,Quesadilla,danie_główne,20,8
+189,wtorek,20,Cola 0.33L,zimny_napój,7,8
+189,wtorek,20,Cola 0.33L,zimny_napój,7,8
+190,wtorek,20,Sałatka Caesar,danie_główne,22,10
+190,wtorek,20,Żywiec 0.5L,piwo,8,10
+190,wtorek,20,Craft IPA 0.33L,piwo,14,10
+191,wtorek,20,Burger Classic,danie_główne,24,11
+192,wtorek,21,Pizza Margherita,danie_główne,28,7
+192,wtorek,21,Heineken 0.33L,piwo,10,7
+192,wtorek,21,Craft IPA 0.33L,piwo,14,7
+192,wtorek,21,Risotto,danie_główne,32,7
+192,wtorek,21,Heineken 0.33L,piwo,10,7
+193,wtorek,21,Kotlet schabowy,danie_główne,30,13
+193,wtorek,21,Woda mineralna,zimny_napój,5,13
+194,wtorek,21,Kotlet schabowy,danie_główne,30,2
+195,wtorek,21,Zupa dnia,danie_główne,16,6
+195,wtorek,21,Craft IPA 0.33L,piwo,14,6
+196,wtorek,21,Kotlet schabowy,danie_główne,30,11
+196,wtorek,21,Żywiec 0.5L,piwo,8,11
+197,wtorek,21,Pizza Margherita,danie_główne,28,7
+197,wtorek,21,Cola 0.33L,zimny_napój,7,7
+198,wtorek,21,Risotto,danie_główne,32,11
+198,wtorek,21,Sok pomarańczowy,zimny_napój,8,11
+199,wtorek,21,Burger Classic,danie_główne,24,4
+199,wtorek,21,Kawa espresso,gorący_napój,6,4
+200,wtorek,21,Pizza Margherita,danie_główne,28,7
+200,wtorek,21,Cola 0.33L,zimny_napój,7,7
+201,wtorek,21,Risotto,danie_główne,32,6
+202,wtorek,21,Spaghetti Carbonara,danie_główne,26,11
+202,wtorek,21,Żywiec 0.5L,piwo,8,11
+203,wtorek,21,Wrap z kurczakiem,danie_główne,18,8
+203,wtorek,21,Żywiec 0.5L,piwo,8,8
+203,wtorek,21,Craft IPA 0.33L,piwo,14,8
+204,wtorek,21,Wrap z kurczakiem,danie_główne,18,10
+204,wtorek,21,Cola 0.33L,zimny_napój,7,10
+205,wtorek,21,Kotlet schabowy,danie_główne,30,8
+205,wtorek,21,Craft IPA 0.33L,piwo,14,8
+205,wtorek,21,Kawa espresso,gorący_napój,6,8
+206,wtorek,21,Pizza Margherita,danie_główne,28,10
+206,wtorek,21,Żywiec 0.5L,piwo,8,10
+207,wtorek,21,Kotlet schabowy,danie_główne,30,7
+207,wtorek,21,Heineken 0.33L,piwo,10,7
+207,wtorek,21,Herbata,gorący_napój,5,7
+208,wtorek,21,Kotlet schabowy,danie_główne,30,9
+208,wtorek,21,Heineken 0.33L,piwo,10,9
+209,wtorek,21,Spaghetti Carbonara,danie_główne,26,13
+209,wtorek,21,Żywiec 0.5L,piwo,8,13
+210,wtorek,21,Spaghetti Carbonara,danie_główne,26,8
+210,wtorek,21,Woda mineralna,zimny_napój,5,8
+211,wtorek,21,Kotlet schabowy,danie_główne,30,9
+211,wtorek,21,Sok pomarańczowy,zimny_napój,8,9
+211,wtorek,21,Kawa espresso,gorący_napój,6,9
+212,wtorek,21,Pizza Margherita,danie_główne,28,9
+212,wtorek,21,Heineken 0.33L,piwo,10,9
+213,wtorek,21,Quesadilla,danie_główne,20,9
+213,wtorek,21,Cola 0.33L,zimny_napój,7,9
+214,wtorek,21,Spaghetti Carbonara,danie_główne,26,2
+214,wtorek,21,Heineken 0.33L,piwo,10,2
+214,wtorek,21,Craft IPA 0.33L,piwo,14,2
+215,wtorek,21,Wrap z kurczakiem,danie_główne,18,10
+215,wtorek,21,Craft IPA 0.33L,piwo,14,10
+215,wtorek,21,Woda mineralna,zimny_napój,5,10
+215,wtorek,21,Craft IPA 0.33L,piwo,14,10
+216,wtorek,21,Kotlet schabowy,danie_główne,30,9
+216,wtorek,21,Heineken 0.33L,piwo,10,9
+216,wtorek,21,Żywiec 0.5L,piwo,8,9
+216,wtorek,21,Quesadilla,danie_główne,20,9
+217,wtorek,21,Pizza Margherita,danie_główne,28,6
+217,wtorek,21,Heineken 0.33L,piwo,10,6
+217,wtorek,21,Cola 0.33L,zimny_napój,7,6
+218,wtorek,21,Pizza Margherita,danie_główne,28,9
+218,wtorek,21,Heineken 0.33L,piwo,10,9
+219,wtorek,21,Burger Classic,danie_główne,24,2
+220,wtorek,21,Spaghetti Carbonara,danie_główne,26,7
+220,wtorek,21,Wrap z kurczakiem,danie_główne,18,7
+220,wtorek,21,Woda mineralna,zimny_napój,5,7
+221,środa,13,Kotlet schabowy,danie_główne,30,7
+221,środa,13,Woda mineralna,zimny_napój,5,7
+222,środa,13,Pizza Margherita,danie_główne,28,11
+222,środa,13,Craft IPA 0.33L,piwo,14,11
+223,środa,13,Wrap z kurczakiem,danie_główne,18,12
+224,środa,13,Quesadilla,danie_główne,20,9
+224,środa,13,Herbata,gorący_napój,5,9
+225,środa,13,Quesadilla,danie_główne,20,9
+225,środa,13,Kawa espresso,gorący_napój,6,9
+226,środa,13,Zupa dnia,danie_główne,16,9
+226,środa,13,Kawa espresso,gorący_napój,6,9
+226,środa,13,Żywiec 0.5L,piwo,8,9
+226,środa,13,Żywiec 0.5L,piwo,8,9
+227,środa,13,Kotlet schabowy,danie_główne,30,10
+227,środa,13,Żywiec 0.5L,piwo,8,10
+227,środa,13,Craft IPA 0.33L,piwo,14,10
+228,środa,13,Wrap z kurczakiem,danie_główne,18,6
+228,środa,13,Żywiec 0.5L,piwo,8,6
+228,środa,13,Żywiec 0.5L,piwo,8,6
+229,środa,13,Kotlet schabowy,danie_główne,30,3
+229,środa,13,Heineken 0.33L,piwo,10,3
+229,środa,13,Sok pomarańczowy,zimny_napój,8,3
+230,środa,13,Pizza Margherita,danie_główne,28,11
+230,środa,13,Kawa espresso,gorący_napój,6,11
+231,środa,13,Zupa dnia,danie_główne,16,9
+231,środa,13,Kawa espresso,gorący_napój,6,9
+232,środa,14,Ryba z grilla,danie_główne,35,11
+232,środa,14,Heineken 0.33L,piwo,10,11
+233,środa,14,Wrap z kurczakiem,danie_główne,18,5
+233,środa,14,Cola 0.33L,zimny_napój,7,5
+234,środa,14,Kotlet schabowy,danie_główne,30,0
+234,środa,14,Heineken 0.33L,piwo,10,0
+235,środa,14,Sałatka Caesar,danie_główne,22,4
+235,środa,14,Żywiec 0.5L,piwo,8,4
+236,środa,14,Pizza Margherita,danie_główne,28,7
+236,środa,14,Sałatka Caesar,danie_główne,22,7
+237,środa,14,Quesadilla,danie_główne,20,7
+237,środa,14,Heineken 0.33L,piwo,10,7
+238,środa,14,Quesadilla,danie_główne,20,13
+238,środa,14,Heineken 0.33L,piwo,10,13
+239,środa,14,Wrap z kurczakiem,danie_główne,18,9
+239,środa,14,Cola 0.33L,zimny_napój,7,9
+240,środa,14,Zupa dnia,danie_główne,16,4
+240,środa,14,Sok pomarańczowy,zimny_napój,8,4
+241,środa,14,Burger Classic,danie_główne,24,1
+241,środa,14,Sok pomarańczowy,zimny_napój,8,1
+242,środa,14,Pizza Margherita,danie_główne,28,7
+242,środa,14,Herbata,gorący_napój,5,7
+243,środa,14,Kotlet schabowy,danie_główne,30,8
+244,środa,14,Burger Classic,danie_główne,24,4
+244,środa,14,Cola 0.33L,zimny_napój,7,4
+245,środa,14,Spaghetti Carbonara,danie_główne,26,8
+246,środa,14,Pizza Margherita,danie_główne,28,9
+246,środa,14,Heineken 0.33L,piwo,10,9
+247,środa,14,Sałatka Caesar,danie_główne,22,7
+247,środa,14,Woda mineralna,zimny_napój,5,7
+247,środa,14,Żywiec 0.5L,piwo,8,7
+248,środa,14,Zupa dnia,danie_główne,16,8
+248,środa,14,Żywiec 0.5L,piwo,8,8
+249,środa,14,Spaghetti Carbonara,danie_główne,26,6
+249,środa,14,Craft IPA 0.33L,piwo,14,6
+250,środa,15,Risotto,danie_główne,32,0
+250,środa,15,Craft IPA 0.33L,piwo,14,0
+251,środa,15,Quesadilla,danie_główne,20,10
+251,środa,15,Kawa espresso,gorący_napój,6,10
+251,środa,15,Heineken 0.33L,piwo,10,10
+252,środa,15,Kotlet schabowy,danie_główne,30,14
+252,środa,15,Craft IPA 0.33L,piwo,14,14
+253,środa,15,Quesadilla,danie_główne,20,9
+253,środa,15,Risotto,danie_główne,32,9
+253,środa,15,Spaghetti Carbonara,danie_główne,26,9
+254,środa,15,Wrap z kurczakiem,danie_główne,18,6
+254,środa,15,Żywiec 0.5L,piwo,8,6
+255,środa,15,Burger Classic,danie_główne,24,6
+255,środa,15,Żywiec 0.5L,piwo,8,6
+256,środa,15,Zupa dnia,danie_główne,16,7
+256,środa,15,Żywiec 0.5L,piwo,8,7
+256,środa,15,Cola 0.33L,zimny_napój,7,7
+257,środa,15,Quesadilla,danie_główne,20,8
+257,środa,15,Craft IPA 0.33L,piwo,14,8
+258,środa,16,Burger Classic,danie_główne,24,9
+258,środa,16,Craft IPA 0.33L,piwo,14,9
+259,środa,16,Burger Classic,danie_główne,24,12
+259,środa,16,Żywiec 0.5L,piwo,8,12
+259,środa,16,Kawa espresso,gorący_napój,6,12
+260,środa,16,Pizza Margherita,danie_główne,28,11
+260,środa,16,Żywiec 0.5L,piwo,8,11
+260,środa,16,Spaghetti Carbonara,danie_główne,26,11
+261,środa,16,Sałatka Caesar,danie_główne,22,6
+261,środa,16,Ryba z grilla,danie_główne,35,6
+262,środa,16,Spaghetti Carbonara,danie_główne,26,13
+262,środa,16,Herbata,gorący_napój,5,13
+263,środa,16,Pizza Margherita,danie_główne,28,10
+263,środa,16,Sok pomarańczowy,zimny_napój,8,10
+263,środa,16,Heineken 0.33L,piwo,10,10
+264,środa,16,Quesadilla,danie_główne,20,6
+264,środa,16,Cola 0.33L,zimny_napój,7,6
+264,środa,16,Żywiec 0.5L,piwo,8,6
+265,środa,16,Quesadilla,danie_główne,20,6
+265,środa,16,Żywiec 0.5L,piwo,8,6
+266,środa,16,Quesadilla,danie_główne,20,1
+266,środa,16,Herbata,gorący_napój,5,1
+267,środa,16,Risotto,danie_główne,32,4
+268,środa,17,Pizza Margherita,danie_główne,28,11
+268,środa,17,Woda mineralna,zimny_napój,5,11
+268,środa,17,Zupa dnia,danie_główne,16,11
+269,środa,17,Zupa dnia,danie_główne,16,1
+269,środa,17,Herbata,gorący_napój,5,1
+270,środa,17,Kotlet schabowy,danie_główne,30,8
+271,środa,17,Quesadilla,danie_główne,20,12
+271,środa,17,Craft IPA 0.33L,piwo,14,12
+272,środa,17,Kotlet schabowy,danie_główne,30,9
+272,środa,17,Cola 0.33L,zimny_napój,7,9
+273,środa,17,Wrap z kurczakiem,danie_główne,18,5
+273,środa,17,Herbata,gorący_napój,5,5
+274,środa,17,Wrap z kurczakiem,danie_główne,18,9
+274,środa,17,Cola 0.33L,zimny_napój,7,9
+275,środa,17,Quesadilla,danie_główne,20,3
+275,środa,17,Kawa espresso,gorący_napój,6,3
+276,środa,17,Zupa dnia,danie_główne,16,11
+276,środa,17,Kawa espresso,gorący_napój,6,11
+277,środa,17,Pizza Margherita,danie_główne,28,12
+277,środa,17,Cola 0.33L,zimny_napój,7,12
+277,środa,17,Kotlet schabowy,danie_główne,30,12
+278,środa,17,Risotto,danie_główne,32,9
+279,środa,17,Pizza Margherita,danie_główne,28,9
+279,środa,17,Heineken 0.33L,piwo,10,9
+279,środa,17,Herbata,gorący_napój,5,9
+280,środa,17,Zupa dnia,danie_główne,16,5
+280,środa,17,Żywiec 0.5L,piwo,8,5
+281,środa,17,Zupa dnia,danie_główne,16,14
+281,środa,17,Sok pomarańczowy,zimny_napój,8,14
+282,środa,17,Burger Classic,danie_główne,24,6
+282,środa,17,Craft IPA 0.33L,piwo,14,6
+283,środa,17,Pizza Margherita,danie_główne,28,8
+283,środa,17,Craft IPA 0.33L,piwo,14,8
+284,środa,17,Burger Classic,danie_główne,24,11
+284,środa,17,Kawa espresso,gorący_napój,6,11
+285,środa,17,Wrap z kurczakiem,danie_główne,18,11
+286,środa,17,Kotlet schabowy,danie_główne,30,7
+286,środa,17,Ryba z grilla,danie_główne,35,7
+286,środa,17,Ryba z grilla,danie_główne,35,7
+287,środa,17,Spaghetti Carbonara,danie_główne,26,7
+287,środa,17,Sok pomarańczowy,zimny_napój,8,7
+288,środa,17,Pizza Margherita,danie_główne,28,10
+288,środa,17,Cola 0.33L,zimny_napój,7,10
+289,środa,17,Quesadilla,danie_główne,20,9
+289,środa,17,Żywiec 0.5L,piwo,8,9
+290,środa,17,Zupa dnia,danie_główne,16,6
+290,środa,17,Craft IPA 0.33L,piwo,14,6
+291,środa,17,Kotlet schabowy,danie_główne,30,15
+291,środa,17,Heineken 0.33L,piwo,10,15
+292,środa,17,Zupa dnia,danie_główne,16,6
+292,środa,17,Sok pomarańczowy,zimny_napój,8,6
+293,środa,17,Sałatka Caesar,danie_główne,22,16
+293,środa,17,Heineken 0.33L,piwo,10,16
+294,środa,17,Kotlet schabowy,danie_główne,30,4
+294,środa,17,Sałatka Caesar,danie_główne,22,4
+294,środa,17,Woda mineralna,zimny_napój,5,4
+295,środa,17,Zupa dnia,danie_główne,16,8
+295,środa,17,Żywiec 0.5L,piwo,8,8
+296,środa,18,Sałatka Caesar,danie_główne,22,9
+296,środa,18,Heineken 0.33L,piwo,10,9
+296,środa,18,Sałatka Caesar,danie_główne,22,9
+297,środa,18,Pizza Margherita,danie_główne,28,9
+298,środa,18,Pizza Margherita,danie_główne,28,8
+298,środa,18,Sok pomarańczowy,zimny_napój,8,8
+299,środa,18,Ryba z grilla,danie_główne,35,7
+299,środa,18,Kawa espresso,gorący_napój,6,7
+300,środa,18,Burger Classic,danie_główne,24,2
+300,środa,18,Craft IPA 0.33L,piwo,14,2
+300,środa,18,Woda mineralna,zimny_napój,5,2
+301,środa,18,Burger Classic,danie_główne,24,9
+302,środa,18,Wrap z kurczakiem,danie_główne,18,5
+302,środa,18,Heineken 0.33L,piwo,10,5
+302,środa,18,Herbata,gorący_napój,5,5
+302,środa,18,Woda mineralna,zimny_napój,5,5
+302,środa,18,Craft IPA 0.33L,piwo,14,5
+303,środa,18,Burger Classic,danie_główne,24,9
+303,środa,18,Kawa espresso,gorący_napój,6,9
+303,środa,18,Sok pomarańczowy,zimny_napój,8,9
+304,środa,18,Spaghetti Carbonara,danie_główne,26,8
+304,środa,18,Żywiec 0.5L,piwo,8,8
+305,środa,18,Sałatka Caesar,danie_główne,22,9
+305,środa,18,Sok pomarańczowy,zimny_napój,8,9
+305,środa,18,Żywiec 0.5L,piwo,8,9
+306,środa,18,Pizza Margherita,danie_główne,28,7
+306,środa,18,Heineken 0.33L,piwo,10,7
+307,środa,18,Kotlet schabowy,danie_główne,30,5
+307,środa,18,Sok pomarańczowy,zimny_napój,8,5
+308,środa,18,Risotto,danie_główne,32,6
+308,środa,18,Craft IPA 0.33L,piwo,14,6
+308,środa,18,Żywiec 0.5L,piwo,8,6
+309,środa,18,Wrap z kurczakiem,danie_główne,18,10
+309,środa,18,Sok pomarańczowy,zimny_napój,8,10
+310,środa,18,Burger Classic,danie_główne,24,12
+310,środa,18,Żywiec 0.5L,piwo,8,12
+311,środa,18,Sałatka Caesar,danie_główne,22,5
+311,środa,18,Sok pomarańczowy,zimny_napój,8,5
+312,środa,18,Zupa dnia,danie_główne,16,7
+312,środa,18,Cola 0.33L,zimny_napój,7,7
+312,środa,18,Cola 0.33L,zimny_napój,7,7
+313,środa,18,Sałatka Caesar,danie_główne,22,11
+313,środa,18,Woda mineralna,zimny_napój,5,11
+314,środa,18,Wrap z kurczakiem,danie_główne,18,8
+314,środa,18,Herbata,gorący_napój,5,8
+315,środa,18,Risotto,danie_główne,32,11
+315,środa,18,Woda mineralna,zimny_napój,5,11
+315,środa,18,Craft IPA 0.33L,piwo,14,11
+315,środa,18,Sok pomarańczowy,zimny_napój,8,11
+316,środa,18,Pizza Margherita,danie_główne,28,11
+316,środa,18,Quesadilla,danie_główne,20,11
+317,środa,18,Wrap z kurczakiem,danie_główne,18,11
+317,środa,18,Heineken 0.33L,piwo,10,11
+318,środa,18,Sałatka Caesar,danie_główne,22,5
+319,środa,18,Risotto,danie_główne,32,5
+319,środa,18,Cola 0.33L,zimny_napój,7,5
+320,środa,18,Wrap z kurczakiem,danie_główne,18,7
+320,środa,18,Woda mineralna,zimny_napój,5,7
+321,środa,18,Spaghetti Carbonara,danie_główne,26,9
+321,środa,18,Woda mineralna,zimny_napój,5,9
+322,środa,18,Kotlet schabowy,danie_główne,30,6
+322,środa,18,Craft IPA 0.33L,piwo,14,6
+322,środa,18,Herbata,gorący_napój,5,6
+323,środa,18,Pizza Margherita,danie_główne,28,6
+323,środa,18,Kawa espresso,gorący_napój,6,6
+324,środa,18,Pizza Margherita,danie_główne,28,7
+325,środa,18,Burger Classic,danie_główne,24,13
+325,środa,18,Żywiec 0.5L,piwo,8,13
+326,środa,18,Pizza Margherita,danie_główne,28,13
+326,środa,18,Żywiec 0.5L,piwo,8,13
+327,środa,18,Quesadilla,danie_główne,20,7
+327,środa,18,Żywiec 0.5L,piwo,8,7
+328,środa,18,Kotlet schabowy,danie_główne,30,6
+328,środa,18,Żywiec 0.5L,piwo,8,6
+329,środa,18,Wrap z kurczakiem,danie_główne,18,6
+329,środa,18,Woda mineralna,zimny_napój,5,6
+329,środa,18,Sok pomarańczowy,zimny_napój,8,6
+330,środa,18,Sałatka Caesar,danie_główne,22,9
+330,środa,18,Kawa espresso,gorący_napój,6,9
+331,środa,18,Pizza Margherita,danie_główne,28,8
+331,środa,18,Heineken 0.33L,piwo,10,8
+331,środa,18,Spaghetti Carbonara,danie_główne,26,8
+331,środa,18,Kawa espresso,gorący_napój,6,8
+332,środa,18,Kotlet schabowy,danie_główne,30,10
+332,środa,18,Kawa espresso,gorący_napój,6,10
+333,środa,18,Wrap z kurczakiem,danie_główne,18,8
+333,środa,18,Kawa espresso,gorący_napój,6,8
+334,środa,18,Burger Classic,danie_główne,24,9
+334,środa,18,Herbata,gorący_napój,5,9
+335,środa,19,Burger Classic,danie_główne,24,9
+335,środa,19,Żywiec 0.5L,piwo,8,9
+335,środa,19,Żywiec 0.5L,piwo,8,9
+335,środa,19,Heineken 0.33L,piwo,10,9
+336,środa,19,Zupa dnia,danie_główne,16,4
+336,środa,19,Heineken 0.33L,piwo,10,4
+337,środa,19,Burger Classic,danie_główne,24,5
+337,środa,19,Herbata,gorący_napój,5,5
+338,środa,19,Pizza Margherita,danie_główne,28,10
+338,środa,19,Cola 0.33L,zimny_napój,7,10
+339,środa,19,Zupa dnia,danie_główne,16,4
+339,środa,19,Herbata,gorący_napój,5,4
+340,środa,19,Kotlet schabowy,danie_główne,30,7
+340,środa,19,Heineken 0.33L,piwo,10,7
+341,środa,19,Wrap z kurczakiem,danie_główne,18,7
+341,środa,19,Cola 0.33L,zimny_napój,7,7
+342,środa,19,Burger Classic,danie_główne,24,8
+343,środa,19,Spaghetti Carbonara,danie_główne,26,2
+344,środa,19,Pizza Margherita,danie_główne,28,8
+344,środa,19,Żywiec 0.5L,piwo,8,8
+345,środa,19,Kotlet schabowy,danie_główne,30,10
+345,środa,19,Kawa espresso,gorący_napój,6,10
+345,środa,19,Woda mineralna,zimny_napój,5,10
+346,środa,19,Zupa dnia,danie_główne,16,11
+346,środa,19,Herbata,gorący_napój,5,11
+347,środa,19,Wrap z kurczakiem,danie_główne,18,3
+347,środa,19,Herbata,gorący_napój,5,3
+348,środa,19,Zupa dnia,danie_główne,16,12
+348,środa,19,Woda mineralna,zimny_napój,5,12
+349,środa,19,Burger Classic,danie_główne,24,9
+349,środa,19,Kawa espresso,gorący_napój,6,9
+350,środa,19,Spaghetti Carbonara,danie_główne,26,8
+350,środa,19,Heineken 0.33L,piwo,10,8
+351,środa,19,Sałatka Caesar,danie_główne,22,8
+351,środa,19,Żywiec 0.5L,piwo,8,8
+351,środa,19,Żywiec 0.5L,piwo,8,8
+352,środa,19,Kotlet schabowy,danie_główne,30,9
+353,środa,19,Wrap z kurczakiem,danie_główne,18,9
+353,środa,19,Woda mineralna,zimny_napój,5,9
+354,środa,19,Kotlet schabowy,danie_główne,30,9
+354,środa,19,Cola 0.33L,zimny_napój,7,9
+355,środa,19,Wrap z kurczakiem,danie_główne,18,9
+355,środa,19,Żywiec 0.5L,piwo,8,9
+356,środa,19,Kotlet schabowy,danie_główne,30,7
+356,środa,19,Woda mineralna,zimny_napój,5,7
+357,środa,19,Ryba z grilla,danie_główne,35,5
+357,środa,19,Żywiec 0.5L,piwo,8,5
+358,środa,19,Spaghetti Carbonara,danie_główne,26,10
+358,środa,19,Kawa espresso,gorący_napój,6,10
+359,środa,19,Pizza Margherita,danie_główne,28,10
+359,środa,19,Craft IPA 0.33L,piwo,14,10
+360,środa,19,Wrap z kurczakiem,danie_główne,18,16
+360,środa,19,Kawa espresso,gorący_napój,6,16
+361,środa,19,Spaghetti Carbonara,danie_główne,26,9
+361,środa,19,Kawa espresso,gorący_napój,6,9
+361,środa,19,Żywiec 0.5L,piwo,8,9
+362,środa,19,Pizza Margherita,danie_główne,28,7
+362,środa,19,Żywiec 0.5L,piwo,8,7
+363,środa,19,Pizza Margherita,danie_główne,28,3
+363,środa,19,Craft IPA 0.33L,piwo,14,3
+364,środa,19,Spaghetti Carbonara,danie_główne,26,10
+364,środa,19,Kawa espresso,gorący_napój,6,10
+365,środa,19,Spaghetti Carbonara,danie_główne,26,9
+365,środa,19,Żywiec 0.5L,piwo,8,9
+366,środa,19,Ryba z grilla,danie_główne,35,7
+367,środa,19,Zupa dnia,danie_główne,16,10
+367,środa,19,Żywiec 0.5L,piwo,8,10
+368,środa,19,Risotto,danie_główne,32,10
+368,środa,19,Herbata,gorący_napój,5,10
+369,środa,19,Wrap z kurczakiem,danie_główne,18,13
+369,środa,19,Heineken 0.33L,piwo,10,13
+370,środa,19,Zupa dnia,danie_główne,16,6
+370,środa,19,Heineken 0.33L,piwo,10,6
+371,środa,19,Kotlet schabowy,danie_główne,30,6
+371,środa,19,Herbata,gorący_napój,5,6
+372,środa,19,Kotlet schabowy,danie_główne,30,15
+372,środa,19,Kawa espresso,gorący_napój,6,15
+373,środa,19,Burger Classic,danie_główne,24,13
+373,środa,19,Cola 0.33L,zimny_napój,7,13
+374,środa,19,Risotto,danie_główne,32,8
+375,środa,19,Wrap z kurczakiem,danie_główne,18,6
+376,środa,19,Spaghetti Carbonara,danie_główne,26,3
+376,środa,19,Cola 0.33L,zimny_napój,7,3
+377,środa,19,Zupa dnia,danie_główne,16,5
+378,środa,19,Sałatka Caesar,danie_główne,22,4
+378,środa,19,Sok pomarańczowy,zimny_napój,8,4
+379,środa,19,Kotlet schabowy,danie_główne,30,1
+379,środa,19,Craft IPA 0.33L,piwo,14,1
+380,środa,19,Burger Classic,danie_główne,24,9
+381,środa,19,Zupa dnia,danie_główne,16,7
+381,środa,19,Heineken 0.33L,piwo,10,7
+382,środa,19,Spaghetti Carbonara,danie_główne,26,11
+383,środa,19,Burger Classic,danie_główne,24,9
+383,środa,19,Żywiec 0.5L,piwo,8,9
+383,środa,19,Sok pomarańczowy,zimny_napój,8,9
+383,środa,19,Cola 0.33L,zimny_napój,7,9
+384,środa,19,Spaghetti Carbonara,danie_główne,26,12
+384,środa,19,Sok pomarańczowy,zimny_napój,8,12
+384,środa,19,Żywiec 0.5L,piwo,8,12
+385,środa,19,Pizza Margherita,danie_główne,28,6
+385,środa,19,Craft IPA 0.33L,piwo,14,6
+386,środa,19,Pizza Margherita,danie_główne,28,5
+387,środa,19,Sałatka Caesar,danie_główne,22,8
+387,środa,19,Sałatka Caesar,danie_główne,22,8
+388,środa,19,Quesadilla,danie_główne,20,12
+388,środa,19,Kawa espresso,gorący_napój,6,12
+389,środa,20,Zupa dnia,danie_główne,16,9
+389,środa,20,Kawa espresso,gorący_napój,6,9
+390,środa,20,Sałatka Caesar,danie_główne,22,11
+390,środa,20,Żywiec 0.5L,piwo,8,11
+391,środa,20,Pizza Margherita,danie_główne,28,12
+391,środa,20,Craft IPA 0.33L,piwo,14,12
+392,środa,20,Quesadilla,danie_główne,20,7
+392,środa,20,Żywiec 0.5L,piwo,8,7
+393,środa,20,Pizza Margherita,danie_główne,28,5
+393,środa,20,Sok pomarańczowy,zimny_napój,8,5
+393,środa,20,Woda mineralna,zimny_napój,5,5
+393,środa,20,Heineken 0.33L,piwo,10,5
+394,środa,20,Pizza Margherita,danie_główne,28,10
+394,środa,20,Heineken 0.33L,piwo,10,10
+395,środa,20,Risotto,danie_główne,32,12
+395,środa,20,Woda mineralna,zimny_napój,5,12
+395,środa,20,Cola 0.33L,zimny_napój,7,12
+396,środa,20,Wrap z kurczakiem,danie_główne,18,9
+396,środa,20,Kawa espresso,gorący_napój,6,9
+397,środa,20,Burger Classic,danie_główne,24,5
+397,środa,20,Heineken 0.33L,piwo,10,5
+398,środa,20,Burger Classic,danie_główne,24,13
+398,środa,20,Herbata,gorący_napój,5,13
+399,środa,20,Pizza Margherita,danie_główne,28,8
+399,środa,20,Herbata,gorący_napój,5,8
+400,środa,20,Zupa dnia,danie_główne,16,3
+400,środa,20,Sok pomarańczowy,zimny_napój,8,3
+400,środa,20,Woda mineralna,zimny_napój,5,3
+401,środa,20,Zupa dnia,danie_główne,16,10
+401,środa,20,Woda mineralna,zimny_napój,5,10
+402,środa,20,Sałatka Caesar,danie_główne,22,6
+402,środa,20,Heineken 0.33L,piwo,10,6
+403,środa,20,Zupa dnia,danie_główne,16,6
+403,środa,20,Heineken 0.33L,piwo,10,6
+404,środa,20,Kotlet schabowy,danie_główne,30,9
+404,środa,20,Cola 0.33L,zimny_napój,7,9
+405,środa,20,Ryba z grilla,danie_główne,35,11
+405,środa,20,Żywiec 0.5L,piwo,8,11
+405,środa,20,Heineken 0.33L,piwo,10,11
+406,środa,20,Spaghetti Carbonara,danie_główne,26,1
+406,środa,20,Heineken 0.33L,piwo,10,1
+407,środa,20,Spaghetti Carbonara,danie_główne,26,8
+407,środa,20,Cola 0.33L,zimny_napój,7,8
+408,środa,20,Wrap z kurczakiem,danie_główne,18,8
+409,środa,20,Spaghetti Carbonara,danie_główne,26,5
+410,środa,20,Quesadilla,danie_główne,20,11
+410,środa,20,Żywiec 0.5L,piwo,8,11
+410,środa,20,Kawa espresso,gorący_napój,6,11
+411,środa,20,Kotlet schabowy,danie_główne,30,7
+411,środa,20,Kawa espresso,gorący_napój,6,7
+411,środa,20,Sok pomarańczowy,zimny_napój,8,7
+412,środa,20,Quesadilla,danie_główne,20,6
+412,środa,20,Cola 0.33L,zimny_napój,7,6
+412,środa,20,Herbata,gorący_napój,5,6
+412,środa,20,Sok pomarańczowy,zimny_napój,8,6
+413,środa,20,Burger Classic,danie_główne,24,4
+414,środa,20,Kotlet schabowy,danie_główne,30,6
+415,środa,20,Spaghetti Carbonara,danie_główne,26,9
+415,środa,20,Kawa espresso,gorący_napój,6,9
+416,środa,20,Ryba z grilla,danie_główne,35,13
+416,środa,20,Herbata,gorący_napój,5,13
+416,środa,20,Cola 0.33L,zimny_napój,7,13
+417,środa,20,Spaghetti Carbonara,danie_główne,26,12
+417,środa,20,Żywiec 0.5L,piwo,8,12
+417,środa,20,Sok pomarańczowy,zimny_napój,8,12
+418,środa,20,Spaghetti Carbonara,danie_główne,26,10
+418,środa,20,Burger Classic,danie_główne,24,10
+419,środa,20,Kotlet schabowy,danie_główne,30,1
+419,środa,20,Heineken 0.33L,piwo,10,1
+420,środa,20,Pizza Margherita,danie_główne,28,11
+420,środa,20,Żywiec 0.5L,piwo,8,11
+421,środa,20,Ryba z grilla,danie_główne,35,11
+421,środa,20,Kotlet schabowy,danie_główne,30,11
+422,środa,20,Pizza Margherita,danie_główne,28,10
+422,środa,20,Heineken 0.33L,piwo,10,10
+423,środa,20,Zupa dnia,danie_główne,16,3
+423,środa,20,Kotlet schabowy,danie_główne,30,3
+424,środa,21,Pizza Margherita,danie_główne,28,10
+424,środa,21,Woda mineralna,zimny_napój,5,10
+424,środa,21,Cola 0.33L,zimny_napój,7,10
+425,środa,21,Spaghetti Carbonara,danie_główne,26,9
+425,środa,21,Sok pomarańczowy,zimny_napój,8,9
+426,środa,21,Pizza Margherita,danie_główne,28,5
+426,środa,21,Kawa espresso,gorący_napój,6,5
+427,środa,21,Wrap z kurczakiem,danie_główne,18,7
+427,środa,21,Sałatka Caesar,danie_główne,22,7
+428,środa,21,Pizza Margherita,danie_główne,28,3
+428,środa,21,Żywiec 0.5L,piwo,8,3
+428,środa,21,Heineken 0.33L,piwo,10,3
+429,środa,21,Sałatka Caesar,danie_główne,22,12
+429,środa,21,Herbata,gorący_napój,5,12
+429,środa,21,Cola 0.33L,zimny_napój,7,12
+430,środa,21,Risotto,danie_główne,32,9
+430,środa,21,Woda mineralna,zimny_napój,5,9
+430,środa,21,Kawa espresso,gorący_napój,6,9
+431,środa,21,Burger Classic,danie_główne,24,10
+431,środa,21,Żywiec 0.5L,piwo,8,10
+432,środa,21,Ryba z grilla,danie_główne,35,12
+432,środa,21,Heineken 0.33L,piwo,10,12
+432,środa,21,Cola 0.33L,zimny_napój,7,12
+433,środa,21,Zupa dnia,danie_główne,16,8
+433,środa,21,Kawa espresso,gorący_napój,6,8
+434,środa,21,Ryba z grilla,danie_główne,35,10
+434,środa,21,Woda mineralna,zimny_napój,5,10
+434,środa,21,Sałatka Caesar,danie_główne,22,10
+435,środa,21,Wrap z kurczakiem,danie_główne,18,2
+435,środa,21,Cola 0.33L,zimny_napój,7,2
+436,środa,21,Quesadilla,danie_główne,20,8
+437,środa,21,Sałatka Caesar,danie_główne,22,7
+437,środa,21,Craft IPA 0.33L,piwo,14,7
+438,środa,21,Sałatka Caesar,danie_główne,22,2
+438,środa,21,Żywiec 0.5L,piwo,8,2
+439,środa,21,Sałatka Caesar,danie_główne,22,13
+439,środa,21,Craft IPA 0.33L,piwo,14,13
+440,środa,21,Quesadilla,danie_główne,20,12
+440,środa,21,Żywiec 0.5L,piwo,8,12
+440,środa,21,Heineken 0.33L,piwo,10,12
+441,środa,21,Kotlet schabowy,danie_główne,30,8
+441,środa,21,Woda mineralna,zimny_napój,5,8
+442,środa,21,Risotto,danie_główne,32,10
+442,środa,21,Kawa espresso,gorący_napój,6,10
+442,środa,21,Pizza Margherita,danie_główne,28,10
+442,środa,21,Herbata,gorący_napój,5,10
+443,środa,21,Zupa dnia,danie_główne,16,6
+443,środa,21,Heineken 0.33L,piwo,10,6
+443,środa,21,Burger Classic,danie_główne,24,6
+444,środa,21,Burger Classic,danie_główne,24,5
+444,środa,21,Cola 0.33L,zimny_napój,7,5
+444,środa,21,Kawa espresso,gorący_napój,6,5
+444,środa,21,Kawa espresso,gorący_napój,6,5
+445,środa,21,Spaghetti Carbonara,danie_główne,26,8
+445,środa,21,Heineken 0.33L,piwo,10,8
+445,środa,21,Woda mineralna,zimny_napój,5,8
+446,środa,21,Pizza Margherita,danie_główne,28,9
+446,środa,21,Żywiec 0.5L,piwo,8,9
+446,środa,21,Żywiec 0.5L,piwo,8,9
+447,środa,21,Zupa dnia,danie_główne,16,12
+447,środa,21,Craft IPA 0.33L,piwo,14,12
+448,środa,21,Quesadilla,danie_główne,20,8
+448,środa,21,Cola 0.33L,zimny_napój,7,8
+449,środa,21,Burger Classic,danie_główne,24,4
+449,środa,21,Heineken 0.33L,piwo,10,4
+450,środa,21,Quesadilla,danie_główne,20,5
+450,środa,21,Zupa dnia,danie_główne,16,5
+450,środa,21,Sok pomarańczowy,zimny_napój,8,5
+451,środa,21,Pizza Margherita,danie_główne,28,12
+452,środa,21,Quesadilla,danie_główne,20,9
+452,środa,21,Craft IPA 0.33L,piwo,14,9
+453,środa,21,Pizza Margherita,danie_główne,28,8
+453,środa,21,Woda mineralna,zimny_napój,5,8
+453,środa,21,Sok pomarańczowy,zimny_napój,8,8
+454,środa,21,Pizza Margherita,danie_główne,28,9
+455,środa,21,Zupa dnia,danie_główne,16,7
+455,środa,21,Heineken 0.33L,piwo,10,7
+456,środa,21,Quesadilla,danie_główne,20,4
+456,środa,21,Kawa espresso,gorący_napój,6,4
+457,środa,21,Kotlet schabowy,danie_główne,30,15
+457,środa,21,Herbata,gorący_napój,5,15
+457,środa,21,Woda mineralna,zimny_napój,5,15
+458,środa,21,Kotlet schabowy,danie_główne,30,3
+458,środa,21,Żywiec 0.5L,piwo,8,3
+459,środa,21,Burger Classic,danie_główne,24,7
+459,środa,21,Żywiec 0.5L,piwo,8,7
+460,czwartek,13,Wrap z kurczakiem,danie_główne,18,11
+460,czwartek,13,Sałatka Caesar,danie_główne,22,11
+460,czwartek,13,Sok pomarańczowy,zimny_napój,8,11
+460,czwartek,13,Sok pomarańczowy,zimny_napój,8,11
+461,czwartek,13,Ryba z grilla,danie_główne,35,16
+461,czwartek,13,Cola 0.33L,zimny_napój,7,16
+462,czwartek,13,Sałatka Caesar,danie_główne,22,8
+462,czwartek,13,Żywiec 0.5L,piwo,8,8
+462,czwartek,13,Żywiec 0.5L,piwo,8,8
+463,czwartek,13,Sałatka Caesar,danie_główne,22,12
+463,czwartek,13,Craft IPA 0.33L,piwo,14,12
+464,czwartek,13,Ryba z grilla,danie_główne,35,10
+464,czwartek,13,Sok pomarańczowy,zimny_napój,8,10
+464,czwartek,13,Sałatka Caesar,danie_główne,22,10
+465,czwartek,13,Pizza Margherita,danie_główne,28,11
+465,czwartek,13,Heineken 0.33L,piwo,10,11
+466,czwartek,13,Wrap z kurczakiem,danie_główne,18,13
+466,czwartek,13,Żywiec 0.5L,piwo,8,13
+467,czwartek,13,Burger Classic,danie_główne,24,6
+467,czwartek,13,Żywiec 0.5L,piwo,8,6
+468,czwartek,13,Kotlet schabowy,danie_główne,30,6
+468,czwartek,13,Żywiec 0.5L,piwo,8,6
+469,czwartek,13,Spaghetti Carbonara,danie_główne,26,10
+469,czwartek,13,Żywiec 0.5L,piwo,8,10
+470,czwartek,13,Pizza Margherita,danie_główne,28,14
+471,czwartek,13,Wrap z kurczakiem,danie_główne,18,11
+471,czwartek,13,Cola 0.33L,zimny_napój,7,11
+472,czwartek,13,Sałatka Caesar,danie_główne,22,12
+472,czwartek,13,Kawa espresso,gorący_napój,6,12
+473,czwartek,13,Wrap z kurczakiem,danie_główne,18,10
+473,czwartek,13,Żywiec 0.5L,piwo,8,10
+474,czwartek,13,Pizza Margherita,danie_główne,28,10
+474,czwartek,13,Heineken 0.33L,piwo,10,10
+475,czwartek,13,Burger Classic,danie_główne,24,9
+475,czwartek,13,Craft IPA 0.33L,piwo,14,9
+476,czwartek,13,Pizza Margherita,danie_główne,28,13
+476,czwartek,13,Cola 0.33L,zimny_napój,7,13
+476,czwartek,13,Heineken 0.33L,piwo,10,13
+476,czwartek,13,Cola 0.33L,zimny_napój,7,13
+476,czwartek,13,Cola 0.33L,zimny_napój,7,13
+477,czwartek,13,Sałatka Caesar,danie_główne,22,5
+477,czwartek,13,Kawa espresso,gorący_napój,6,5
+478,czwartek,14,Wrap z kurczakiem,danie_główne,18,4
+479,czwartek,14,Burger Classic,danie_główne,24,11
+479,czwartek,14,Sok pomarańczowy,zimny_napój,8,11
+480,czwartek,14,Risotto,danie_główne,32,6
+480,czwartek,14,Cola 0.33L,zimny_napój,7,6
+480,czwartek,14,Pizza Margherita,danie_główne,28,6
+480,czwartek,14,Kotlet schabowy,danie_główne,30,6
+481,czwartek,14,Burger Classic,danie_główne,24,6
+482,czwartek,14,Pizza Margherita,danie_główne,28,6
+482,czwartek,14,Sok pomarańczowy,zimny_napój,8,6
+482,czwartek,14,Cola 0.33L,zimny_napój,7,6
+482,czwartek,14,Cola 0.33L,zimny_napój,7,6
+483,czwartek,14,Wrap z kurczakiem,danie_główne,18,4
+483,czwartek,14,Sok pomarańczowy,zimny_napój,8,4
+484,czwartek,14,Zupa dnia,danie_główne,16,1
+484,czwartek,14,Woda mineralna,zimny_napój,5,1
+485,czwartek,14,Kotlet schabowy,danie_główne,30,5
+485,czwartek,14,Żywiec 0.5L,piwo,8,5
+486,czwartek,14,Pizza Margherita,danie_główne,28,11
+486,czwartek,14,Woda mineralna,zimny_napój,5,11
+487,czwartek,14,Sałatka Caesar,danie_główne,22,6
+487,czwartek,14,Heineken 0.33L,piwo,10,6
+488,czwartek,14,Quesadilla,danie_główne,20,0
+488,czwartek,14,Kawa espresso,gorący_napój,6,0
+489,czwartek,14,Zupa dnia,danie_główne,16,13
+489,czwartek,14,Sok pomarańczowy,zimny_napój,8,13
+490,czwartek,14,Burger Classic,danie_główne,24,12
+490,czwartek,14,Zupa dnia,danie_główne,16,12
+490,czwartek,14,Heineken 0.33L,piwo,10,12
+491,czwartek,14,Burger Classic,danie_główne,24,7
+492,czwartek,14,Kotlet schabowy,danie_główne,30,8
+492,czwartek,14,Cola 0.33L,zimny_napój,7,8
+493,czwartek,14,Kotlet schabowy,danie_główne,30,8
+493,czwartek,14,Żywiec 0.5L,piwo,8,8
+493,czwartek,14,Pizza Margherita,danie_główne,28,8
+494,czwartek,14,Zupa dnia,danie_główne,16,6
+494,czwartek,14,Żywiec 0.5L,piwo,8,6
+494,czwartek,14,Craft IPA 0.33L,piwo,14,6
+494,czwartek,14,Sałatka Caesar,danie_główne,22,6
+495,czwartek,14,Burger Classic,danie_główne,24,4
+495,czwartek,14,Woda mineralna,zimny_napój,5,4
+495,czwartek,14,Woda mineralna,zimny_napój,5,4
+496,czwartek,14,Pizza Margherita,danie_główne,28,9
+496,czwartek,14,Żywiec 0.5L,piwo,8,9
+497,czwartek,14,Burger Classic,danie_główne,24,15
+497,czwartek,14,Craft IPA 0.33L,piwo,14,15
+498,czwartek,14,Burger Classic,danie_główne,24,10
+498,czwartek,14,Heineken 0.33L,piwo,10,10
+499,czwartek,14,Quesadilla,danie_główne,20,10
+499,czwartek,14,Risotto,danie_główne,32,10
+499,czwartek,14,Spaghetti Carbonara,danie_główne,26,10
+499,czwartek,14,Cola 0.33L,zimny_napój,7,10
+500,czwartek,14,Quesadilla,danie_główne,20,6
+500,czwartek,14,Spaghetti Carbonara,danie_główne,26,6
+501,czwartek,14,Wrap z kurczakiem,danie_główne,18,6
+501,czwartek,14,Craft IPA 0.33L,piwo,14,6
+502,czwartek,15,Sałatka Caesar,danie_główne,22,5
+502,czwartek,15,Kawa espresso,gorący_napój,6,5
+502,czwartek,15,Żywiec 0.5L,piwo,8,5
+502,czwartek,15,Kawa espresso,gorący_napój,6,5
+503,czwartek,15,Ryba z grilla,danie_główne,35,9
+503,czwartek,15,Cola 0.33L,zimny_napój,7,9
+504,czwartek,15,Spaghetti Carbonara,danie_główne,26,7
+504,czwartek,15,Sok pomarańczowy,zimny_napój,8,7
+504,czwartek,15,Cola 0.33L,zimny_napój,7,7
+505,czwartek,15,Pizza Margherita,danie_główne,28,11
+505,czwartek,15,Żywiec 0.5L,piwo,8,11
+506,czwartek,15,Burger Classic,danie_główne,24,8
+506,czwartek,15,Heineken 0.33L,piwo,10,8
+507,czwartek,15,Sałatka Caesar,danie_główne,22,9
+507,czwartek,15,Woda mineralna,zimny_napój,5,9
+507,czwartek,15,Heineken 0.33L,piwo,10,9
+508,czwartek,15,Zupa dnia,danie_główne,16,9
+508,czwartek,15,Cola 0.33L,zimny_napój,7,9
+509,czwartek,15,Pizza Margherita,danie_główne,28,11
+509,czwartek,15,Ryba z grilla,danie_główne,35,11
+509,czwartek,15,Zupa dnia,danie_główne,16,11
+509,czwartek,15,Burger Classic,danie_główne,24,11
+509,czwartek,15,Cola 0.33L,zimny_napój,7,11
+510,czwartek,15,Pizza Margherita,danie_główne,28,6
+511,czwartek,15,Wrap z kurczakiem,danie_główne,18,8
+511,czwartek,15,Herbata,gorący_napój,5,8
+512,czwartek,16,Zupa dnia,danie_główne,16,6
+512,czwartek,16,Cola 0.33L,zimny_napój,7,6
+513,czwartek,16,Wrap z kurczakiem,danie_główne,18,5
+513,czwartek,16,Woda mineralna,zimny_napój,5,5
+514,czwartek,16,Spaghetti Carbonara,danie_główne,26,9
+514,czwartek,16,Woda mineralna,zimny_napój,5,9
+514,czwartek,16,Cola 0.33L,zimny_napój,7,9
+515,czwartek,16,Risotto,danie_główne,32,8
+515,czwartek,16,Żywiec 0.5L,piwo,8,8
+516,czwartek,16,Ryba z grilla,danie_główne,35,10
+516,czwartek,16,Żywiec 0.5L,piwo,8,10
+517,czwartek,17,Wrap z kurczakiem,danie_główne,18,8
+518,czwartek,17,Ryba z grilla,danie_główne,35,6
+518,czwartek,17,Herbata,gorący_napój,5,6
+518,czwartek,17,Żywiec 0.5L,piwo,8,6
+519,czwartek,17,Zupa dnia,danie_główne,16,10
+520,czwartek,17,Zupa dnia,danie_główne,16,7
+520,czwartek,17,Żywiec 0.5L,piwo,8,7
+521,czwartek,17,Burger Classic,danie_główne,24,8
+521,czwartek,17,Craft IPA 0.33L,piwo,14,8
+522,czwartek,17,Quesadilla,danie_główne,20,9
+522,czwartek,17,Sok pomarańczowy,zimny_napój,8,9
+523,czwartek,17,Sałatka Caesar,danie_główne,22,7
+523,czwartek,17,Cola 0.33L,zimny_napój,7,7
+524,czwartek,17,Pizza Margherita,danie_główne,28,10
+525,czwartek,17,Spaghetti Carbonara,danie_główne,26,5
+525,czwartek,17,Craft IPA 0.33L,piwo,14,5
+526,czwartek,17,Pizza Margherita,danie_główne,28,10
+526,czwartek,17,Kawa espresso,gorący_napój,6,10
+527,czwartek,17,Sałatka Caesar,danie_główne,22,9
+527,czwartek,17,Woda mineralna,zimny_napój,5,9
+527,czwartek,17,Heineken 0.33L,piwo,10,9
+528,czwartek,17,Spaghetti Carbonara,danie_główne,26,10
+528,czwartek,17,Sok pomarańczowy,zimny_napój,8,10
+529,czwartek,17,Pizza Margherita,danie_główne,28,6
+529,czwartek,17,Żywiec 0.5L,piwo,8,6
+530,czwartek,17,Pizza Margherita,danie_główne,28,11
+530,czwartek,17,Woda mineralna,zimny_napój,5,11
+530,czwartek,17,Sok pomarańczowy,zimny_napój,8,11
+530,czwartek,17,Quesadilla,danie_główne,20,11
+531,czwartek,17,Pizza Margherita,danie_główne,28,9
+531,czwartek,17,Heineken 0.33L,piwo,10,9
+532,czwartek,17,Burger Classic,danie_główne,24,8
+532,czwartek,17,Heineken 0.33L,piwo,10,8
+533,czwartek,17,Sałatka Caesar,danie_główne,22,4
+533,czwartek,17,Żywiec 0.5L,piwo,8,4
+534,czwartek,17,Sałatka Caesar,danie_główne,22,8
+534,czwartek,17,Craft IPA 0.33L,piwo,14,8
+535,czwartek,17,Pizza Margherita,danie_główne,28,5
+535,czwartek,17,Craft IPA 0.33L,piwo,14,5
+536,czwartek,17,Zupa dnia,danie_główne,16,11
+536,czwartek,17,Żywiec 0.5L,piwo,8,11
+536,czwartek,17,Heineken 0.33L,piwo,10,11
+536,czwartek,17,Herbata,gorący_napój,5,11
+536,czwartek,17,Cola 0.33L,zimny_napój,7,11
+537,czwartek,18,Pizza Margherita,danie_główne,28,9
+537,czwartek,18,Cola 0.33L,zimny_napój,7,9
+538,czwartek,18,Quesadilla,danie_główne,20,11
+538,czwartek,18,Heineken 0.33L,piwo,10,11
+539,czwartek,18,Kotlet schabowy,danie_główne,30,9
+539,czwartek,18,Żywiec 0.5L,piwo,8,9
+539,czwartek,18,Burger Classic,danie_główne,24,9
+540,czwartek,18,Spaghetti Carbonara,danie_główne,26,7
+541,czwartek,18,Kotlet schabowy,danie_główne,30,7
+541,czwartek,18,Kawa espresso,gorący_napój,6,7
+542,czwartek,18,Kotlet schabowy,danie_główne,30,7
+543,czwartek,18,Zupa dnia,danie_główne,16,7
+543,czwartek,18,Cola 0.33L,zimny_napój,7,7
+544,czwartek,18,Spaghetti Carbonara,danie_główne,26,2
+545,czwartek,18,Sałatka Caesar,danie_główne,22,6
+545,czwartek,18,Heineken 0.33L,piwo,10,6
+546,czwartek,18,Kotlet schabowy,danie_główne,30,11
+546,czwartek,18,Heineken 0.33L,piwo,10,11
+547,czwartek,18,Ryba z grilla,danie_główne,35,7
+547,czwartek,18,Żywiec 0.5L,piwo,8,7
+548,czwartek,18,Quesadilla,danie_główne,20,8
+548,czwartek,18,Kawa espresso,gorący_napój,6,8
+549,czwartek,18,Wrap z kurczakiem,danie_główne,18,11
+549,czwartek,18,Heineken 0.33L,piwo,10,11
+550,czwartek,18,Wrap z kurczakiem,danie_główne,18,6
+550,czwartek,18,Heineken 0.33L,piwo,10,6
+550,czwartek,18,Sok pomarańczowy,zimny_napój,8,6
+551,czwartek,18,Pizza Margherita,danie_główne,28,11
+551,czwartek,18,Heineken 0.33L,piwo,10,11
+552,czwartek,18,Wrap z kurczakiem,danie_główne,18,8
+552,czwartek,18,Heineken 0.33L,piwo,10,8
+553,czwartek,18,Kotlet schabowy,danie_główne,30,8
+553,czwartek,18,Risotto,danie_główne,32,8
+553,czwartek,18,Kotlet schabowy,danie_główne,30,8
+554,czwartek,18,Ryba z grilla,danie_główne,35,7
+554,czwartek,18,Żywiec 0.5L,piwo,8,7
+555,czwartek,18,Burger Classic,danie_główne,24,3
+556,czwartek,18,Quesadilla,danie_główne,20,4
+556,czwartek,18,Woda mineralna,zimny_napój,5,4
+557,czwartek,18,Pizza Margherita,danie_główne,28,5
+557,czwartek,18,Sok pomarańczowy,zimny_napój,8,5
+558,czwartek,18,Quesadilla,danie_główne,20,12
+558,czwartek,18,Kawa espresso,gorący_napój,6,12
+558,czwartek,18,Kawa espresso,gorący_napój,6,12
+559,czwartek,18,Spaghetti Carbonara,danie_główne,26,1
+559,czwartek,18,Żywiec 0.5L,piwo,8,1
+560,czwartek,18,Pizza Margherita,danie_główne,28,8
+560,czwartek,18,Żywiec 0.5L,piwo,8,8
+561,czwartek,18,Zupa dnia,danie_główne,16,3
+561,czwartek,18,Żywiec 0.5L,piwo,8,3
+562,czwartek,18,Pizza Margherita,danie_główne,28,10
+562,czwartek,18,Cola 0.33L,zimny_napój,7,10
+563,czwartek,18,Risotto,danie_główne,32,6
+563,czwartek,18,Cola 0.33L,zimny_napój,7,6
+563,czwartek,18,Sałatka Caesar,danie_główne,22,6
+564,czwartek,18,Zupa dnia,danie_główne,16,6
+565,czwartek,18,Spaghetti Carbonara,danie_główne,26,6
+565,czwartek,18,Woda mineralna,zimny_napój,5,6
+566,czwartek,18,Sałatka Caesar,danie_główne,22,7
+566,czwartek,18,Heineken 0.33L,piwo,10,7
+567,czwartek,18,Wrap z kurczakiem,danie_główne,18,4
+567,czwartek,18,Sok pomarańczowy,zimny_napój,8,4
+567,czwartek,18,Woda mineralna,zimny_napój,5,4
+568,czwartek,18,Ryba z grilla,danie_główne,35,9
+568,czwartek,18,Sok pomarańczowy,zimny_napój,8,9
+569,czwartek,18,Pizza Margherita,danie_główne,28,2
+569,czwartek,18,Craft IPA 0.33L,piwo,14,2
+570,czwartek,18,Zupa dnia,danie_główne,16,12
+570,czwartek,18,Spaghetti Carbonara,danie_główne,26,12
+570,czwartek,18,Sałatka Caesar,danie_główne,22,12
+571,czwartek,18,Zupa dnia,danie_główne,16,9
+571,czwartek,18,Woda mineralna,zimny_napój,5,9
+572,czwartek,18,Zupa dnia,danie_główne,16,10
+572,czwartek,18,Craft IPA 0.33L,piwo,14,10
+572,czwartek,18,Wrap z kurczakiem,danie_główne,18,10
+572,czwartek,18,Kotlet schabowy,danie_główne,30,10
+573,czwartek,18,Kotlet schabowy,danie_główne,30,7
+573,czwartek,18,Craft IPA 0.33L,piwo,14,7
+573,czwartek,18,Heineken 0.33L,piwo,10,7
+574,czwartek,18,Quesadilla,danie_główne,20,11
+575,czwartek,18,Sałatka Caesar,danie_główne,22,10
+576,czwartek,18,Burger Classic,danie_główne,24,10
+576,czwartek,18,Sok pomarańczowy,zimny_napój,8,10
+576,czwartek,18,Craft IPA 0.33L,piwo,14,10
+577,czwartek,18,Spaghetti Carbonara,danie_główne,26,9
+577,czwartek,18,Kawa espresso,gorący_napój,6,9
+578,czwartek,18,Quesadilla,danie_główne,20,11
+578,czwartek,18,Herbata,gorący_napój,5,11
+579,czwartek,18,Burger Classic,danie_główne,24,4
+579,czwartek,18,Craft IPA 0.33L,piwo,14,4
+580,czwartek,19,Kotlet schabowy,danie_główne,30,8
+580,czwartek,19,Herbata,gorący_napój,5,8
+581,czwartek,19,Wrap z kurczakiem,danie_główne,18,11
+581,czwartek,19,Herbata,gorący_napój,5,11
+582,czwartek,19,Spaghetti Carbonara,danie_główne,26,7
+582,czwartek,19,Craft IPA 0.33L,piwo,14,7
+582,czwartek,19,Heineken 0.33L,piwo,10,7
+583,czwartek,19,Burger Classic,danie_główne,24,7
+583,czwartek,19,Heineken 0.33L,piwo,10,7
+583,czwartek,19,Woda mineralna,zimny_napój,5,7
+584,czwartek,19,Quesadilla,danie_główne,20,10
+584,czwartek,19,Cola 0.33L,zimny_napój,7,10
+584,czwartek,19,Cola 0.33L,zimny_napój,7,10
+585,czwartek,19,Pizza Margherita,danie_główne,28,8
+585,czwartek,19,Żywiec 0.5L,piwo,8,8
+585,czwartek,19,Risotto,danie_główne,32,8
+586,czwartek,19,Burger Classic,danie_główne,24,8
+586,czwartek,19,Kawa espresso,gorący_napój,6,8
+587,czwartek,19,Pizza Margherita,danie_główne,28,3
+587,czwartek,19,Żywiec 0.5L,piwo,8,3
+587,czwartek,19,Cola 0.33L,zimny_napój,7,3
+588,czwartek,19,Zupa dnia,danie_główne,16,9
+588,czwartek,19,Kawa espresso,gorący_napój,6,9
+589,czwartek,19,Ryba z grilla,danie_główne,35,7
+589,czwartek,19,Żywiec 0.5L,piwo,8,7
+589,czwartek,19,Sok pomarańczowy,zimny_napój,8,7
+589,czwartek,19,Herbata,gorący_napój,5,7
+590,czwartek,19,Wrap z kurczakiem,danie_główne,18,6
+591,czwartek,19,Pizza Margherita,danie_główne,28,3
+591,czwartek,19,Craft IPA 0.33L,piwo,14,3
+592,czwartek,19,Burger Classic,danie_główne,24,10
+592,czwartek,19,Cola 0.33L,zimny_napój,7,10
+593,czwartek,19,Zupa dnia,danie_główne,16,4
+594,czwartek,19,Risotto,danie_główne,32,4
+594,czwartek,19,Żywiec 0.5L,piwo,8,4
+595,czwartek,19,Spaghetti Carbonara,danie_główne,26,9
+595,czwartek,19,Żywiec 0.5L,piwo,8,9
+596,czwartek,19,Pizza Margherita,danie_główne,28,10
+596,czwartek,19,Żywiec 0.5L,piwo,8,10
+596,czwartek,19,Risotto,danie_główne,32,10
+597,czwartek,19,Burger Classic,danie_główne,24,14
+597,czwartek,19,Heineken 0.33L,piwo,10,14
+598,czwartek,19,Spaghetti Carbonara,danie_główne,26,8
+598,czwartek,19,Woda mineralna,zimny_napój,5,8
+599,czwartek,19,Burger Classic,danie_główne,24,15
+599,czwartek,19,Żywiec 0.5L,piwo,8,15
+600,czwartek,19,Sałatka Caesar,danie_główne,22,4
+600,czwartek,19,Żywiec 0.5L,piwo,8,4
+601,czwartek,19,Pizza Margherita,danie_główne,28,12
+601,czwartek,19,Sok pomarańczowy,zimny_napój,8,12
+602,czwartek,19,Sałatka Caesar,danie_główne,22,8
+602,czwartek,19,Żywiec 0.5L,piwo,8,8
+602,czwartek,19,Heineken 0.33L,piwo,10,8
+603,czwartek,19,Zupa dnia,danie_główne,16,9
+603,czwartek,19,Żywiec 0.5L,piwo,8,9
+604,czwartek,19,Risotto,danie_główne,32,14
+604,czwartek,19,Craft IPA 0.33L,piwo,14,14
+605,czwartek,19,Quesadilla,danie_główne,20,6
+605,czwartek,19,Sok pomarańczowy,zimny_napój,8,6
+605,czwartek,19,Wrap z kurczakiem,danie_główne,18,6
+606,czwartek,19,Quesadilla,danie_główne,20,12
+606,czwartek,19,Sok pomarańczowy,zimny_napój,8,12
+607,czwartek,19,Burger Classic,danie_główne,24,12
+607,czwartek,19,Sok pomarańczowy,zimny_napój,8,12
+607,czwartek,19,Wrap z kurczakiem,danie_główne,18,12
+607,czwartek,19,Kotlet schabowy,danie_główne,30,12
+608,czwartek,19,Burger Classic,danie_główne,24,14
+608,czwartek,19,Quesadilla,danie_główne,20,14
+608,czwartek,19,Żywiec 0.5L,piwo,8,14
+608,czwartek,19,Kotlet schabowy,danie_główne,30,14
+609,czwartek,19,Risotto,danie_główne,32,7
+609,czwartek,19,Cola 0.33L,zimny_napój,7,7
+610,czwartek,19,Sałatka Caesar,danie_główne,22,3
+610,czwartek,19,Sałatka Caesar,danie_główne,22,3
+611,czwartek,19,Wrap z kurczakiem,danie_główne,18,2
+611,czwartek,19,Żywiec 0.5L,piwo,8,2
+612,czwartek,19,Burger Classic,danie_główne,24,6
+612,czwartek,19,Żywiec 0.5L,piwo,8,6
+613,czwartek,19,Ryba z grilla,danie_główne,35,7
+613,czwartek,19,Heineken 0.33L,piwo,10,7
+614,czwartek,19,Quesadilla,danie_główne,20,16
+614,czwartek,19,Herbata,gorący_napój,5,16
+615,czwartek,19,Zupa dnia,danie_główne,16,4
+615,czwartek,19,Woda mineralna,zimny_napój,5,4
+616,czwartek,19,Burger Classic,danie_główne,24,8
+616,czwartek,19,Sok pomarańczowy,zimny_napój,8,8
+616,czwartek,19,Wrap z kurczakiem,danie_główne,18,8
+617,czwartek,19,Burger Classic,danie_główne,24,7
+617,czwartek,19,Żywiec 0.5L,piwo,8,7
+618,czwartek,19,Ryba z grilla,danie_główne,35,8
+618,czwartek,19,Sok pomarańczowy,zimny_napój,8,8
+619,czwartek,19,Spaghetti Carbonara,danie_główne,26,10
+620,czwartek,19,Ryba z grilla,danie_główne,35,8
+621,czwartek,19,Kotlet schabowy,danie_główne,30,9
+621,czwartek,19,Kawa espresso,gorący_napój,6,9
+621,czwartek,19,Heineken 0.33L,piwo,10,9
+622,czwartek,19,Zupa dnia,danie_główne,16,7
+622,czwartek,19,Craft IPA 0.33L,piwo,14,7
+623,czwartek,19,Pizza Margherita,danie_główne,28,6
+623,czwartek,19,Sok pomarańczowy,zimny_napój,8,6
+624,czwartek,19,Wrap z kurczakiem,danie_główne,18,10
+624,czwartek,19,Heineken 0.33L,piwo,10,10
+625,czwartek,19,Sałatka Caesar,danie_główne,22,6
+625,czwartek,19,Cola 0.33L,zimny_napój,7,6
+626,czwartek,19,Quesadilla,danie_główne,20,10
+626,czwartek,19,Cola 0.33L,zimny_napój,7,10
+627,czwartek,19,Kotlet schabowy,danie_główne,30,7
+627,czwartek,19,Woda mineralna,zimny_napój,5,7
+628,czwartek,19,Burger Classic,danie_główne,24,10
+628,czwartek,19,Cola 0.33L,zimny_napój,7,10
+629,czwartek,19,Spaghetti Carbonara,danie_główne,26,11
+629,czwartek,19,Heineken 0.33L,piwo,10,11
+630,czwartek,19,Zupa dnia,danie_główne,16,4
+630,czwartek,19,Cola 0.33L,zimny_napój,7,4
+631,czwartek,19,Spaghetti Carbonara,danie_główne,26,9
+631,czwartek,19,Spaghetti Carbonara,danie_główne,26,9
+632,czwartek,19,Sałatka Caesar,danie_główne,22,5
+632,czwartek,19,Żywiec 0.5L,piwo,8,5
+633,czwartek,19,Wrap z kurczakiem,danie_główne,18,7
+634,czwartek,19,Pizza Margherita,danie_główne,28,3
+634,czwartek,19,Woda mineralna,zimny_napój,5,3
+634,czwartek,19,Sałatka Caesar,danie_główne,22,3
+634,czwartek,19,Pizza Margherita,danie_główne,28,3
+635,czwartek,19,Burger Classic,danie_główne,24,11
+635,czwartek,19,Cola 0.33L,zimny_napój,7,11
+635,czwartek,19,Sok pomarańczowy,zimny_napój,8,11
+636,czwartek,20,Spaghetti Carbonara,danie_główne,26,9
+636,czwartek,20,Cola 0.33L,zimny_napój,7,9
+637,czwartek,20,Zupa dnia,danie_główne,16,9
+637,czwartek,20,Heineken 0.33L,piwo,10,9
+637,czwartek,20,Risotto,danie_główne,32,9
+638,czwartek,20,Sałatka Caesar,danie_główne,22,8
+638,czwartek,20,Woda mineralna,zimny_napój,5,8
+639,czwartek,20,Kotlet schabowy,danie_główne,30,9
+639,czwartek,20,Heineken 0.33L,piwo,10,9
+640,czwartek,20,Risotto,danie_główne,32,7
+640,czwartek,20,Żywiec 0.5L,piwo,8,7
+641,czwartek,20,Kotlet schabowy,danie_główne,30,7
+641,czwartek,20,Pizza Margherita,danie_główne,28,7
+642,czwartek,20,Kotlet schabowy,danie_główne,30,14
+642,czwartek,20,Żywiec 0.5L,piwo,8,14
+643,czwartek,20,Ryba z grilla,danie_główne,35,11
+643,czwartek,20,Heineken 0.33L,piwo,10,11
+644,czwartek,20,Burger Classic,danie_główne,24,4
+645,czwartek,20,Burger Classic,danie_główne,24,4
+645,czwartek,20,Kawa espresso,gorący_napój,6,4
+645,czwartek,20,Herbata,gorący_napój,5,4
+646,czwartek,20,Wrap z kurczakiem,danie_główne,18,9
+646,czwartek,20,Pizza Margherita,danie_główne,28,9
+647,czwartek,20,Zupa dnia,danie_główne,16,4
+647,czwartek,20,Żywiec 0.5L,piwo,8,4
+648,czwartek,20,Pizza Margherita,danie_główne,28,9
+648,czwartek,20,Craft IPA 0.33L,piwo,14,9
+649,czwartek,20,Pizza Margherita,danie_główne,28,6
+649,czwartek,20,Żywiec 0.5L,piwo,8,6
+650,czwartek,20,Ryba z grilla,danie_główne,35,4
+650,czwartek,20,Heineken 0.33L,piwo,10,4
+651,czwartek,20,Burger Classic,danie_główne,24,4
+651,czwartek,20,Heineken 0.33L,piwo,10,4
+652,czwartek,20,Sałatka Caesar,danie_główne,22,5
+652,czwartek,20,Kawa espresso,gorący_napój,6,5
+652,czwartek,20,Żywiec 0.5L,piwo,8,5
+652,czwartek,20,Cola 0.33L,zimny_napój,7,5
+653,czwartek,20,Quesadilla,danie_główne,20,7
+653,czwartek,20,Cola 0.33L,zimny_napój,7,7
+654,czwartek,20,Pizza Margherita,danie_główne,28,9
+654,czwartek,20,Cola 0.33L,zimny_napój,7,9
+655,czwartek,20,Kotlet schabowy,danie_główne,30,8
+655,czwartek,20,Kawa espresso,gorący_napój,6,8
+656,czwartek,20,Zupa dnia,danie_główne,16,6
+656,czwartek,20,Żywiec 0.5L,piwo,8,6
+657,czwartek,20,Quesadilla,danie_główne,20,9
+657,czwartek,20,Craft IPA 0.33L,piwo,14,9
+657,czwartek,20,Sok pomarańczowy,zimny_napój,8,9
+658,czwartek,20,Ryba z grilla,danie_główne,35,5
+658,czwartek,20,Heineken 0.33L,piwo,10,5
+659,czwartek,20,Spaghetti Carbonara,danie_główne,26,6
+659,czwartek,20,Craft IPA 0.33L,piwo,14,6
+659,czwartek,20,Cola 0.33L,zimny_napój,7,6
+660,czwartek,20,Burger Classic,danie_główne,24,11
+660,czwartek,20,Żywiec 0.5L,piwo,8,11
+661,czwartek,20,Ryba z grilla,danie_główne,35,10
+661,czwartek,20,Sok pomarańczowy,zimny_napój,8,10
+661,czwartek,20,Woda mineralna,zimny_napój,5,10
+662,czwartek,20,Quesadilla,danie_główne,20,5
+662,czwartek,20,Herbata,gorący_napój,5,5
+663,czwartek,20,Pizza Margherita,danie_główne,28,13
+663,czwartek,20,Burger Classic,danie_główne,24,13
+664,czwartek,20,Spaghetti Carbonara,danie_główne,26,10
+664,czwartek,20,Herbata,gorący_napój,5,10
+665,czwartek,20,Sałatka Caesar,danie_główne,22,7
+666,czwartek,20,Sałatka Caesar,danie_główne,22,9
+666,czwartek,20,Żywiec 0.5L,piwo,8,9
+667,czwartek,20,Kotlet schabowy,danie_główne,30,7
+667,czwartek,20,Woda mineralna,zimny_napój,5,7
+668,czwartek,20,Burger Classic,danie_główne,24,7
+668,czwartek,20,Cola 0.33L,zimny_napój,7,7
+669,czwartek,20,Burger Classic,danie_główne,24,9
+669,czwartek,20,Cola 0.33L,zimny_napój,7,9
+670,czwartek,20,Risotto,danie_główne,32,9
+670,czwartek,20,Cola 0.33L,zimny_napój,7,9
+671,czwartek,20,Risotto,danie_główne,32,10
+671,czwartek,20,Żywiec 0.5L,piwo,8,10
+672,czwartek,20,Kotlet schabowy,danie_główne,30,8
+672,czwartek,20,Cola 0.33L,zimny_napój,7,8
+672,czwartek,20,Zupa dnia,danie_główne,16,8
+673,czwartek,20,Kotlet schabowy,danie_główne,30,5
+673,czwartek,20,Woda mineralna,zimny_napój,5,5
+674,czwartek,20,Quesadilla,danie_główne,20,8
+674,czwartek,20,Craft IPA 0.33L,piwo,14,8
+674,czwartek,20,Kawa espresso,gorący_napój,6,8
+674,czwartek,20,Woda mineralna,zimny_napój,5,8
+675,czwartek,20,Sałatka Caesar,danie_główne,22,8
+675,czwartek,20,Sok pomarańczowy,zimny_napój,8,8
+676,czwartek,20,Quesadilla,danie_główne,20,8
+676,czwartek,20,Quesadilla,danie_główne,20,8
+677,czwartek,20,Spaghetti Carbonara,danie_główne,26,8
+677,czwartek,20,Heineken 0.33L,piwo,10,8
+678,czwartek,20,Sałatka Caesar,danie_główne,22,11
+678,czwartek,20,Heineken 0.33L,piwo,10,11
+679,czwartek,20,Pizza Margherita,danie_główne,28,11
+679,czwartek,20,Craft IPA 0.33L,piwo,14,11
+680,czwartek,20,Kotlet schabowy,danie_główne,30,6
+680,czwartek,20,Żywiec 0.5L,piwo,8,6
+681,czwartek,20,Burger Classic,danie_główne,24,8
+681,czwartek,20,Żywiec 0.5L,piwo,8,8
+682,czwartek,20,Wrap z kurczakiem,danie_główne,18,0
+682,czwartek,20,Heineken 0.33L,piwo,10,0
+683,czwartek,20,Kotlet schabowy,danie_główne,30,7
+683,czwartek,20,Heineken 0.33L,piwo,10,7
+683,czwartek,20,Ryba z grilla,danie_główne,35,7
+684,czwartek,20,Zupa dnia,danie_główne,16,7
+684,czwartek,20,Sok pomarańczowy,zimny_napój,8,7
+685,czwartek,20,Pizza Margherita,danie_główne,28,4
+685,czwartek,20,Cola 0.33L,zimny_napój,7,4
+686,czwartek,20,Kotlet schabowy,danie_główne,30,7
+686,czwartek,20,Burger Classic,danie_główne,24,7
+687,czwartek,21,Burger Classic,danie_główne,24,8
+687,czwartek,21,Craft IPA 0.33L,piwo,14,8
+687,czwartek,21,Sok pomarańczowy,zimny_napój,8,8
+688,czwartek,21,Sałatka Caesar,danie_główne,22,10
+689,czwartek,21,Sałatka Caesar,danie_główne,22,6
+689,czwartek,21,Cola 0.33L,zimny_napój,7,6
+690,czwartek,21,Pizza Margherita,danie_główne,28,10
+690,czwartek,21,Zupa dnia,danie_główne,16,10
+691,czwartek,21,Pizza Margherita,danie_główne,28,7
+692,czwartek,21,Burger Classic,danie_główne,24,8
+692,czwartek,21,Kawa espresso,gorący_napój,6,8
+693,czwartek,21,Zupa dnia,danie_główne,16,5
+693,czwartek,21,Herbata,gorący_napój,5,5
+694,czwartek,21,Risotto,danie_główne,32,7
+695,czwartek,21,Quesadilla,danie_główne,20,3
+695,czwartek,21,Sok pomarańczowy,zimny_napój,8,3
+695,czwartek,21,Cola 0.33L,zimny_napój,7,3
+696,czwartek,21,Quesadilla,danie_główne,20,5
+697,czwartek,21,Kotlet schabowy,danie_główne,30,12
+698,czwartek,21,Sałatka Caesar,danie_główne,22,4
+699,czwartek,21,Risotto,danie_główne,32,10
+699,czwartek,21,Żywiec 0.5L,piwo,8,10
+699,czwartek,21,Zupa dnia,danie_główne,16,10
+699,czwartek,21,Craft IPA 0.33L,piwo,14,10
+700,czwartek,21,Sałatka Caesar,danie_główne,22,4
+700,czwartek,21,Woda mineralna,zimny_napój,5,4
+700,czwartek,21,Burger Classic,danie_główne,24,4
+700,czwartek,21,Craft IPA 0.33L,piwo,14,4
+700,czwartek,21,Cola 0.33L,zimny_napój,7,4
+701,czwartek,21,Risotto,danie_główne,32,7
+701,czwartek,21,Cola 0.33L,zimny_napój,7,7
+702,czwartek,21,Kotlet schabowy,danie_główne,30,14
+702,czwartek,21,Żywiec 0.5L,piwo,8,14
+702,czwartek,21,Sok pomarańczowy,zimny_napój,8,14
+702,czwartek,21,Sok pomarańczowy,zimny_napój,8,14
+702,czwartek,21,Sok pomarańczowy,zimny_napój,8,14
+703,czwartek,21,Pizza Margherita,danie_główne,28,11
+703,czwartek,21,Heineken 0.33L,piwo,10,11
+704,czwartek,21,Kotlet schabowy,danie_główne,30,8
+704,czwartek,21,Herbata,gorący_napój,5,8
+705,czwartek,21,Ryba z grilla,danie_główne,35,9
+705,czwartek,21,Woda mineralna,zimny_napój,5,9
+706,czwartek,21,Quesadilla,danie_główne,20,18
+706,czwartek,21,Kawa espresso,gorący_napój,6,18
+707,czwartek,21,Kotlet schabowy,danie_główne,30,9
+708,czwartek,21,Wrap z kurczakiem,danie_główne,18,12
+708,czwartek,21,Cola 0.33L,zimny_napój,7,12
+708,czwartek,21,Pizza Margherita,danie_główne,28,12
+709,czwartek,21,Pizza Margherita,danie_główne,28,8
+709,czwartek,21,Cola 0.33L,zimny_napój,7,8
+710,czwartek,21,Pizza Margherita,danie_główne,28,5
+710,czwartek,21,Sok pomarańczowy,zimny_napój,8,5
+711,czwartek,21,Zupa dnia,danie_główne,16,12
+711,czwartek,21,Woda mineralna,zimny_napój,5,12
+711,czwartek,21,Cola 0.33L,zimny_napój,7,12
+712,czwartek,21,Risotto,danie_główne,32,6
+712,czwartek,21,Sok pomarańczowy,zimny_napój,8,6
+713,czwartek,21,Zupa dnia,danie_główne,16,7
+713,czwartek,21,Żywiec 0.5L,piwo,8,7
+714,czwartek,21,Zupa dnia,danie_główne,16,7
+714,czwartek,21,Cola 0.33L,zimny_napój,7,7
+714,czwartek,21,Cola 0.33L,zimny_napój,7,7
+714,czwartek,21,Żywiec 0.5L,piwo,8,7
+715,czwartek,21,Burger Classic,danie_główne,24,7
+715,czwartek,21,Burger Classic,danie_główne,24,7
+716,czwartek,21,Spaghetti Carbonara,danie_główne,26,10
+716,czwartek,21,Woda mineralna,zimny_napój,5,10
+717,czwartek,21,Zupa dnia,danie_główne,16,6
+717,czwartek,21,Heineken 0.33L,piwo,10,6
+718,czwartek,21,Ryba z grilla,danie_główne,35,5
+718,czwartek,21,Cola 0.33L,zimny_napój,7,5
+719,czwartek,21,Pizza Margherita,danie_główne,28,7
+719,czwartek,21,Quesadilla,danie_główne,20,7
+719,czwartek,21,Pizza Margherita,danie_główne,28,7
+720,czwartek,21,Wrap z kurczakiem,danie_główne,18,8
+720,czwartek,21,Żywiec 0.5L,piwo,8,8
+721,czwartek,21,Pizza Margherita,danie_główne,28,1
+722,czwartek,21,Zupa dnia,danie_główne,16,9
+723,czwartek,21,Kotlet schabowy,danie_główne,30,10
+724,czwartek,21,Burger Classic,danie_główne,24,8
+724,czwartek,21,Żywiec 0.5L,piwo,8,8
+725,czwartek,21,Spaghetti Carbonara,danie_główne,26,9
+726,czwartek,21,Kotlet schabowy,danie_główne,30,13
+726,czwartek,21,Sok pomarańczowy,zimny_napój,8,13
+727,czwartek,21,Spaghetti Carbonara,danie_główne,26,8
+728,czwartek,21,Risotto,danie_główne,32,6
+728,czwartek,21,Żywiec 0.5L,piwo,8,6
+728,czwartek,21,Heineken 0.33L,piwo,10,6
+729,czwartek,21,Wrap z kurczakiem,danie_główne,18,5
+729,czwartek,21,Sok pomarańczowy,zimny_napój,8,5
+729,czwartek,21,Heineken 0.33L,piwo,10,5
+730,czwartek,21,Sałatka Caesar,danie_główne,22,14
+730,czwartek,21,Cola 0.33L,zimny_napój,7,14
+731,czwartek,21,Burger Classic,danie_główne,24,6
+732,czwartek,21,Risotto,danie_główne,32,8
+732,czwartek,21,Kawa espresso,gorący_napój,6,8
+733,czwartek,21,Ryba z grilla,danie_główne,35,1
+733,czwartek,21,Craft IPA 0.33L,piwo,14,1
+734,czwartek,21,Quesadilla,danie_główne,20,14
+734,czwartek,21,Żywiec 0.5L,piwo,8,14
+735,piątek,13,Spaghetti Carbonara,danie_główne,26,10
+735,piątek,13,Woda mineralna,zimny_napój,5,10
+735,piątek,13,Żywiec 0.5L,piwo,8,10
+736,piątek,13,Burger Classic,danie_główne,24,11
+736,piątek,13,Żywiec 0.5L,piwo,8,11
+736,piątek,13,Woda mineralna,zimny_napój,5,11
+737,piątek,13,Zupa dnia,danie_główne,16,10
+737,piątek,13,Żywiec 0.5L,piwo,8,10
+738,piątek,13,Ryba z grilla,danie_główne,35,8
+738,piątek,13,Sok pomarańczowy,zimny_napój,8,8
+739,piątek,13,Risotto,danie_główne,32,7
+739,piątek,13,Żywiec 0.5L,piwo,8,7
+740,piątek,13,Spaghetti Carbonara,danie_główne,26,2
+740,piątek,13,Kawa espresso,gorący_napój,6,2
+741,piątek,13,Burger Classic,danie_główne,24,9
+741,piątek,13,Żywiec 0.5L,piwo,8,9
+742,piątek,13,Burger Classic,danie_główne,24,4
+742,piątek,13,Zupa dnia,danie_główne,16,4
+743,piątek,13,Wrap z kurczakiem,danie_główne,18,9
+743,piątek,13,Craft IPA 0.33L,piwo,14,9
+744,piątek,13,Pizza Margherita,danie_główne,28,7
+744,piątek,13,Sok pomarańczowy,zimny_napój,8,7
+744,piątek,13,Craft IPA 0.33L,piwo,14,7
+745,piątek,13,Burger Classic,danie_główne,24,10
+745,piątek,13,Craft IPA 0.33L,piwo,14,10
+745,piątek,13,Cola 0.33L,zimny_napój,7,10
+746,piątek,14,Wrap z kurczakiem,danie_główne,18,9
+746,piątek,14,Sok pomarańczowy,zimny_napój,8,9
+746,piątek,14,Kotlet schabowy,danie_główne,30,9
+747,piątek,14,Burger Classic,danie_główne,24,7
+747,piątek,14,Sok pomarańczowy,zimny_napój,8,7
+747,piątek,14,Burger Classic,danie_główne,24,7
+748,piątek,14,Burger Classic,danie_główne,24,9
+748,piątek,14,Kawa espresso,gorący_napój,6,9
+749,piątek,14,Wrap z kurczakiem,danie_główne,18,4
+749,piątek,14,Sok pomarańczowy,zimny_napój,8,4
+749,piątek,14,Craft IPA 0.33L,piwo,14,4
+750,piątek,14,Risotto,danie_główne,32,11
+750,piątek,14,Sok pomarańczowy,zimny_napój,8,11
+750,piątek,14,Żywiec 0.5L,piwo,8,11
+750,piątek,14,Heineken 0.33L,piwo,10,11
+751,piątek,14,Risotto,danie_główne,32,5
+751,piątek,14,Kawa espresso,gorący_napój,6,5
+752,piątek,14,Burger Classic,danie_główne,24,11
+753,piątek,14,Ryba z grilla,danie_główne,35,12
+753,piątek,14,Żywiec 0.5L,piwo,8,12
+754,piątek,14,Burger Classic,danie_główne,24,8
+754,piątek,14,Cola 0.33L,zimny_napój,7,8
+755,piątek,14,Burger Classic,danie_główne,24,10
+755,piątek,14,Craft IPA 0.33L,piwo,14,10
+756,piątek,14,Sałatka Caesar,danie_główne,22,5
+757,piątek,14,Pizza Margherita,danie_główne,28,12
+757,piątek,14,Sok pomarańczowy,zimny_napój,8,12
+758,piątek,14,Kotlet schabowy,danie_główne,30,6
+758,piątek,14,Kawa espresso,gorący_napój,6,6
+759,piątek,14,Pizza Margherita,danie_główne,28,9
+759,piątek,14,Kawa espresso,gorący_napój,6,9
+760,piątek,14,Risotto,danie_główne,32,10
+760,piątek,14,Cola 0.33L,zimny_napój,7,10
+761,piątek,14,Burger Classic,danie_główne,24,8
+761,piątek,14,Heineken 0.33L,piwo,10,8
+762,piątek,14,Pizza Margherita,danie_główne,28,9
+763,piątek,14,Wrap z kurczakiem,danie_główne,18,9
+763,piątek,14,Cola 0.33L,zimny_napój,7,9
+764,piątek,14,Zupa dnia,danie_główne,16,7
+764,piątek,14,Heineken 0.33L,piwo,10,7
+764,piątek,14,Woda mineralna,zimny_napój,5,7
+765,piątek,14,Sałatka Caesar,danie_główne,22,9
+765,piątek,14,Sok pomarańczowy,zimny_napój,8,9
+766,piątek,14,Spaghetti Carbonara,danie_główne,26,7
+766,piątek,14,Kawa espresso,gorący_napój,6,7
+767,piątek,14,Sałatka Caesar,danie_główne,22,10
+767,piątek,14,Żywiec 0.5L,piwo,8,10
+768,piątek,14,Kotlet schabowy,danie_główne,30,8
+768,piątek,14,Cola 0.33L,zimny_napój,7,8
+768,piątek,14,Sok pomarańczowy,zimny_napój,8,8
+769,piątek,15,Burger Classic,danie_główne,24,12
+769,piątek,15,Heineken 0.33L,piwo,10,12
+770,piątek,15,Burger Classic,danie_główne,24,13
+770,piątek,15,Heineken 0.33L,piwo,10,13
+770,piątek,15,Craft IPA 0.33L,piwo,14,13
+771,piątek,15,Zupa dnia,danie_główne,16,9
+771,piątek,15,Żywiec 0.5L,piwo,8,9
+771,piątek,15,Żywiec 0.5L,piwo,8,9
+772,piątek,15,Pizza Margherita,danie_główne,28,3
+772,piątek,15,Heineken 0.33L,piwo,10,3
+773,piątek,15,Burger Classic,danie_główne,24,4
+773,piątek,15,Kawa espresso,gorący_napój,6,4
+774,piątek,15,Kotlet schabowy,danie_główne,30,11
+774,piątek,15,Heineken 0.33L,piwo,10,11
+774,piątek,15,Pizza Margherita,danie_główne,28,11
+775,piątek,15,Wrap z kurczakiem,danie_główne,18,6
+775,piątek,15,Heineken 0.33L,piwo,10,6
+776,piątek,15,Kotlet schabowy,danie_główne,30,9
+776,piątek,15,Żywiec 0.5L,piwo,8,9
+777,piątek,15,Pizza Margherita,danie_główne,28,8
+777,piątek,15,Sok pomarańczowy,zimny_napój,8,8
+778,piątek,15,Pizza Margherita,danie_główne,28,16
+778,piątek,15,Cola 0.33L,zimny_napój,7,16
+779,piątek,15,Wrap z kurczakiem,danie_główne,18,6
+779,piątek,15,Herbata,gorący_napój,5,6
+780,piątek,15,Zupa dnia,danie_główne,16,8
+780,piątek,15,Sok pomarańczowy,zimny_napój,8,8
+781,piątek,16,Spaghetti Carbonara,danie_główne,26,6
+781,piątek,16,Żywiec 0.5L,piwo,8,6
+781,piątek,16,Woda mineralna,zimny_napój,5,6
+781,piątek,16,Sałatka Caesar,danie_główne,22,6
+782,piątek,16,Quesadilla,danie_główne,20,6
+782,piątek,16,Sałatka Caesar,danie_główne,22,6
+783,piątek,16,Kotlet schabowy,danie_główne,30,8
+783,piątek,16,Heineken 0.33L,piwo,10,8
+784,piątek,16,Pizza Margherita,danie_główne,28,8
+784,piątek,16,Kawa espresso,gorący_napój,6,8
+785,piątek,16,Zupa dnia,danie_główne,16,10
+785,piątek,16,Żywiec 0.5L,piwo,8,10
+786,piątek,16,Spaghetti Carbonara,danie_główne,26,10
+786,piątek,16,Cola 0.33L,zimny_napój,7,10
+787,piątek,16,Kotlet schabowy,danie_główne,30,7
+787,piątek,16,Cola 0.33L,zimny_napój,7,7
+787,piątek,16,Cola 0.33L,zimny_napój,7,7
+788,piątek,16,Pizza Margherita,danie_główne,28,5
+789,piątek,16,Burger Classic,danie_główne,24,7
+789,piątek,16,Kawa espresso,gorący_napój,6,7
+790,piątek,16,Ryba z grilla,danie_główne,35,7
+790,piątek,16,Żywiec 0.5L,piwo,8,7
+791,piątek,16,Quesadilla,danie_główne,20,10
+791,piątek,16,Craft IPA 0.33L,piwo,14,10
+792,piątek,17,Burger Classic,danie_główne,24,8
+792,piątek,17,Sok pomarańczowy,zimny_napój,8,8
+793,piątek,17,Ryba z grilla,danie_główne,35,9
+793,piątek,17,Żywiec 0.5L,piwo,8,9
+793,piątek,17,Heineken 0.33L,piwo,10,9
+794,piątek,17,Zupa dnia,danie_główne,16,9
+794,piątek,17,Heineken 0.33L,piwo,10,9
+795,piątek,17,Ryba z grilla,danie_główne,35,17
+795,piątek,17,Żywiec 0.5L,piwo,8,17
+796,piątek,17,Kotlet schabowy,danie_główne,30,4
+796,piątek,17,Herbata,gorący_napój,5,4
+797,piątek,17,Wrap z kurczakiem,danie_główne,18,7
+797,piątek,17,Cola 0.33L,zimny_napój,7,7
+798,piątek,17,Zupa dnia,danie_główne,16,4
+798,piątek,17,Heineken 0.33L,piwo,10,4
+799,piątek,17,Quesadilla,danie_główne,20,3
+799,piątek,17,Heineken 0.33L,piwo,10,3
+799,piątek,17,Craft IPA 0.33L,piwo,14,3
+800,piątek,17,Pizza Margherita,danie_główne,28,8
+800,piątek,17,Heineken 0.33L,piwo,10,8
+800,piątek,17,Heineken 0.33L,piwo,10,8
+801,piątek,17,Quesadilla,danie_główne,20,9
+801,piątek,17,Herbata,gorący_napój,5,9
+802,piątek,17,Spaghetti Carbonara,danie_główne,26,10
+802,piątek,17,Kawa espresso,gorący_napój,6,10
+803,piątek,17,Spaghetti Carbonara,danie_główne,26,14
+803,piątek,17,Kawa espresso,gorący_napój,6,14
+804,piątek,17,Zupa dnia,danie_główne,16,7
+804,piątek,17,Sok pomarańczowy,zimny_napój,8,7
+805,piątek,17,Pizza Margherita,danie_główne,28,14
+805,piątek,17,Żywiec 0.5L,piwo,8,14
+806,piątek,17,Risotto,danie_główne,32,6
+806,piątek,17,Cola 0.33L,zimny_napój,7,6
+807,piątek,17,Quesadilla,danie_główne,20,7
+807,piątek,17,Kawa espresso,gorący_napój,6,7
+808,piątek,17,Burger Classic,danie_główne,24,2
+808,piątek,17,Sok pomarańczowy,zimny_napój,8,2
+809,piątek,17,Burger Classic,danie_główne,24,2
+809,piątek,17,Herbata,gorący_napój,5,2
+810,piątek,17,Pizza Margherita,danie_główne,28,5
+810,piątek,17,Żywiec 0.5L,piwo,8,5
+811,piątek,17,Pizza Margherita,danie_główne,28,11
+812,piątek,17,Ryba z grilla,danie_główne,35,7
+812,piątek,17,Heineken 0.33L,piwo,10,7
+813,piątek,17,Kotlet schabowy,danie_główne,30,6
+813,piątek,17,Heineken 0.33L,piwo,10,6
+813,piątek,17,Craft IPA 0.33L,piwo,14,6
+814,piątek,17,Spaghetti Carbonara,danie_główne,26,10
+814,piątek,17,Kawa espresso,gorący_napój,6,10
+815,piątek,17,Burger Classic,danie_główne,24,14
+815,piątek,17,Craft IPA 0.33L,piwo,14,14
+816,piątek,17,Zupa dnia,danie_główne,16,10
+816,piątek,17,Cola 0.33L,zimny_napój,7,10
+816,piątek,17,Cola 0.33L,zimny_napój,7,10
+817,piątek,17,Zupa dnia,danie_główne,16,7
+817,piątek,17,Heineken 0.33L,piwo,10,7
+818,piątek,17,Spaghetti Carbonara,danie_główne,26,10
+818,piątek,17,Cola 0.33L,zimny_napój,7,10
+819,piątek,18,Burger Classic,danie_główne,24,12
+819,piątek,18,Sok pomarańczowy,zimny_napój,8,12
+820,piątek,18,Quesadilla,danie_główne,20,12
+820,piątek,18,Craft IPA 0.33L,piwo,14,12
+820,piątek,18,Sok pomarańczowy,zimny_napój,8,12
+821,piątek,18,Pizza Margherita,danie_główne,28,6
+821,piątek,18,Żywiec 0.5L,piwo,8,6
+822,piątek,18,Kotlet schabowy,danie_główne,30,8
+822,piątek,18,Kawa espresso,gorący_napój,6,8
+823,piątek,18,Pizza Margherita,danie_główne,28,9
+823,piątek,18,Cola 0.33L,zimny_napój,7,9
+824,piątek,18,Burger Classic,danie_główne,24,6
+824,piątek,18,Pizza Margherita,danie_główne,28,6
+824,piątek,18,Burger Classic,danie_główne,24,6
+824,piątek,18,Cola 0.33L,zimny_napój,7,6
+824,piątek,18,Burger Classic,danie_główne,24,6
+825,piątek,18,Pizza Margherita,danie_główne,28,9
+825,piątek,18,Żywiec 0.5L,piwo,8,9
+826,piątek,18,Wrap z kurczakiem,danie_główne,18,14
+826,piątek,18,Heineken 0.33L,piwo,10,14
+827,piątek,18,Kotlet schabowy,danie_główne,30,11
+827,piątek,18,Żywiec 0.5L,piwo,8,11
+828,piątek,18,Wrap z kurczakiem,danie_główne,18,14
+828,piątek,18,Żywiec 0.5L,piwo,8,14
+829,piątek,18,Zupa dnia,danie_główne,16,5
+830,piątek,18,Pizza Margherita,danie_główne,28,6
+830,piątek,18,Craft IPA 0.33L,piwo,14,6
+831,piątek,18,Wrap z kurczakiem,danie_główne,18,9
+831,piątek,18,Cola 0.33L,zimny_napój,7,9
+832,piątek,18,Spaghetti Carbonara,danie_główne,26,7
+832,piątek,18,Woda mineralna,zimny_napój,5,7
+833,piątek,18,Quesadilla,danie_główne,20,6
+833,piątek,18,Woda mineralna,zimny_napój,5,6
+834,piątek,18,Kotlet schabowy,danie_główne,30,4
+834,piątek,18,Craft IPA 0.33L,piwo,14,4
+835,piątek,18,Kotlet schabowy,danie_główne,30,7
+836,piątek,18,Zupa dnia,danie_główne,16,9
+836,piątek,18,Pizza Margherita,danie_główne,28,9
+837,piątek,18,Pizza Margherita,danie_główne,28,6
+837,piątek,18,Sok pomarańczowy,zimny_napój,8,6
+837,piątek,18,Heineken 0.33L,piwo,10,6
+838,piątek,18,Sałatka Caesar,danie_główne,22,9
+838,piątek,18,Żywiec 0.5L,piwo,8,9
+839,piątek,18,Burger Classic,danie_główne,24,4
+839,piątek,18,Kawa espresso,gorący_napój,6,4
+840,piątek,18,Pizza Margherita,danie_główne,28,5
+840,piątek,18,Kawa espresso,gorący_napój,6,5
+841,piątek,18,Kotlet schabowy,danie_główne,30,11
+841,piątek,18,Cola 0.33L,zimny_napój,7,11
+842,piątek,18,Risotto,danie_główne,32,10
+842,piątek,18,Heineken 0.33L,piwo,10,10
+842,piątek,18,Burger Classic,danie_główne,24,10
+843,piątek,18,Burger Classic,danie_główne,24,4
+843,piątek,18,Żywiec 0.5L,piwo,8,4
+844,piątek,18,Wrap z kurczakiem,danie_główne,18,8
+844,piątek,18,Craft IPA 0.33L,piwo,14,8
+845,piątek,18,Zupa dnia,danie_główne,16,12
+845,piątek,18,Żywiec 0.5L,piwo,8,12
+846,piątek,18,Zupa dnia,danie_główne,16,8
+847,piątek,18,Burger Classic,danie_główne,24,6
+847,piątek,18,Cola 0.33L,zimny_napój,7,6
+848,piątek,18,Kotlet schabowy,danie_główne,30,5
+848,piątek,18,Żywiec 0.5L,piwo,8,5
+849,piątek,18,Pizza Margherita,danie_główne,28,7
+849,piątek,18,Kawa espresso,gorący_napój,6,7
+849,piątek,18,Cola 0.33L,zimny_napój,7,7
+850,piątek,18,Sałatka Caesar,danie_główne,22,5
+850,piątek,18,Kawa espresso,gorący_napój,6,5
+850,piątek,18,Kotlet schabowy,danie_główne,30,5
+850,piątek,18,Żywiec 0.5L,piwo,8,5
+851,piątek,18,Pizza Margherita,danie_główne,28,10
+852,piątek,18,Sałatka Caesar,danie_główne,22,4
+853,piątek,18,Spaghetti Carbonara,danie_główne,26,11
+853,piątek,18,Kawa espresso,gorący_napój,6,11
+853,piątek,18,Żywiec 0.5L,piwo,8,11
+854,piątek,18,Pizza Margherita,danie_główne,28,8
+854,piątek,18,Sok pomarańczowy,zimny_napój,8,8
+855,piątek,18,Burger Classic,danie_główne,24,7
+856,piątek,18,Spaghetti Carbonara,danie_główne,26,8
+856,piątek,18,Herbata,gorący_napój,5,8
+857,piątek,18,Sałatka Caesar,danie_główne,22,10
+858,piątek,18,Spaghetti Carbonara,danie_główne,26,9
+859,piątek,18,Kotlet schabowy,danie_główne,30,12
+859,piątek,18,Żywiec 0.5L,piwo,8,12
+860,piątek,18,Pizza Margherita,danie_główne,28,5
+860,piątek,18,Cola 0.33L,zimny_napój,7,5
+861,piątek,18,Kotlet schabowy,danie_główne,30,6
+861,piątek,18,Sok pomarańczowy,zimny_napój,8,6
+861,piątek,18,Heineken 0.33L,piwo,10,6
+862,piątek,19,Spaghetti Carbonara,danie_główne,26,6
+862,piątek,19,Craft IPA 0.33L,piwo,14,6
+862,piątek,19,Sałatka Caesar,danie_główne,22,6
+863,piątek,19,Risotto,danie_główne,32,10
+863,piątek,19,Kawa espresso,gorący_napój,6,10
+863,piątek,19,Kotlet schabowy,danie_główne,30,10
+864,piątek,19,Wrap z kurczakiem,danie_główne,18,4
+864,piątek,19,Kawa espresso,gorący_napój,6,4
+865,piątek,19,Kotlet schabowy,danie_główne,30,8
+865,piątek,19,Cola 0.33L,zimny_napój,7,8
+865,piątek,19,Herbata,gorący_napój,5,8
+866,piątek,19,Burger Classic,danie_główne,24,9
+866,piątek,19,Żywiec 0.5L,piwo,8,9
+866,piątek,19,Sok pomarańczowy,zimny_napój,8,9
+866,piątek,19,Spaghetti Carbonara,danie_główne,26,9
+866,piątek,19,Woda mineralna,zimny_napój,5,9
+867,piątek,19,Sałatka Caesar,danie_główne,22,8
+868,piątek,19,Spaghetti Carbonara,danie_główne,26,9
+868,piątek,19,Cola 0.33L,zimny_napój,7,9
+869,piątek,19,Pizza Margherita,danie_główne,28,4
+869,piątek,19,Heineken 0.33L,piwo,10,4
+870,piątek,19,Pizza Margherita,danie_główne,28,7
+871,piątek,19,Spaghetti Carbonara,danie_główne,26,4
+871,piątek,19,Herbata,gorący_napój,5,4
+872,piątek,19,Spaghetti Carbonara,danie_główne,26,9
+873,piątek,19,Quesadilla,danie_główne,20,6
+873,piątek,19,Cola 0.33L,zimny_napój,7,6
+874,piątek,19,Kotlet schabowy,danie_główne,30,11
+874,piątek,19,Heineken 0.33L,piwo,10,11
+874,piątek,19,Ryba z grilla,danie_główne,35,11
+875,piątek,19,Ryba z grilla,danie_główne,35,3
+875,piątek,19,Herbata,gorący_napój,5,3
+875,piątek,19,Wrap z kurczakiem,danie_główne,18,3
+876,piątek,19,Quesadilla,danie_główne,20,5
+876,piątek,19,Heineken 0.33L,piwo,10,5
+877,piątek,19,Risotto,danie_główne,32,11
+877,piątek,19,Sałatka Caesar,danie_główne,22,11
+877,piątek,19,Quesadilla,danie_główne,20,11
+878,piątek,19,Pizza Margherita,danie_główne,28,4
+878,piątek,19,Sok pomarańczowy,zimny_napój,8,4
+878,piątek,19,Cola 0.33L,zimny_napój,7,4
+878,piątek,19,Burger Classic,danie_główne,24,4
+878,piątek,19,Cola 0.33L,zimny_napój,7,4
+879,piątek,19,Burger Classic,danie_główne,24,10
+879,piątek,19,Sok pomarańczowy,zimny_napój,8,10
+880,piątek,19,Wrap z kurczakiem,danie_główne,18,10
+880,piątek,19,Heineken 0.33L,piwo,10,10
+881,piątek,19,Spaghetti Carbonara,danie_główne,26,10
+881,piątek,19,Heineken 0.33L,piwo,10,10
+882,piątek,19,Spaghetti Carbonara,danie_główne,26,7
+882,piątek,19,Cola 0.33L,zimny_napój,7,7
+883,piątek,19,Pizza Margherita,danie_główne,28,11
+883,piątek,19,Cola 0.33L,zimny_napój,7,11
+884,piątek,19,Spaghetti Carbonara,danie_główne,26,9
+884,piątek,19,Żywiec 0.5L,piwo,8,9
+884,piątek,19,Sałatka Caesar,danie_główne,22,9
+885,piątek,19,Spaghetti Carbonara,danie_główne,26,12
+885,piątek,19,Kawa espresso,gorący_napój,6,12
+886,piątek,19,Wrap z kurczakiem,danie_główne,18,6
+886,piątek,19,Sok pomarańczowy,zimny_napój,8,6
+887,piątek,19,Kotlet schabowy,danie_główne,30,12
+887,piątek,19,Cola 0.33L,zimny_napój,7,12
+887,piątek,19,Sok pomarańczowy,zimny_napój,8,12
+888,piątek,19,Burger Classic,danie_główne,24,12
+888,piątek,19,Pizza Margherita,danie_główne,28,12
+888,piątek,19,Woda mineralna,zimny_napój,5,12
+889,piątek,19,Quesadilla,danie_główne,20,6
+889,piątek,19,Kawa espresso,gorący_napój,6,6
+890,piątek,19,Kotlet schabowy,danie_główne,30,6
+890,piątek,19,Heineken 0.33L,piwo,10,6
+891,piątek,19,Burger Classic,danie_główne,24,9
+891,piątek,19,Herbata,gorący_napój,5,9
+892,piątek,19,Pizza Margherita,danie_główne,28,11
+892,piątek,19,Cola 0.33L,zimny_napój,7,11
+893,piątek,19,Kotlet schabowy,danie_główne,30,8
+893,piątek,19,Cola 0.33L,zimny_napój,7,8
+894,piątek,19,Burger Classic,danie_główne,24,7
+894,piątek,19,Żywiec 0.5L,piwo,8,7
+894,piątek,19,Woda mineralna,zimny_napój,5,7
+895,piątek,19,Spaghetti Carbonara,danie_główne,26,8
+896,piątek,19,Pizza Margherita,danie_główne,28,9
+896,piątek,19,Kawa espresso,gorący_napój,6,9
+896,piątek,19,Spaghetti Carbonara,danie_główne,26,9
+897,piątek,19,Risotto,danie_główne,32,8
+898,piątek,19,Pizza Margherita,danie_główne,28,6
+898,piątek,19,Kawa espresso,gorący_napój,6,6
+899,piątek,19,Ryba z grilla,danie_główne,35,12
+899,piątek,19,Craft IPA 0.33L,piwo,14,12
+900,piątek,19,Quesadilla,danie_główne,20,9
+900,piątek,19,Heineken 0.33L,piwo,10,9
+901,piątek,19,Wrap z kurczakiem,danie_główne,18,5
+901,piątek,19,Żywiec 0.5L,piwo,8,5
+902,piątek,19,Sałatka Caesar,danie_główne,22,9
+902,piątek,19,Heineken 0.33L,piwo,10,9
+903,piątek,19,Burger Classic,danie_główne,24,12
+903,piątek,19,Herbata,gorący_napój,5,12
+904,piątek,19,Kotlet schabowy,danie_główne,30,9
+904,piątek,19,Żywiec 0.5L,piwo,8,9
+904,piątek,19,Zupa dnia,danie_główne,16,9
+905,piątek,19,Pizza Margherita,danie_główne,28,10
+905,piątek,19,Woda mineralna,zimny_napój,5,10
+906,piątek,20,Kotlet schabowy,danie_główne,30,12
+906,piątek,20,Żywiec 0.5L,piwo,8,12
+907,piątek,20,Sałatka Caesar,danie_główne,22,4
+907,piątek,20,Cola 0.33L,zimny_napój,7,4
+908,piątek,20,Ryba z grilla,danie_główne,35,10
+908,piątek,20,Craft IPA 0.33L,piwo,14,10
+909,piątek,20,Pizza Margherita,danie_główne,28,15
+909,piątek,20,Craft IPA 0.33L,piwo,14,15
+910,piątek,20,Wrap z kurczakiem,danie_główne,18,11
+911,piątek,20,Burger Classic,danie_główne,24,9
+911,piątek,20,Woda mineralna,zimny_napój,5,9
+912,piątek,20,Risotto,danie_główne,32,6
+912,piątek,20,Craft IPA 0.33L,piwo,14,6
+913,piątek,20,Zupa dnia,danie_główne,16,5
+913,piątek,20,Kawa espresso,gorący_napój,6,5
+913,piątek,20,Sok pomarańczowy,zimny_napój,8,5
+914,piątek,20,Sałatka Caesar,danie_główne,22,10
+914,piątek,20,Heineken 0.33L,piwo,10,10
+915,piątek,20,Pizza Margherita,danie_główne,28,8
+915,piątek,20,Sok pomarańczowy,zimny_napój,8,8
+916,piątek,20,Kotlet schabowy,danie_główne,30,9
+916,piątek,20,Kawa espresso,gorący_napój,6,9
+917,piątek,20,Risotto,danie_główne,32,11
+917,piątek,20,Cola 0.33L,zimny_napój,7,11
+917,piątek,20,Heineken 0.33L,piwo,10,11
+918,piątek,20,Ryba z grilla,danie_główne,35,12
+918,piątek,20,Sok pomarańczowy,zimny_napój,8,12
+919,piątek,20,Kotlet schabowy,danie_główne,30,1
+919,piątek,20,Żywiec 0.5L,piwo,8,1
+919,piątek,20,Heineken 0.33L,piwo,10,1
+920,piątek,20,Zupa dnia,danie_główne,16,10
+920,piątek,20,Pizza Margherita,danie_główne,28,10
+921,piątek,20,Sałatka Caesar,danie_główne,22,5
+921,piątek,20,Żywiec 0.5L,piwo,8,5
+922,piątek,20,Zupa dnia,danie_główne,16,4
+922,piątek,20,Cola 0.33L,zimny_napój,7,4
+923,piątek,20,Quesadilla,danie_główne,20,6
+923,piątek,20,Żywiec 0.5L,piwo,8,6
+923,piątek,20,Heineken 0.33L,piwo,10,6
+924,piątek,20,Risotto,danie_główne,32,10
+924,piątek,20,Heineken 0.33L,piwo,10,10
+925,piątek,20,Burger Classic,danie_główne,24,11
+925,piątek,20,Craft IPA 0.33L,piwo,14,11
+926,piątek,20,Sałatka Caesar,danie_główne,22,6
+926,piątek,20,Cola 0.33L,zimny_napój,7,6
+927,piątek,20,Risotto,danie_główne,32,5
+927,piątek,20,Sok pomarańczowy,zimny_napój,8,5
+928,piątek,20,Spaghetti Carbonara,danie_główne,26,4
+928,piątek,20,Sok pomarańczowy,zimny_napój,8,4
+928,piątek,20,Kawa espresso,gorący_napój,6,4
+929,piątek,20,Risotto,danie_główne,32,9
+929,piątek,20,Cola 0.33L,zimny_napój,7,9
+930,piątek,20,Pizza Margherita,danie_główne,28,6
+930,piątek,20,Żywiec 0.5L,piwo,8,6
+931,piątek,20,Kotlet schabowy,danie_główne,30,9
+931,piątek,20,Cola 0.33L,zimny_napój,7,9
+931,piątek,20,Herbata,gorący_napój,5,9
+932,piątek,20,Quesadilla,danie_główne,20,11
+932,piątek,20,Cola 0.33L,zimny_napój,7,11
+932,piątek,20,Sok pomarańczowy,zimny_napój,8,11
+933,piątek,20,Pizza Margherita,danie_główne,28,7
+933,piątek,20,Herbata,gorący_napój,5,7
+933,piątek,20,Kotlet schabowy,danie_główne,30,7
+934,piątek,20,Burger Classic,danie_główne,24,13
+934,piątek,20,Woda mineralna,zimny_napój,5,13
+935,piątek,20,Zupa dnia,danie_główne,16,6
+936,piątek,20,Quesadilla,danie_główne,20,9
+936,piątek,20,Ryba z grilla,danie_główne,35,9
+936,piątek,20,Kawa espresso,gorący_napój,6,9
+937,piątek,20,Risotto,danie_główne,32,13
+937,piątek,20,Kawa espresso,gorący_napój,6,13
+938,piątek,20,Wrap z kurczakiem,danie_główne,18,4
+938,piątek,20,Cola 0.33L,zimny_napój,7,4
+939,piątek,20,Risotto,danie_główne,32,12
+939,piątek,20,Sok pomarańczowy,zimny_napój,8,12
+939,piątek,20,Craft IPA 0.33L,piwo,14,12
+940,piątek,20,Spaghetti Carbonara,danie_główne,26,8
+940,piątek,20,Herbata,gorący_napój,5,8
+941,piątek,20,Pizza Margherita,danie_główne,28,12
+941,piątek,20,Żywiec 0.5L,piwo,8,12
+942,piątek,20,Wrap z kurczakiem,danie_główne,18,10
+942,piątek,20,Kawa espresso,gorący_napój,6,10
+943,piątek,20,Spaghetti Carbonara,danie_główne,26,11
+943,piątek,20,Heineken 0.33L,piwo,10,11
+944,piątek,20,Kotlet schabowy,danie_główne,30,9
+944,piątek,20,Kawa espresso,gorący_napój,6,9
+945,piątek,21,Zupa dnia,danie_główne,16,13
+945,piątek,21,Cola 0.33L,zimny_napój,7,13
+946,piątek,21,Risotto,danie_główne,32,3
+946,piątek,21,Kawa espresso,gorący_napój,6,3
+947,piątek,21,Quesadilla,danie_główne,20,7
+947,piątek,21,Kawa espresso,gorący_napój,6,7
+947,piątek,21,Zupa dnia,danie_główne,16,7
+948,piątek,21,Ryba z grilla,danie_główne,35,8
+948,piątek,21,Herbata,gorący_napój,5,8
+948,piątek,21,Heineken 0.33L,piwo,10,8
+949,piątek,21,Zupa dnia,danie_główne,16,6
+949,piątek,21,Heineken 0.33L,piwo,10,6
+950,piątek,21,Kotlet schabowy,danie_główne,30,6
+950,piątek,21,Sok pomarańczowy,zimny_napój,8,6
+950,piątek,21,Cola 0.33L,zimny_napój,7,6
+951,piątek,21,Zupa dnia,danie_główne,16,3
+951,piątek,21,Craft IPA 0.33L,piwo,14,3
+952,piątek,21,Pizza Margherita,danie_główne,28,5
+953,piątek,21,Quesadilla,danie_główne,20,9
+953,piątek,21,Żywiec 0.5L,piwo,8,9
+954,piątek,21,Risotto,danie_główne,32,11
+954,piątek,21,Heineken 0.33L,piwo,10,11
+955,piątek,21,Spaghetti Carbonara,danie_główne,26,9
+956,piątek,21,Risotto,danie_główne,32,11
+956,piątek,21,Craft IPA 0.33L,piwo,14,11
+957,piątek,21,Wrap z kurczakiem,danie_główne,18,9
+957,piątek,21,Pizza Margherita,danie_główne,28,9
+957,piątek,21,Craft IPA 0.33L,piwo,14,9
+958,piątek,21,Burger Classic,danie_główne,24,8
+958,piątek,21,Heineken 0.33L,piwo,10,8
+959,piątek,21,Ryba z grilla,danie_główne,35,4
+959,piątek,21,Cola 0.33L,zimny_napój,7,4
+960,piątek,21,Burger Classic,danie_główne,24,7
+960,piątek,21,Sok pomarańczowy,zimny_napój,8,7
+961,piątek,21,Burger Classic,danie_główne,24,3
+962,piątek,21,Zupa dnia,danie_główne,16,10
+962,piątek,21,Cola 0.33L,zimny_napój,7,10
+963,piątek,21,Wrap z kurczakiem,danie_główne,18,11
+963,piątek,21,Żywiec 0.5L,piwo,8,11
+963,piątek,21,Cola 0.33L,zimny_napój,7,11
+964,piątek,21,Quesadilla,danie_główne,20,9
+964,piątek,21,Żywiec 0.5L,piwo,8,9
+965,piątek,21,Kotlet schabowy,danie_główne,30,8
+965,piątek,21,Cola 0.33L,zimny_napój,7,8
+965,piątek,21,Sok pomarańczowy,zimny_napój,8,8
+966,piątek,21,Burger Classic,danie_główne,24,11
+966,piątek,21,Cola 0.33L,zimny_napój,7,11
+967,piątek,21,Burger Classic,danie_główne,24,7
+967,piątek,21,Woda mineralna,zimny_napój,5,7
+968,piątek,21,Sałatka Caesar,danie_główne,22,13
+968,piątek,21,Kawa espresso,gorący_napój,6,13
+969,piątek,21,Burger Classic,danie_główne,24,11
+969,piątek,21,Craft IPA 0.33L,piwo,14,11
+970,piątek,21,Wrap z kurczakiem,danie_główne,18,9
+970,piątek,21,Kawa espresso,gorący_napój,6,9
+971,piątek,21,Kotlet schabowy,danie_główne,30,6
+972,piątek,21,Quesadilla,danie_główne,20,11
+972,piątek,21,Heineken 0.33L,piwo,10,11
+973,piątek,21,Pizza Margherita,danie_główne,28,11
+973,piątek,21,Heineken 0.33L,piwo,10,11
+973,piątek,21,Cola 0.33L,zimny_napój,7,11
+974,piątek,21,Sałatka Caesar,danie_główne,22,9
+974,piątek,21,Heineken 0.33L,piwo,10,9
+975,piątek,21,Spaghetti Carbonara,danie_główne,26,10
+975,piątek,21,Heineken 0.33L,piwo,10,10
+976,piątek,21,Zupa dnia,danie_główne,16,5
+976,piątek,21,Cola 0.33L,zimny_napój,7,5
+977,piątek,21,Pizza Margherita,danie_główne,28,2
+977,piątek,21,Sok pomarańczowy,zimny_napój,8,2
+978,piątek,21,Zupa dnia,danie_główne,16,6
+978,piątek,21,Kawa espresso,gorący_napój,6,6
+979,piątek,21,Kotlet schabowy,danie_główne,30,10
+979,piątek,21,Woda mineralna,zimny_napój,5,10
+980,piątek,21,Pizza Margherita,danie_główne,28,11
+980,piątek,21,Cola 0.33L,zimny_napój,7,11
+981,piątek,21,Zupa dnia,danie_główne,16,7
+981,piątek,21,Craft IPA 0.33L,piwo,14,7
+982,piątek,21,Kotlet schabowy,danie_główne,30,12
+982,piątek,21,Craft IPA 0.33L,piwo,14,12
+983,piątek,21,Pizza Margherita,danie_główne,28,9
+983,piątek,21,Sok pomarańczowy,zimny_napój,8,9
+984,piątek,21,Ryba z grilla,danie_główne,35,14
+984,piątek,21,Quesadilla,danie_główne,20,14
+985,piątek,21,Pizza Margherita,danie_główne,28,4
+985,piątek,21,Sok pomarańczowy,zimny_napój,8,4
+986,piątek,21,Quesadilla,danie_główne,20,12
+987,piątek,21,Risotto,danie_główne,32,14
+987,piątek,21,Kawa espresso,gorący_napój,6,14
+987,piątek,21,Quesadilla,danie_główne,20,14
+987,piątek,21,Pizza Margherita,danie_główne,28,14
+988,piątek,22,Spaghetti Carbonara,danie_główne,26,14
+988,piątek,22,Kawa espresso,gorący_napój,6,14
+989,piątek,22,Wrap z kurczakiem,danie_główne,18,8
+989,piątek,22,Kawa espresso,gorący_napój,6,8
+989,piątek,22,Heineken 0.33L,piwo,10,8
+990,piątek,22,Kotlet schabowy,danie_główne,30,9
+990,piątek,22,Cola 0.33L,zimny_napój,7,9
+990,piątek,22,Żywiec 0.5L,piwo,8,9
+990,piątek,22,Heineken 0.33L,piwo,10,9
+990,piątek,22,Burger Classic,danie_główne,24,9
+991,piątek,22,Kotlet schabowy,danie_główne,30,9
+992,piątek,22,Spaghetti Carbonara,danie_główne,26,7
+992,piątek,22,Kawa espresso,gorący_napój,6,7
+993,piątek,22,Sałatka Caesar,danie_główne,22,10
+993,piątek,22,Żywiec 0.5L,piwo,8,10
+993,piątek,22,Craft IPA 0.33L,piwo,14,10
+994,piątek,22,Quesadilla,danie_główne,20,7
+995,piątek,22,Pizza Margherita,danie_główne,28,10
+995,piątek,22,Woda mineralna,zimny_napój,5,10
+996,piątek,22,Pizza Margherita,danie_główne,28,12
+996,piątek,22,Sok pomarańczowy,zimny_napój,8,12
+997,piątek,22,Pizza Margherita,danie_główne,28,18
+997,piątek,22,Żywiec 0.5L,piwo,8,18
+998,piątek,22,Spaghetti Carbonara,danie_główne,26,12
+998,piątek,22,Cola 0.33L,zimny_napój,7,12
+998,piątek,22,Cola 0.33L,zimny_napój,7,12
+998,piątek,22,Craft IPA 0.33L,piwo,14,12
+999,piątek,22,Wrap z kurczakiem,danie_główne,18,9
+999,piątek,22,Żywiec 0.5L,piwo,8,9
+999,piątek,22,Cola 0.33L,zimny_napój,7,9
+999,piątek,22,Craft IPA 0.33L,piwo,14,9
+1000,piątek,22,Pizza Margherita,danie_główne,28,8
+1000,piątek,22,Woda mineralna,zimny_napój,5,8
+1001,piątek,22,Zupa dnia,danie_główne,16,4
+1002,piątek,22,Burger Classic,danie_główne,24,8
+1003,piątek,22,Burger Classic,danie_główne,24,7
+1003,piątek,22,Heineken 0.33L,piwo,10,7
+1004,piątek,22,Burger Classic,danie_główne,24,9
+1004,piątek,22,Craft IPA 0.33L,piwo,14,9
+1005,piątek,22,Burger Classic,danie_główne,24,4
+1005,piątek,22,Heineken 0.33L,piwo,10,4
+1006,piątek,22,Spaghetti Carbonara,danie_główne,26,5
+1006,piątek,22,Woda mineralna,zimny_napój,5,5
+1006,piątek,22,Quesadilla,danie_główne,20,5
+1007,piątek,22,Sałatka Caesar,danie_główne,22,10
+1007,piątek,22,Żywiec 0.5L,piwo,8,10
+1008,piątek,22,Wrap z kurczakiem,danie_główne,18,5
+1009,piątek,22,Kotlet schabowy,danie_główne,30,8
+1009,piątek,22,Craft IPA 0.33L,piwo,14,8
+1010,piątek,22,Spaghetti Carbonara,danie_główne,26,4
+1010,piątek,22,Sok pomarańczowy,zimny_napój,8,4
+1011,piątek,22,Sałatka Caesar,danie_główne,22,1
+1011,piątek,22,Heineken 0.33L,piwo,10,1
+1012,piątek,22,Spaghetti Carbonara,danie_główne,26,7
+1012,piątek,22,Sok pomarańczowy,zimny_napój,8,7
+1013,piątek,22,Ryba z grilla,danie_główne,35,8
+1013,piątek,22,Żywiec 0.5L,piwo,8,8
+1013,piątek,22,Zupa dnia,danie_główne,16,8
+1014,piątek,22,Quesadilla,danie_główne,20,11
+1014,piątek,22,Cola 0.33L,zimny_napój,7,11
+1015,piątek,22,Sałatka Caesar,danie_główne,22,7
+1015,piątek,22,Craft IPA 0.33L,piwo,14,7
+1016,piątek,22,Kotlet schabowy,danie_główne,30,6
+1016,piątek,22,Heineken 0.33L,piwo,10,6
+1016,piątek,22,Żywiec 0.5L,piwo,8,6
+1016,piątek,22,Żywiec 0.5L,piwo,8,6
+1017,piątek,22,Zupa dnia,danie_główne,16,9
+1017,piątek,22,Cola 0.33L,zimny_napój,7,9
+1018,piątek,22,Kotlet schabowy,danie_główne,30,10
+1019,piątek,22,Sałatka Caesar,danie_główne,22,8
+1019,piątek,22,Cola 0.33L,zimny_napój,7,8
+1020,piątek,22,Spaghetti Carbonara,danie_główne,26,1
+1020,piątek,22,Craft IPA 0.33L,piwo,14,1
+1021,piątek,22,Spaghetti Carbonara,danie_główne,26,10
+1021,piątek,22,Cola 0.33L,zimny_napój,7,10
+1022,piątek,22,Kotlet schabowy,danie_główne,30,9
+1022,piątek,22,Sok pomarańczowy,zimny_napój,8,9
+1022,piątek,22,Craft IPA 0.33L,piwo,14,9
+1023,piątek,22,Wrap z kurczakiem,danie_główne,18,9
+1023,piątek,22,Craft IPA 0.33L,piwo,14,9
+1023,piątek,22,Żywiec 0.5L,piwo,8,9
+1024,piątek,22,Pizza Margherita,danie_główne,28,6
+1024,piątek,22,Kawa espresso,gorący_napój,6,6
+1025,piątek,22,Pizza Margherita,danie_główne,28,9
+1025,piątek,22,Herbata,gorący_napój,5,9
+1026,piątek,22,Quesadilla,danie_główne,20,7
+1026,piątek,22,Cola 0.33L,zimny_napój,7,7
+1027,piątek,22,Kotlet schabowy,danie_główne,30,7
+1027,piątek,22,Żywiec 0.5L,piwo,8,7
+1028,piątek,22,Ryba z grilla,danie_główne,35,9
+1028,piątek,22,Sok pomarańczowy,zimny_napój,8,9
+1029,piątek,22,Spaghetti Carbonara,danie_główne,26,4
+1029,piątek,22,Cola 0.33L,zimny_napój,7,4
+1030,piątek,23,Wrap z kurczakiem,danie_główne,18,8
+1030,piątek,23,Żywiec 0.5L,piwo,8,8
+1031,piątek,23,Risotto,danie_główne,32,6
+1031,piątek,23,Woda mineralna,zimny_napój,5,6
+1031,piątek,23,Woda mineralna,zimny_napój,5,6
+1032,piątek,23,Burger Classic,danie_główne,24,14
+1032,piątek,23,Heineken 0.33L,piwo,10,14
+1032,piątek,23,Heineken 0.33L,piwo,10,14
+1032,piątek,23,Woda mineralna,zimny_napój,5,14
+1033,piątek,23,Quesadilla,danie_główne,20,9
+1033,piątek,23,Woda mineralna,zimny_napój,5,9
+1034,piątek,23,Kotlet schabowy,danie_główne,30,10
+1034,piątek,23,Sok pomarańczowy,zimny_napój,8,10
+1035,piątek,23,Spaghetti Carbonara,danie_główne,26,12
+1035,piątek,23,Woda mineralna,zimny_napój,5,12
+1036,piątek,23,Quesadilla,danie_główne,20,9
+1036,piątek,23,Heineken 0.33L,piwo,10,9
+1037,piątek,23,Wrap z kurczakiem,danie_główne,18,8
+1037,piątek,23,Sok pomarańczowy,zimny_napój,8,8
+1038,piątek,23,Pizza Margherita,danie_główne,28,4
+1038,piątek,23,Heineken 0.33L,piwo,10,4
+1039,piątek,23,Sałatka Caesar,danie_główne,22,7
+1039,piątek,23,Kawa espresso,gorący_napój,6,7
+1039,piątek,23,Herbata,gorący_napój,5,7
+1040,piątek,23,Sałatka Caesar,danie_główne,22,8
+1040,piątek,23,Kawa espresso,gorący_napój,6,8
+1040,piątek,23,Craft IPA 0.33L,piwo,14,8
+1041,piątek,23,Ryba z grilla,danie_główne,35,8
+1041,piątek,23,Heineken 0.33L,piwo,10,8
+1042,piątek,23,Sałatka Caesar,danie_główne,22,6
+1042,piątek,23,Kawa espresso,gorący_napój,6,6
+1043,piątek,23,Pizza Margherita,danie_główne,28,10
+1043,piątek,23,Woda mineralna,zimny_napój,5,10
+1043,piątek,23,Burger Classic,danie_główne,24,10
+1044,piątek,23,Burger Classic,danie_główne,24,7
+1044,piątek,23,Heineken 0.33L,piwo,10,7
+1044,piątek,23,Risotto,danie_główne,32,7
+1045,piątek,23,Risotto,danie_główne,32,8
+1045,piątek,23,Cola 0.33L,zimny_napój,7,8
+1046,piątek,23,Pizza Margherita,danie_główne,28,11
+1046,piątek,23,Herbata,gorący_napój,5,11
+1047,piątek,23,Zupa dnia,danie_główne,16,4
+1047,piątek,23,Pizza Margherita,danie_główne,28,4
+1048,piątek,23,Burger Classic,danie_główne,24,7
+1048,piątek,23,Cola 0.33L,zimny_napój,7,7
+1049,piątek,23,Wrap z kurczakiem,danie_główne,18,9
+1049,piątek,23,Cola 0.33L,zimny_napój,7,9
+1050,piątek,23,Wrap z kurczakiem,danie_główne,18,9
+1050,piątek,23,Sok pomarańczowy,zimny_napój,8,9
+1051,piątek,23,Risotto,danie_główne,32,5
+1051,piątek,23,Heineken 0.33L,piwo,10,5
+1052,piątek,23,Quesadilla,danie_główne,20,8
+1052,piątek,23,Żywiec 0.5L,piwo,8,8
+1053,piątek,23,Sałatka Caesar,danie_główne,22,8
+1054,piątek,23,Pizza Margherita,danie_główne,28,17
+1054,piątek,23,Craft IPA 0.33L,piwo,14,17
+1055,piątek,23,Spaghetti Carbonara,danie_główne,26,11
+1055,piątek,23,Craft IPA 0.33L,piwo,14,11
+1056,piątek,23,Quesadilla,danie_główne,20,12
+1056,piątek,23,Craft IPA 0.33L,piwo,14,12
+1056,piątek,23,Heineken 0.33L,piwo,10,12
+1057,piątek,23,Burger Classic,danie_główne,24,5
+1057,piątek,23,Cola 0.33L,zimny_napój,7,5
+1057,piątek,23,Heineken 0.33L,piwo,10,5
+1058,piątek,24,Kotlet schabowy,danie_główne,30,6
+1058,piątek,24,Heineken 0.33L,piwo,10,6
+1059,piątek,24,Burger Classic,danie_główne,24,11
+1059,piątek,24,Sok pomarańczowy,zimny_napój,8,11
+1060,piątek,24,Wrap z kurczakiem,danie_główne,18,12
+1060,piątek,24,Spaghetti Carbonara,danie_główne,26,12
+1061,piątek,24,Pizza Margherita,danie_główne,28,9
+1061,piątek,24,Kawa espresso,gorący_napój,6,9
+1062,piątek,24,Spaghetti Carbonara,danie_główne,26,6
+1062,piątek,24,Craft IPA 0.33L,piwo,14,6
+1063,piątek,24,Wrap z kurczakiem,danie_główne,18,8
+1063,piątek,24,Herbata,gorący_napój,5,8
+1064,piątek,24,Wrap z kurczakiem,danie_główne,18,7
+1064,piątek,24,Cola 0.33L,zimny_napój,7,7
+1065,sobota,13,Burger Classic,danie_główne,24,14
+1065,sobota,13,Żywiec 0.5L,piwo,8,14
+1066,sobota,13,Pizza Margherita,danie_główne,28,5
+1066,sobota,13,Herbata,gorący_napój,5,5
+1067,sobota,13,Pizza Margherita,danie_główne,28,8
+1067,sobota,13,Heineken 0.33L,piwo,10,8
+1068,sobota,13,Burger Classic,danie_główne,24,5
+1068,sobota,13,Woda mineralna,zimny_napój,5,5
+1068,sobota,13,Craft IPA 0.33L,piwo,14,5
+1069,sobota,13,Burger Classic,danie_główne,24,12
+1069,sobota,13,Craft IPA 0.33L,piwo,14,12
+1070,sobota,13,Pizza Margherita,danie_główne,28,4
+1070,sobota,13,Cola 0.33L,zimny_napój,7,4
+1071,sobota,13,Burger Classic,danie_główne,24,11
+1071,sobota,13,Żywiec 0.5L,piwo,8,11
+1071,sobota,13,Sałatka Caesar,danie_główne,22,11
+1072,sobota,13,Ryba z grilla,danie_główne,35,11
+1072,sobota,13,Craft IPA 0.33L,piwo,14,11
+1073,sobota,13,Kotlet schabowy,danie_główne,30,13
+1073,sobota,13,Heineken 0.33L,piwo,10,13
+1074,sobota,13,Wrap z kurczakiem,danie_główne,18,10
+1074,sobota,13,Woda mineralna,zimny_napój,5,10
+1074,sobota,13,Cola 0.33L,zimny_napój,7,10
+1074,sobota,13,Żywiec 0.5L,piwo,8,10
+1075,sobota,13,Burger Classic,danie_główne,24,11
+1075,sobota,13,Herbata,gorący_napój,5,11
+1076,sobota,13,Spaghetti Carbonara,danie_główne,26,10
+1076,sobota,13,Cola 0.33L,zimny_napój,7,10
+1076,sobota,13,Żywiec 0.5L,piwo,8,10
+1076,sobota,13,Żywiec 0.5L,piwo,8,10
+1076,sobota,13,Cola 0.33L,zimny_napój,7,10
+1077,sobota,13,Pizza Margherita,danie_główne,28,12
+1078,sobota,13,Pizza Margherita,danie_główne,28,8
+1078,sobota,13,Craft IPA 0.33L,piwo,14,8
+1079,sobota,13,Burger Classic,danie_główne,24,8
+1079,sobota,13,Żywiec 0.5L,piwo,8,8
+1079,sobota,13,Burger Classic,danie_główne,24,8
+1080,sobota,13,Risotto,danie_główne,32,11
+1080,sobota,13,Heineken 0.33L,piwo,10,11
+1081,sobota,13,Ryba z grilla,danie_główne,35,10
+1081,sobota,13,Kawa espresso,gorący_napój,6,10
+1082,sobota,13,Zupa dnia,danie_główne,16,9
+1082,sobota,13,Craft IPA 0.33L,piwo,14,9
+1083,sobota,13,Burger Classic,danie_główne,24,6
+1083,sobota,13,Cola 0.33L,zimny_napój,7,6
+1083,sobota,13,Craft IPA 0.33L,piwo,14,6
+1084,sobota,13,Ryba z grilla,danie_główne,35,7
+1084,sobota,13,Sok pomarańczowy,zimny_napój,8,7
+1084,sobota,13,Heineken 0.33L,piwo,10,7
+1084,sobota,13,Quesadilla,danie_główne,20,7
+1085,sobota,14,Pizza Margherita,danie_główne,28,15
+1085,sobota,14,Craft IPA 0.33L,piwo,14,15
+1085,sobota,14,Woda mineralna,zimny_napój,5,15
+1086,sobota,14,Spaghetti Carbonara,danie_główne,26,9
+1086,sobota,14,Sok pomarańczowy,zimny_napój,8,9
+1086,sobota,14,Heineken 0.33L,piwo,10,9
+1087,sobota,14,Ryba z grilla,danie_główne,35,4
+1087,sobota,14,Kotlet schabowy,danie_główne,30,4
+1088,sobota,14,Wrap z kurczakiem,danie_główne,18,9
+1089,sobota,14,Sałatka Caesar,danie_główne,22,9
+1089,sobota,14,Żywiec 0.5L,piwo,8,9
+1090,sobota,14,Burger Classic,danie_główne,24,1
+1090,sobota,14,Cola 0.33L,zimny_napój,7,1
+1091,sobota,14,Burger Classic,danie_główne,24,4
+1091,sobota,14,Sok pomarańczowy,zimny_napój,8,4
+1092,sobota,14,Sałatka Caesar,danie_główne,22,10
+1092,sobota,14,Sok pomarańczowy,zimny_napój,8,10
+1093,sobota,14,Spaghetti Carbonara,danie_główne,26,8
+1093,sobota,14,Woda mineralna,zimny_napój,5,8
+1093,sobota,14,Quesadilla,danie_główne,20,8
+1094,sobota,14,Spaghetti Carbonara,danie_główne,26,8
+1094,sobota,14,Heineken 0.33L,piwo,10,8
+1095,sobota,14,Pizza Margherita,danie_główne,28,8
+1095,sobota,14,Żywiec 0.5L,piwo,8,8
+1096,sobota,14,Kotlet schabowy,danie_główne,30,5
+1096,sobota,14,Craft IPA 0.33L,piwo,14,5
+1096,sobota,14,Pizza Margherita,danie_główne,28,5
+1097,sobota,14,Quesadilla,danie_główne,20,7
+1097,sobota,14,Cola 0.33L,zimny_napój,7,7
+1098,sobota,14,Pizza Margherita,danie_główne,28,3
+1099,sobota,14,Zupa dnia,danie_główne,16,9
+1099,sobota,14,Żywiec 0.5L,piwo,8,9
+1100,sobota,14,Sałatka Caesar,danie_główne,22,9
+1100,sobota,14,Cola 0.33L,zimny_napój,7,9
+1100,sobota,14,Risotto,danie_główne,32,9
+1101,sobota,14,Kotlet schabowy,danie_główne,30,6
+1102,sobota,14,Ryba z grilla,danie_główne,35,12
+1102,sobota,14,Woda mineralna,zimny_napój,5,12
+1103,sobota,14,Spaghetti Carbonara,danie_główne,26,10
+1103,sobota,14,Sok pomarańczowy,zimny_napój,8,10
+1104,sobota,15,Spaghetti Carbonara,danie_główne,26,6
+1104,sobota,15,Kawa espresso,gorący_napój,6,6
+1105,sobota,15,Spaghetti Carbonara,danie_główne,26,13
+1105,sobota,15,Żywiec 0.5L,piwo,8,13
+1106,sobota,15,Kotlet schabowy,danie_główne,30,5
+1106,sobota,15,Woda mineralna,zimny_napój,5,5
+1107,sobota,15,Zupa dnia,danie_główne,16,8
+1107,sobota,15,Heineken 0.33L,piwo,10,8
+1108,sobota,15,Burger Classic,danie_główne,24,4
+1108,sobota,15,Heineken 0.33L,piwo,10,4
+1108,sobota,15,Heineken 0.33L,piwo,10,4
+1109,sobota,15,Zupa dnia,danie_główne,16,10
+1109,sobota,15,Heineken 0.33L,piwo,10,10
+1109,sobota,15,Sałatka Caesar,danie_główne,22,10
+1110,sobota,15,Spaghetti Carbonara,danie_główne,26,6
+1111,sobota,15,Ryba z grilla,danie_główne,35,3
+1111,sobota,15,Żywiec 0.5L,piwo,8,3
+1112,sobota,15,Wrap z kurczakiem,danie_główne,18,9
+1112,sobota,15,Kawa espresso,gorący_napój,6,9
+1113,sobota,15,Pizza Margherita,danie_główne,28,3
+1113,sobota,15,Craft IPA 0.33L,piwo,14,3
+1114,sobota,15,Ryba z grilla,danie_główne,35,6
+1114,sobota,15,Cola 0.33L,zimny_napój,7,6
+1115,sobota,15,Pizza Margherita,danie_główne,28,5
+1115,sobota,15,Heineken 0.33L,piwo,10,5
+1116,sobota,15,Wrap z kurczakiem,danie_główne,18,14
+1116,sobota,15,Herbata,gorący_napój,5,14
+1117,sobota,15,Burger Classic,danie_główne,24,10
+1117,sobota,15,Sok pomarańczowy,zimny_napój,8,10
+1118,sobota,15,Spaghetti Carbonara,danie_główne,26,4
+1118,sobota,15,Herbata,gorący_napój,5,4
+1118,sobota,15,Żywiec 0.5L,piwo,8,4
+1118,sobota,15,Żywiec 0.5L,piwo,8,4
+1118,sobota,15,Craft IPA 0.33L,piwo,14,4
+1119,sobota,15,Spaghetti Carbonara,danie_główne,26,7
+1119,sobota,15,Heineken 0.33L,piwo,10,7
+1120,sobota,15,Ryba z grilla,danie_główne,35,4
+1120,sobota,15,Sok pomarańczowy,zimny_napój,8,4
+1121,sobota,15,Kotlet schabowy,danie_główne,30,7
+1121,sobota,15,Żywiec 0.5L,piwo,8,7
+1122,sobota,15,Pizza Margherita,danie_główne,28,9
+1122,sobota,15,Sok pomarańczowy,zimny_napój,8,9
+1123,sobota,15,Wrap z kurczakiem,danie_główne,18,13
+1123,sobota,15,Sok pomarańczowy,zimny_napój,8,13
+1123,sobota,15,Sok pomarańczowy,zimny_napój,8,13
+1124,sobota,15,Burger Classic,danie_główne,24,1
+1124,sobota,15,Żywiec 0.5L,piwo,8,1
+1125,sobota,15,Kotlet schabowy,danie_główne,30,11
+1125,sobota,15,Herbata,gorący_napój,5,11
+1126,sobota,15,Spaghetti Carbonara,danie_główne,26,10
+1126,sobota,15,Heineken 0.33L,piwo,10,10
+1127,sobota,15,Wrap z kurczakiem,danie_główne,18,6
+1127,sobota,15,Cola 0.33L,zimny_napój,7,6
+1127,sobota,15,Kotlet schabowy,danie_główne,30,6
+1128,sobota,15,Risotto,danie_główne,32,9
+1128,sobota,15,Cola 0.33L,zimny_napój,7,9
+1129,sobota,16,Zupa dnia,danie_główne,16,10
+1129,sobota,16,Craft IPA 0.33L,piwo,14,10
+1130,sobota,16,Burger Classic,danie_główne,24,9
+1130,sobota,16,Żywiec 0.5L,piwo,8,9
+1131,sobota,16,Burger Classic,danie_główne,24,6
+1131,sobota,16,Heineken 0.33L,piwo,10,6
+1131,sobota,16,Sok pomarańczowy,zimny_napój,8,6
+1131,sobota,16,Risotto,danie_główne,32,6
+1132,sobota,16,Zupa dnia,danie_główne,16,4
+1133,sobota,16,Spaghetti Carbonara,danie_główne,26,4
+1133,sobota,16,Craft IPA 0.33L,piwo,14,4
+1134,sobota,16,Risotto,danie_główne,32,13
+1134,sobota,16,Sok pomarańczowy,zimny_napój,8,13
+1135,sobota,16,Zupa dnia,danie_główne,16,3
+1135,sobota,16,Heineken 0.33L,piwo,10,3
+1136,sobota,16,Burger Classic,danie_główne,24,7
+1136,sobota,16,Kawa espresso,gorący_napój,6,7
+1137,sobota,17,Kotlet schabowy,danie_główne,30,9
+1137,sobota,17,Sok pomarańczowy,zimny_napój,8,9
+1138,sobota,17,Wrap z kurczakiem,danie_główne,18,8
+1138,sobota,17,Heineken 0.33L,piwo,10,8
+1139,sobota,17,Quesadilla,danie_główne,20,6
+1139,sobota,17,Sok pomarańczowy,zimny_napój,8,6
+1140,sobota,17,Zupa dnia,danie_główne,16,8
+1140,sobota,17,Kawa espresso,gorący_napój,6,8
+1141,sobota,17,Pizza Margherita,danie_główne,28,8
+1141,sobota,17,Żywiec 0.5L,piwo,8,8
+1142,sobota,17,Kotlet schabowy,danie_główne,30,9
+1142,sobota,17,Craft IPA 0.33L,piwo,14,9
+1142,sobota,17,Zupa dnia,danie_główne,16,9
+1143,sobota,17,Zupa dnia,danie_główne,16,4
+1143,sobota,17,Herbata,gorący_napój,5,4
+1144,sobota,17,Sałatka Caesar,danie_główne,22,6
+1144,sobota,17,Craft IPA 0.33L,piwo,14,6
+1144,sobota,17,Heineken 0.33L,piwo,10,6
+1145,sobota,17,Zupa dnia,danie_główne,16,10
+1145,sobota,17,Kawa espresso,gorący_napój,6,10
+1146,sobota,17,Pizza Margherita,danie_główne,28,0
+1146,sobota,17,Heineken 0.33L,piwo,10,0
+1147,sobota,17,Sałatka Caesar,danie_główne,22,7
+1147,sobota,17,Kawa espresso,gorący_napój,6,7
+1148,sobota,17,Kotlet schabowy,danie_główne,30,8
+1148,sobota,17,Craft IPA 0.33L,piwo,14,8
+1149,sobota,17,Pizza Margherita,danie_główne,28,9
+1150,sobota,17,Zupa dnia,danie_główne,16,7
+1150,sobota,17,Woda mineralna,zimny_napój,5,7
+1151,sobota,17,Pizza Margherita,danie_główne,28,4
+1151,sobota,17,Cola 0.33L,zimny_napój,7,4
+1152,sobota,17,Spaghetti Carbonara,danie_główne,26,8
+1152,sobota,17,Kawa espresso,gorący_napój,6,8
+1153,sobota,17,Spaghetti Carbonara,danie_główne,26,8
+1153,sobota,17,Kawa espresso,gorący_napój,6,8
+1154,sobota,17,Pizza Margherita,danie_główne,28,8
+1154,sobota,17,Heineken 0.33L,piwo,10,8
+1154,sobota,17,Żywiec 0.5L,piwo,8,8
+1155,sobota,17,Quesadilla,danie_główne,20,5
+1156,sobota,17,Zupa dnia,danie_główne,16,5
+1156,sobota,17,Herbata,gorący_napój,5,5
+1157,sobota,17,Quesadilla,danie_główne,20,4
+1157,sobota,17,Heineken 0.33L,piwo,10,4
+1158,sobota,17,Wrap z kurczakiem,danie_główne,18,5
+1158,sobota,17,Herbata,gorący_napój,5,5
+1159,sobota,17,Ryba z grilla,danie_główne,35,15
+1159,sobota,17,Woda mineralna,zimny_napój,5,15
+1160,sobota,17,Spaghetti Carbonara,danie_główne,26,3
+1160,sobota,17,Heineken 0.33L,piwo,10,3
+1161,sobota,17,Ryba z grilla,danie_główne,35,7
+1161,sobota,17,Cola 0.33L,zimny_napój,7,7
+1161,sobota,17,Żywiec 0.5L,piwo,8,7
+1162,sobota,17,Kotlet schabowy,danie_główne,30,7
+1162,sobota,17,Żywiec 0.5L,piwo,8,7
+1163,sobota,17,Kotlet schabowy,danie_główne,30,12
+1163,sobota,17,Craft IPA 0.33L,piwo,14,12
+1164,sobota,17,Quesadilla,danie_główne,20,8
+1164,sobota,17,Woda mineralna,zimny_napój,5,8
+1165,sobota,17,Ryba z grilla,danie_główne,35,8
+1165,sobota,17,Cola 0.33L,zimny_napój,7,8
+1166,sobota,17,Burger Classic,danie_główne,24,11
+1166,sobota,17,Herbata,gorący_napój,5,11
+1166,sobota,17,Woda mineralna,zimny_napój,5,11
+1167,sobota,17,Pizza Margherita,danie_główne,28,10
+1167,sobota,17,Heineken 0.33L,piwo,10,10
+1168,sobota,17,Burger Classic,danie_główne,24,7
+1168,sobota,17,Sok pomarańczowy,zimny_napój,8,7
+1169,sobota,17,Zupa dnia,danie_główne,16,4
+1169,sobota,17,Żywiec 0.5L,piwo,8,4
+1170,sobota,17,Zupa dnia,danie_główne,16,4
+1170,sobota,17,Sok pomarańczowy,zimny_napój,8,4
+1171,sobota,17,Wrap z kurczakiem,danie_główne,18,10
+1171,sobota,17,Heineken 0.33L,piwo,10,10
+1172,sobota,17,Wrap z kurczakiem,danie_główne,18,9
+1172,sobota,17,Cola 0.33L,zimny_napój,7,9
+1172,sobota,17,Sok pomarańczowy,zimny_napój,8,9
+1173,sobota,17,Sałatka Caesar,danie_główne,22,8
+1173,sobota,17,Sok pomarańczowy,zimny_napój,8,8
+1173,sobota,17,Cola 0.33L,zimny_napój,7,8
+1174,sobota,17,Ryba z grilla,danie_główne,35,8
+1174,sobota,17,Żywiec 0.5L,piwo,8,8
+1175,sobota,17,Wrap z kurczakiem,danie_główne,18,6
+1175,sobota,17,Heineken 0.33L,piwo,10,6
+1175,sobota,17,Żywiec 0.5L,piwo,8,6
+1175,sobota,17,Żywiec 0.5L,piwo,8,6
+1176,sobota,17,Burger Classic,danie_główne,24,12
+1176,sobota,17,Sok pomarańczowy,zimny_napój,8,12
+1177,sobota,17,Pizza Margherita,danie_główne,28,12
+1177,sobota,17,Woda mineralna,zimny_napój,5,12
+1177,sobota,17,Zupa dnia,danie_główne,16,12
+1177,sobota,17,Żywiec 0.5L,piwo,8,12
+1178,sobota,17,Kotlet schabowy,danie_główne,30,7
+1178,sobota,17,Cola 0.33L,zimny_napój,7,7
+1179,sobota,17,Quesadilla,danie_główne,20,4
+1179,sobota,17,Sok pomarańczowy,zimny_napój,8,4
+1180,sobota,17,Zupa dnia,danie_główne,16,8
+1180,sobota,17,Sok pomarańczowy,zimny_napój,8,8
+1181,sobota,17,Burger Classic,danie_główne,24,7
+1182,sobota,18,Pizza Margherita,danie_główne,28,13
+1182,sobota,18,Żywiec 0.5L,piwo,8,13
+1183,sobota,18,Burger Classic,danie_główne,24,16
+1183,sobota,18,Żywiec 0.5L,piwo,8,16
+1184,sobota,18,Ryba z grilla,danie_główne,35,6
+1184,sobota,18,Sok pomarańczowy,zimny_napój,8,6
+1185,sobota,18,Zupa dnia,danie_główne,16,11
+1185,sobota,18,Craft IPA 0.33L,piwo,14,11
+1186,sobota,18,Burger Classic,danie_główne,24,12
+1186,sobota,18,Herbata,gorący_napój,5,12
+1186,sobota,18,Sok pomarańczowy,zimny_napój,8,12
+1187,sobota,18,Pizza Margherita,danie_główne,28,9
+1187,sobota,18,Sok pomarańczowy,zimny_napój,8,9
+1188,sobota,18,Risotto,danie_główne,32,11
+1188,sobota,18,Woda mineralna,zimny_napój,5,11
+1189,sobota,18,Pizza Margherita,danie_główne,28,3
+1189,sobota,18,Woda mineralna,zimny_napój,5,3
+1190,sobota,18,Pizza Margherita,danie_główne,28,7
+1190,sobota,18,Kawa espresso,gorący_napój,6,7
+1190,sobota,18,Zupa dnia,danie_główne,16,7
+1191,sobota,18,Zupa dnia,danie_główne,16,11
+1191,sobota,18,Sok pomarańczowy,zimny_napój,8,11
+1192,sobota,18,Wrap z kurczakiem,danie_główne,18,9
+1193,sobota,18,Kotlet schabowy,danie_główne,30,12
+1193,sobota,18,Cola 0.33L,zimny_napój,7,12
+1194,sobota,18,Pizza Margherita,danie_główne,28,4
+1194,sobota,18,Heineken 0.33L,piwo,10,4
+1194,sobota,18,Zupa dnia,danie_główne,16,4
+1195,sobota,18,Sałatka Caesar,danie_główne,22,8
+1195,sobota,18,Herbata,gorący_napój,5,8
+1196,sobota,18,Sałatka Caesar,danie_główne,22,6
+1196,sobota,18,Żywiec 0.5L,piwo,8,6
+1197,sobota,18,Spaghetti Carbonara,danie_główne,26,7
+1198,sobota,18,Spaghetti Carbonara,danie_główne,26,18
+1198,sobota,18,Żywiec 0.5L,piwo,8,18
+1199,sobota,18,Spaghetti Carbonara,danie_główne,26,11
+1199,sobota,18,Kawa espresso,gorący_napój,6,11
+1200,sobota,18,Zupa dnia,danie_główne,16,7
+1200,sobota,18,Żywiec 0.5L,piwo,8,7
+1200,sobota,18,Sałatka Caesar,danie_główne,22,7
+1201,sobota,18,Risotto,danie_główne,32,11
+1201,sobota,18,Żywiec 0.5L,piwo,8,11
+1202,sobota,18,Ryba z grilla,danie_główne,35,9
+1202,sobota,18,Heineken 0.33L,piwo,10,9
+1202,sobota,18,Kawa espresso,gorący_napój,6,9
+1203,sobota,18,Spaghetti Carbonara,danie_główne,26,4
+1203,sobota,18,Kawa espresso,gorący_napój,6,4
+1204,sobota,18,Pizza Margherita,danie_główne,28,7
+1204,sobota,18,Żywiec 0.5L,piwo,8,7
+1205,sobota,18,Sałatka Caesar,danie_główne,22,10
+1205,sobota,18,Kawa espresso,gorący_napój,6,10
+1206,sobota,18,Ryba z grilla,danie_główne,35,7
+1207,sobota,18,Quesadilla,danie_główne,20,6
+1207,sobota,18,Cola 0.33L,zimny_napój,7,6
+1207,sobota,18,Craft IPA 0.33L,piwo,14,6
+1208,sobota,18,Quesadilla,danie_główne,20,12
+1208,sobota,18,Kawa espresso,gorący_napój,6,12
+1209,sobota,18,Pizza Margherita,danie_główne,28,11
+1209,sobota,18,Craft IPA 0.33L,piwo,14,11
+1210,sobota,18,Spaghetti Carbonara,danie_główne,26,6
+1210,sobota,18,Craft IPA 0.33L,piwo,14,6
+1211,sobota,18,Kotlet schabowy,danie_główne,30,4
+1211,sobota,18,Żywiec 0.5L,piwo,8,4
+1211,sobota,18,Żywiec 0.5L,piwo,8,4
+1212,sobota,18,Spaghetti Carbonara,danie_główne,26,10
+1212,sobota,18,Kawa espresso,gorący_napój,6,10
+1212,sobota,18,Zupa dnia,danie_główne,16,10
+1213,sobota,18,Kotlet schabowy,danie_główne,30,8
+1213,sobota,18,Heineken 0.33L,piwo,10,8
+1214,sobota,18,Kotlet schabowy,danie_główne,30,7
+1214,sobota,18,Kawa espresso,gorący_napój,6,7
+1215,sobota,18,Kotlet schabowy,danie_główne,30,12
+1215,sobota,18,Sok pomarańczowy,zimny_napój,8,12
+1216,sobota,18,Sałatka Caesar,danie_główne,22,9
+1216,sobota,18,Żywiec 0.5L,piwo,8,9
+1216,sobota,18,Sok pomarańczowy,zimny_napój,8,9
+1217,sobota,18,Kotlet schabowy,danie_główne,30,5
+1217,sobota,18,Herbata,gorący_napój,5,5
+1218,sobota,18,Pizza Margherita,danie_główne,28,7
+1218,sobota,18,Cola 0.33L,zimny_napój,7,7
+1219,sobota,18,Burger Classic,danie_główne,24,5
+1220,sobota,18,Zupa dnia,danie_główne,16,10
+1220,sobota,18,Kawa espresso,gorący_napój,6,10
+1220,sobota,18,Sok pomarańczowy,zimny_napój,8,10
+1221,sobota,18,Sałatka Caesar,danie_główne,22,10
+1222,sobota,18,Zupa dnia,danie_główne,16,14
+1222,sobota,18,Herbata,gorący_napój,5,14
+1223,sobota,18,Kotlet schabowy,danie_główne,30,7
+1223,sobota,18,Cola 0.33L,zimny_napój,7,7
+1224,sobota,18,Burger Classic,danie_główne,24,7
+1224,sobota,18,Kawa espresso,gorący_napój,6,7
+1225,sobota,18,Quesadilla,danie_główne,20,5
+1225,sobota,18,Żywiec 0.5L,piwo,8,5
+1226,sobota,18,Sałatka Caesar,danie_główne,22,7
+1226,sobota,18,Żywiec 0.5L,piwo,8,7
+1227,sobota,18,Wrap z kurczakiem,danie_główne,18,8
+1227,sobota,18,Kawa espresso,gorący_napój,6,8
+1228,sobota,18,Burger Classic,danie_główne,24,6
+1228,sobota,18,Żywiec 0.5L,piwo,8,6
+1228,sobota,18,Craft IPA 0.33L,piwo,14,6
+1229,sobota,18,Spaghetti Carbonara,danie_główne,26,9
+1229,sobota,18,Kawa espresso,gorący_napój,6,9
+1230,sobota,18,Zupa dnia,danie_główne,16,0
+1230,sobota,18,Heineken 0.33L,piwo,10,0
+1231,sobota,18,Ryba z grilla,danie_główne,35,5
+1231,sobota,18,Kawa espresso,gorący_napój,6,5
+1231,sobota,18,Cola 0.33L,zimny_napój,7,5
+1232,sobota,18,Risotto,danie_główne,32,14
+1232,sobota,18,Sok pomarańczowy,zimny_napój,8,14
+1233,sobota,18,Spaghetti Carbonara,danie_główne,26,5
+1234,sobota,18,Burger Classic,danie_główne,24,10
+1235,sobota,18,Burger Classic,danie_główne,24,12
+1235,sobota,18,Cola 0.33L,zimny_napój,7,12
+1236,sobota,19,Spaghetti Carbonara,danie_główne,26,8
+1236,sobota,19,Craft IPA 0.33L,piwo,14,8
+1237,sobota,19,Burger Classic,danie_główne,24,8
+1237,sobota,19,Woda mineralna,zimny_napój,5,8
+1238,sobota,19,Kotlet schabowy,danie_główne,30,9
+1238,sobota,19,Cola 0.33L,zimny_napój,7,9
+1238,sobota,19,Żywiec 0.5L,piwo,8,9
+1238,sobota,19,Herbata,gorący_napój,5,9
+1239,sobota,19,Wrap z kurczakiem,danie_główne,18,7
+1239,sobota,19,Craft IPA 0.33L,piwo,14,7
+1240,sobota,19,Pizza Margherita,danie_główne,28,7
+1240,sobota,19,Kawa espresso,gorący_napój,6,7
+1241,sobota,19,Ryba z grilla,danie_główne,35,11
+1241,sobota,19,Herbata,gorący_napój,5,11
+1242,sobota,19,Pizza Margherita,danie_główne,28,6
+1242,sobota,19,Cola 0.33L,zimny_napój,7,6
+1242,sobota,19,Herbata,gorący_napój,5,6
+1243,sobota,19,Burger Classic,danie_główne,24,1
+1244,sobota,19,Kotlet schabowy,danie_główne,30,7
+1244,sobota,19,Craft IPA 0.33L,piwo,14,7
+1244,sobota,19,Żywiec 0.5L,piwo,8,7
+1245,sobota,19,Ryba z grilla,danie_główne,35,11
+1245,sobota,19,Woda mineralna,zimny_napój,5,11
+1245,sobota,19,Sok pomarańczowy,zimny_napój,8,11
+1246,sobota,19,Kotlet schabowy,danie_główne,30,10
+1246,sobota,19,Kawa espresso,gorący_napój,6,10
+1246,sobota,19,Wrap z kurczakiem,danie_główne,18,10
+1246,sobota,19,Pizza Margherita,danie_główne,28,10
+1247,sobota,19,Zupa dnia,danie_główne,16,6
+1247,sobota,19,Herbata,gorący_napój,5,6
+1247,sobota,19,Craft IPA 0.33L,piwo,14,6
+1248,sobota,19,Quesadilla,danie_główne,20,1
+1248,sobota,19,Cola 0.33L,zimny_napój,7,1
+1249,sobota,19,Sałatka Caesar,danie_główne,22,12
+1250,sobota,19,Pizza Margherita,danie_główne,28,12
+1250,sobota,19,Herbata,gorący_napój,5,12
+1250,sobota,19,Woda mineralna,zimny_napój,5,12
+1251,sobota,19,Kotlet schabowy,danie_główne,30,5
+1252,sobota,19,Pizza Margherita,danie_główne,28,12
+1252,sobota,19,Craft IPA 0.33L,piwo,14,12
+1253,sobota,19,Burger Classic,danie_główne,24,8
+1253,sobota,19,Cola 0.33L,zimny_napój,7,8
+1254,sobota,19,Quesadilla,danie_główne,20,9
+1254,sobota,19,Żywiec 0.5L,piwo,8,9
+1255,sobota,19,Zupa dnia,danie_główne,16,10
+1256,sobota,19,Kotlet schabowy,danie_główne,30,12
+1256,sobota,19,Sok pomarańczowy,zimny_napój,8,12
+1257,sobota,19,Pizza Margherita,danie_główne,28,8
+1257,sobota,19,Sok pomarańczowy,zimny_napój,8,8
+1257,sobota,19,Spaghetti Carbonara,danie_główne,26,8
+1258,sobota,19,Burger Classic,danie_główne,24,5
+1258,sobota,19,Craft IPA 0.33L,piwo,14,5
+1258,sobota,19,Sok pomarańczowy,zimny_napój,8,5
+1258,sobota,19,Herbata,gorący_napój,5,5
+1258,sobota,19,Wrap z kurczakiem,danie_główne,18,5
+1259,sobota,19,Pizza Margherita,danie_główne,28,6
+1259,sobota,19,Craft IPA 0.33L,piwo,14,6
+1259,sobota,19,Cola 0.33L,zimny_napój,7,6
+1260,sobota,19,Sałatka Caesar,danie_główne,22,6
+1260,sobota,19,Heineken 0.33L,piwo,10,6
+1261,sobota,19,Kotlet schabowy,danie_główne,30,8
+1261,sobota,19,Cola 0.33L,zimny_napój,7,8
+1262,sobota,19,Sałatka Caesar,danie_główne,22,9
+1262,sobota,19,Heineken 0.33L,piwo,10,9
+1263,sobota,19,Ryba z grilla,danie_główne,35,9
+1263,sobota,19,Heineken 0.33L,piwo,10,9
+1264,sobota,19,Burger Classic,danie_główne,24,10
+1264,sobota,19,Żywiec 0.5L,piwo,8,10
+1265,sobota,19,Sałatka Caesar,danie_główne,22,9
+1265,sobota,19,Cola 0.33L,zimny_napój,7,9
+1265,sobota,19,Pizza Margherita,danie_główne,28,9
+1266,sobota,19,Pizza Margherita,danie_główne,28,5
+1266,sobota,19,Kawa espresso,gorący_napój,6,5
+1267,sobota,19,Sałatka Caesar,danie_główne,22,7
+1267,sobota,19,Craft IPA 0.33L,piwo,14,7
+1268,sobota,19,Pizza Margherita,danie_główne,28,8
+1268,sobota,19,Sok pomarańczowy,zimny_napój,8,8
+1269,sobota,19,Risotto,danie_główne,32,9
+1269,sobota,19,Craft IPA 0.33L,piwo,14,9
+1269,sobota,19,Sok pomarańczowy,zimny_napój,8,9
+1270,sobota,19,Burger Classic,danie_główne,24,9
+1270,sobota,19,Woda mineralna,zimny_napój,5,9
+1270,sobota,19,Sałatka Caesar,danie_główne,22,9
+1271,sobota,19,Spaghetti Carbonara,danie_główne,26,10
+1272,sobota,19,Burger Classic,danie_główne,24,8
+1272,sobota,19,Żywiec 0.5L,piwo,8,8
+1272,sobota,19,Heineken 0.33L,piwo,10,8
+1273,sobota,19,Pizza Margherita,danie_główne,28,11
+1273,sobota,19,Kawa espresso,gorący_napój,6,11
+1274,sobota,19,Sałatka Caesar,danie_główne,22,14
+1274,sobota,19,Kawa espresso,gorący_napój,6,14
+1275,sobota,19,Zupa dnia,danie_główne,16,8
+1275,sobota,19,Cola 0.33L,zimny_napój,7,8
+1276,sobota,19,Quesadilla,danie_główne,20,4
+1276,sobota,19,Kawa espresso,gorący_napój,6,4
+1277,sobota,19,Burger Classic,danie_główne,24,7
+1277,sobota,19,Sok pomarańczowy,zimny_napój,8,7
+1278,sobota,19,Risotto,danie_główne,32,7
+1278,sobota,19,Cola 0.33L,zimny_napój,7,7
+1279,sobota,19,Spaghetti Carbonara,danie_główne,26,10
+1279,sobota,19,Heineken 0.33L,piwo,10,10
+1279,sobota,19,Spaghetti Carbonara,danie_główne,26,10
+1280,sobota,19,Kotlet schabowy,danie_główne,30,6
+1281,sobota,19,Spaghetti Carbonara,danie_główne,26,7
+1281,sobota,19,Heineken 0.33L,piwo,10,7
+1282,sobota,19,Ryba z grilla,danie_główne,35,11
+1282,sobota,19,Kawa espresso,gorący_napój,6,11
+1283,sobota,19,Burger Classic,danie_główne,24,9
+1283,sobota,19,Craft IPA 0.33L,piwo,14,9
+1283,sobota,19,Cola 0.33L,zimny_napój,7,9
+1283,sobota,19,Zupa dnia,danie_główne,16,9
+1284,sobota,19,Spaghetti Carbonara,danie_główne,26,2
+1284,sobota,19,Cola 0.33L,zimny_napój,7,2
+1285,sobota,19,Risotto,danie_główne,32,10
+1285,sobota,19,Cola 0.33L,zimny_napój,7,10
+1286,sobota,19,Burger Classic,danie_główne,24,9
+1286,sobota,19,Heineken 0.33L,piwo,10,9
+1287,sobota,19,Kotlet schabowy,danie_główne,30,11
+1287,sobota,19,Kotlet schabowy,danie_główne,30,11
+1288,sobota,19,Burger Classic,danie_główne,24,11
+1288,sobota,19,Żywiec 0.5L,piwo,8,11
+1288,sobota,19,Zupa dnia,danie_główne,16,11
+1289,sobota,19,Kotlet schabowy,danie_główne,30,18
+1290,sobota,19,Burger Classic,danie_główne,24,6
+1290,sobota,19,Heineken 0.33L,piwo,10,6
+1291,sobota,19,Burger Classic,danie_główne,24,2
+1292,sobota,19,Ryba z grilla,danie_główne,35,9
+1292,sobota,19,Craft IPA 0.33L,piwo,14,9
+1293,sobota,19,Pizza Margherita,danie_główne,28,10
+1293,sobota,19,Kawa espresso,gorący_napój,6,10
+1294,sobota,19,Spaghetti Carbonara,danie_główne,26,12
+1295,sobota,19,Kotlet schabowy,danie_główne,30,1
+1295,sobota,19,Woda mineralna,zimny_napój,5,1
+1296,sobota,19,Ryba z grilla,danie_główne,35,13
+1297,sobota,19,Spaghetti Carbonara,danie_główne,26,4
+1297,sobota,19,Woda mineralna,zimny_napój,5,4
+1297,sobota,19,Kawa espresso,gorący_napój,6,4
+1297,sobota,19,Sok pomarańczowy,zimny_napój,8,4
+1298,sobota,19,Sałatka Caesar,danie_główne,22,7
+1298,sobota,19,Herbata,gorący_napój,5,7
+1299,sobota,19,Pizza Margherita,danie_główne,28,5
+1299,sobota,19,Herbata,gorący_napój,5,5
+1299,sobota,19,Cola 0.33L,zimny_napój,7,5
+1300,sobota,19,Burger Classic,danie_główne,24,6
+1300,sobota,19,Żywiec 0.5L,piwo,8,6
+1300,sobota,19,Heineken 0.33L,piwo,10,6
+1301,sobota,19,Burger Classic,danie_główne,24,7
+1301,sobota,19,Heineken 0.33L,piwo,10,7
+1302,sobota,19,Burger Classic,danie_główne,24,4
+1303,sobota,19,Zupa dnia,danie_główne,16,9
+1304,sobota,20,Wrap z kurczakiem,danie_główne,18,10
+1304,sobota,20,Heineken 0.33L,piwo,10,10
+1305,sobota,20,Kotlet schabowy,danie_główne,30,5
+1305,sobota,20,Herbata,gorący_napój,5,5
+1306,sobota,20,Spaghetti Carbonara,danie_główne,26,10
+1306,sobota,20,Cola 0.33L,zimny_napój,7,10
+1307,sobota,20,Burger Classic,danie_główne,24,6
+1307,sobota,20,Herbata,gorący_napój,5,6
+1308,sobota,20,Kotlet schabowy,danie_główne,30,9
+1308,sobota,20,Pizza Margherita,danie_główne,28,9
+1308,sobota,20,Cola 0.33L,zimny_napój,7,9
+1309,sobota,20,Risotto,danie_główne,32,7
+1309,sobota,20,Wrap z kurczakiem,danie_główne,18,7
+1309,sobota,20,Sałatka Caesar,danie_główne,22,7
+1310,sobota,20,Wrap z kurczakiem,danie_główne,18,6
+1310,sobota,20,Herbata,gorący_napój,5,6
+1310,sobota,20,Herbata,gorący_napój,5,6
+1311,sobota,20,Wrap z kurczakiem,danie_główne,18,5
+1311,sobota,20,Kawa espresso,gorący_napój,6,5
+1312,sobota,20,Pizza Margherita,danie_główne,28,4
+1313,sobota,20,Kotlet schabowy,danie_główne,30,0
+1313,sobota,20,Burger Classic,danie_główne,24,0
+1313,sobota,20,Sok pomarańczowy,zimny_napój,8,0
+1313,sobota,20,Woda mineralna,zimny_napój,5,0
+1314,sobota,20,Ryba z grilla,danie_główne,35,8
+1314,sobota,20,Kawa espresso,gorący_napój,6,8
+1315,sobota,20,Zupa dnia,danie_główne,16,14
+1315,sobota,20,Cola 0.33L,zimny_napój,7,14
+1315,sobota,20,Kawa espresso,gorący_napój,6,14
+1316,sobota,20,Zupa dnia,danie_główne,16,4
+1316,sobota,20,Craft IPA 0.33L,piwo,14,4
+1317,sobota,20,Kotlet schabowy,danie_główne,30,8
+1317,sobota,20,Żywiec 0.5L,piwo,8,8
+1318,sobota,20,Sałatka Caesar,danie_główne,22,11
+1318,sobota,20,Kawa espresso,gorący_napój,6,11
+1319,sobota,20,Quesadilla,danie_główne,20,14
+1319,sobota,20,Kawa espresso,gorący_napój,6,14
+1320,sobota,20,Zupa dnia,danie_główne,16,8
+1320,sobota,20,Kawa espresso,gorący_napój,6,8
+1321,sobota,20,Wrap z kurczakiem,danie_główne,18,5
+1321,sobota,20,Kawa espresso,gorący_napój,6,5
+1322,sobota,20,Risotto,danie_główne,32,6
+1322,sobota,20,Heineken 0.33L,piwo,10,6
+1323,sobota,20,Wrap z kurczakiem,danie_główne,18,10
+1323,sobota,20,Żywiec 0.5L,piwo,8,10
+1323,sobota,20,Żywiec 0.5L,piwo,8,10
+1324,sobota,20,Burger Classic,danie_główne,24,6
+1324,sobota,20,Heineken 0.33L,piwo,10,6
+1325,sobota,20,Burger Classic,danie_główne,24,4
+1325,sobota,20,Craft IPA 0.33L,piwo,14,4
+1326,sobota,20,Pizza Margherita,danie_główne,28,7
+1326,sobota,20,Craft IPA 0.33L,piwo,14,7
+1327,sobota,20,Pizza Margherita,danie_główne,28,14
+1327,sobota,20,Żywiec 0.5L,piwo,8,14
+1328,sobota,20,Pizza Margherita,danie_główne,28,0
+1328,sobota,20,Woda mineralna,zimny_napój,5,0
+1328,sobota,20,Heineken 0.33L,piwo,10,0
+1329,sobota,20,Burger Classic,danie_główne,24,5
+1329,sobota,20,Woda mineralna,zimny_napój,5,5
+1330,sobota,20,Burger Classic,danie_główne,24,15
+1330,sobota,20,Woda mineralna,zimny_napój,5,15
+1331,sobota,20,Kotlet schabowy,danie_główne,30,13
+1331,sobota,20,Heineken 0.33L,piwo,10,13
+1331,sobota,20,Sok pomarańczowy,zimny_napój,8,13
+1332,sobota,20,Sałatka Caesar,danie_główne,22,11
+1332,sobota,20,Herbata,gorący_napój,5,11
+1333,sobota,20,Risotto,danie_główne,32,10
+1333,sobota,20,Craft IPA 0.33L,piwo,14,10
+1334,sobota,20,Kotlet schabowy,danie_główne,30,8
+1334,sobota,20,Żywiec 0.5L,piwo,8,8
+1335,sobota,20,Burger Classic,danie_główne,24,12
+1335,sobota,20,Żywiec 0.5L,piwo,8,12
+1336,sobota,20,Burger Classic,danie_główne,24,7
+1336,sobota,20,Cola 0.33L,zimny_napój,7,7
+1337,sobota,20,Kotlet schabowy,danie_główne,30,3
+1337,sobota,20,Herbata,gorący_napój,5,3
+1338,sobota,20,Burger Classic,danie_główne,24,7
+1338,sobota,20,Kawa espresso,gorący_napój,6,7
+1339,sobota,20,Burger Classic,danie_główne,24,9
+1339,sobota,20,Żywiec 0.5L,piwo,8,9
+1340,sobota,20,Burger Classic,danie_główne,24,9
+1340,sobota,20,Cola 0.33L,zimny_napój,7,9
+1340,sobota,20,Zupa dnia,danie_główne,16,9
+1340,sobota,20,Cola 0.33L,zimny_napój,7,9
+1341,sobota,20,Kotlet schabowy,danie_główne,30,8
+1341,sobota,20,Cola 0.33L,zimny_napój,7,8
+1342,sobota,20,Pizza Margherita,danie_główne,28,6
+1342,sobota,20,Cola 0.33L,zimny_napój,7,6
+1343,sobota,20,Ryba z grilla,danie_główne,35,6
+1343,sobota,20,Craft IPA 0.33L,piwo,14,6
+1344,sobota,20,Wrap z kurczakiem,danie_główne,18,9
+1344,sobota,20,Herbata,gorący_napój,5,9
+1345,sobota,20,Sałatka Caesar,danie_główne,22,9
+1345,sobota,20,Cola 0.33L,zimny_napój,7,9
+1346,sobota,20,Kotlet schabowy,danie_główne,30,3
+1346,sobota,20,Kawa espresso,gorący_napój,6,3
+1347,sobota,20,Ryba z grilla,danie_główne,35,5
+1347,sobota,20,Craft IPA 0.33L,piwo,14,5
+1348,sobota,20,Kotlet schabowy,danie_główne,30,6
+1348,sobota,20,Kawa espresso,gorący_napój,6,6
+1349,sobota,20,Sałatka Caesar,danie_główne,22,5
+1349,sobota,20,Herbata,gorący_napój,5,5
+1350,sobota,20,Wrap z kurczakiem,danie_główne,18,8
+1350,sobota,20,Cola 0.33L,zimny_napój,7,8
+1351,sobota,20,Wrap z kurczakiem,danie_główne,18,11
+1351,sobota,20,Sok pomarańczowy,zimny_napój,8,11
+1352,sobota,21,Kotlet schabowy,danie_główne,30,10
+1352,sobota,21,Pizza Margherita,danie_główne,28,10
+1352,sobota,21,Kotlet schabowy,danie_główne,30,10
+1353,sobota,21,Wrap z kurczakiem,danie_główne,18,5
+1353,sobota,21,Craft IPA 0.33L,piwo,14,5
+1354,sobota,21,Pizza Margherita,danie_główne,28,9
+1354,sobota,21,Kawa espresso,gorący_napój,6,9
+1355,sobota,21,Pizza Margherita,danie_główne,28,6
+1356,sobota,21,Burger Classic,danie_główne,24,5
+1356,sobota,21,Woda mineralna,zimny_napój,5,5
+1357,sobota,21,Quesadilla,danie_główne,20,9
+1357,sobota,21,Craft IPA 0.33L,piwo,14,9
+1358,sobota,21,Burger Classic,danie_główne,24,14
+1358,sobota,21,Herbata,gorący_napój,5,14
+1358,sobota,21,Cola 0.33L,zimny_napój,7,14
+1359,sobota,21,Spaghetti Carbonara,danie_główne,26,15
+1359,sobota,21,Sok pomarańczowy,zimny_napój,8,15
+1360,sobota,21,Sałatka Caesar,danie_główne,22,7
+1360,sobota,21,Kawa espresso,gorący_napój,6,7
+1361,sobota,21,Burger Classic,danie_główne,24,7
+1361,sobota,21,Heineken 0.33L,piwo,10,7
+1362,sobota,21,Zupa dnia,danie_główne,16,10
+1362,sobota,21,Craft IPA 0.33L,piwo,14,10
+1363,sobota,21,Sałatka Caesar,danie_główne,22,13
+1363,sobota,21,Żywiec 0.5L,piwo,8,13
+1364,sobota,21,Burger Classic,danie_główne,24,8
+1364,sobota,21,Sok pomarańczowy,zimny_napój,8,8
+1365,sobota,21,Ryba z grilla,danie_główne,35,10
+1365,sobota,21,Herbata,gorący_napój,5,10
+1366,sobota,21,Burger Classic,danie_główne,24,7
+1367,sobota,21,Spaghetti Carbonara,danie_główne,26,6
+1367,sobota,21,Kawa espresso,gorący_napój,6,6
+1367,sobota,21,Cola 0.33L,zimny_napój,7,6
+1368,sobota,21,Zupa dnia,danie_główne,16,11
+1368,sobota,21,Kawa espresso,gorący_napój,6,11
+1369,sobota,21,Ryba z grilla,danie_główne,35,5
+1369,sobota,21,Żywiec 0.5L,piwo,8,5
+1370,sobota,21,Quesadilla,danie_główne,20,10
+1370,sobota,21,Heineken 0.33L,piwo,10,10
+1371,sobota,21,Spaghetti Carbonara,danie_główne,26,8
+1371,sobota,21,Craft IPA 0.33L,piwo,14,8
+1372,sobota,21,Pizza Margherita,danie_główne,28,9
+1372,sobota,21,Cola 0.33L,zimny_napój,7,9
+1373,sobota,21,Burger Classic,danie_główne,24,3
+1373,sobota,21,Kawa espresso,gorący_napój,6,3
+1373,sobota,21,Ryba z grilla,danie_główne,35,3
+1374,sobota,21,Burger Classic,danie_główne,24,13
+1374,sobota,21,Herbata,gorący_napój,5,13
+1375,sobota,21,Wrap z kurczakiem,danie_główne,18,8
+1375,sobota,21,Żywiec 0.5L,piwo,8,8
+1376,sobota,21,Sałatka Caesar,danie_główne,22,6
+1376,sobota,21,Heineken 0.33L,piwo,10,6
+1377,sobota,21,Kotlet schabowy,danie_główne,30,6
+1377,sobota,21,Heineken 0.33L,piwo,10,6
+1378,sobota,21,Kotlet schabowy,danie_główne,30,3
+1378,sobota,21,Heineken 0.33L,piwo,10,3
+1379,sobota,21,Spaghetti Carbonara,danie_główne,26,13
+1379,sobota,21,Craft IPA 0.33L,piwo,14,13
+1380,sobota,21,Ryba z grilla,danie_główne,35,13
+1380,sobota,21,Heineken 0.33L,piwo,10,13
+1381,sobota,21,Kotlet schabowy,danie_główne,30,8
+1381,sobota,21,Sok pomarańczowy,zimny_napój,8,8
+1382,sobota,21,Kotlet schabowy,danie_główne,30,12
+1382,sobota,21,Kawa espresso,gorący_napój,6,12
+1382,sobota,21,Woda mineralna,zimny_napój,5,12
+1383,sobota,21,Risotto,danie_główne,32,8
+1383,sobota,21,Sok pomarańczowy,zimny_napój,8,8
+1384,sobota,21,Quesadilla,danie_główne,20,5
+1384,sobota,21,Craft IPA 0.33L,piwo,14,5
+1385,sobota,21,Burger Classic,danie_główne,24,6
+1385,sobota,21,Craft IPA 0.33L,piwo,14,6
+1386,sobota,21,Kotlet schabowy,danie_główne,30,10
+1386,sobota,21,Herbata,gorący_napój,5,10
+1387,sobota,21,Pizza Margherita,danie_główne,28,8
+1387,sobota,21,Kawa espresso,gorący_napój,6,8
+1388,sobota,21,Quesadilla,danie_główne,20,9
+1388,sobota,21,Sok pomarańczowy,zimny_napój,8,9
+1388,sobota,21,Wrap z kurczakiem,danie_główne,18,9
+1389,sobota,21,Spaghetti Carbonara,danie_główne,26,12
+1389,sobota,21,Sok pomarańczowy,zimny_napój,8,12
+1390,sobota,21,Ryba z grilla,danie_główne,35,12
+1390,sobota,21,Woda mineralna,zimny_napój,5,12
+1391,sobota,21,Burger Classic,danie_główne,24,9
+1391,sobota,21,Herbata,gorący_napój,5,9
+1391,sobota,21,Woda mineralna,zimny_napój,5,9
+1391,sobota,21,Woda mineralna,zimny_napój,5,9
+1392,sobota,21,Kotlet schabowy,danie_główne,30,12
+1392,sobota,21,Heineken 0.33L,piwo,10,12
+1393,sobota,21,Sałatka Caesar,danie_główne,22,11
+1393,sobota,21,Żywiec 0.5L,piwo,8,11
+1393,sobota,21,Craft IPA 0.33L,piwo,14,11
+1394,sobota,21,Pizza Margherita,danie_główne,28,7
+1394,sobota,21,Żywiec 0.5L,piwo,8,7
+1394,sobota,21,Kotlet schabowy,danie_główne,30,7
+1395,sobota,21,Pizza Margherita,danie_główne,28,6
+1395,sobota,21,Woda mineralna,zimny_napój,5,6
+1395,sobota,21,Burger Classic,danie_główne,24,6
+1396,sobota,22,Kotlet schabowy,danie_główne,30,8
+1396,sobota,22,Heineken 0.33L,piwo,10,8
+1396,sobota,22,Kawa espresso,gorący_napój,6,8
+1397,sobota,22,Pizza Margherita,danie_główne,28,4
+1397,sobota,22,Cola 0.33L,zimny_napój,7,4
+1397,sobota,22,Craft IPA 0.33L,piwo,14,4
+1398,sobota,22,Kotlet schabowy,danie_główne,30,8
+1398,sobota,22,Craft IPA 0.33L,piwo,14,8
+1399,sobota,22,Pizza Margherita,danie_główne,28,10
+1399,sobota,22,Heineken 0.33L,piwo,10,10
+1399,sobota,22,Cola 0.33L,zimny_napój,7,10
+1400,sobota,22,Quesadilla,danie_główne,20,6
+1400,sobota,22,Craft IPA 0.33L,piwo,14,6
+1401,sobota,22,Ryba z grilla,danie_główne,35,6
+1401,sobota,22,Cola 0.33L,zimny_napój,7,6
+1402,sobota,22,Burger Classic,danie_główne,24,13
+1402,sobota,22,Kawa espresso,gorący_napój,6,13
+1403,sobota,22,Burger Classic,danie_główne,24,8
+1404,sobota,22,Spaghetti Carbonara,danie_główne,26,3
+1404,sobota,22,Heineken 0.33L,piwo,10,3
+1404,sobota,22,Kotlet schabowy,danie_główne,30,3
+1404,sobota,22,Ryba z grilla,danie_główne,35,3
+1405,sobota,22,Zupa dnia,danie_główne,16,6
+1405,sobota,22,Woda mineralna,zimny_napój,5,6
+1405,sobota,22,Sok pomarańczowy,zimny_napój,8,6
+1406,sobota,22,Burger Classic,danie_główne,24,14
+1406,sobota,22,Herbata,gorący_napój,5,14
+1407,sobota,22,Risotto,danie_główne,32,6
+1407,sobota,22,Heineken 0.33L,piwo,10,6
+1408,sobota,22,Wrap z kurczakiem,danie_główne,18,9
+1408,sobota,22,Woda mineralna,zimny_napój,5,9
+1409,sobota,22,Pizza Margherita,danie_główne,28,12
+1409,sobota,22,Kawa espresso,gorący_napój,6,12
+1410,sobota,22,Spaghetti Carbonara,danie_główne,26,2
+1410,sobota,22,Craft IPA 0.33L,piwo,14,2
+1411,sobota,22,Sałatka Caesar,danie_główne,22,13
+1411,sobota,22,Cola 0.33L,zimny_napój,7,13
+1412,sobota,22,Zupa dnia,danie_główne,16,7
+1412,sobota,22,Heineken 0.33L,piwo,10,7
+1413,sobota,22,Kotlet schabowy,danie_główne,30,9
+1413,sobota,22,Żywiec 0.5L,piwo,8,9
+1414,sobota,22,Sałatka Caesar,danie_główne,22,7
+1414,sobota,22,Kawa espresso,gorący_napój,6,7
+1415,sobota,22,Zupa dnia,danie_główne,16,8
+1416,sobota,22,Ryba z grilla,danie_główne,35,10
+1417,sobota,22,Zupa dnia,danie_główne,16,7
+1417,sobota,22,Woda mineralna,zimny_napój,5,7
+1418,sobota,22,Spaghetti Carbonara,danie_główne,26,9
+1418,sobota,22,Craft IPA 0.33L,piwo,14,9
+1419,sobota,22,Kotlet schabowy,danie_główne,30,8
+1419,sobota,22,Kawa espresso,gorący_napój,6,8
+1420,sobota,22,Burger Classic,danie_główne,24,9
+1420,sobota,22,Cola 0.33L,zimny_napój,7,9
+1421,sobota,22,Spaghetti Carbonara,danie_główne,26,8
+1421,sobota,22,Kawa espresso,gorący_napój,6,8
+1422,sobota,22,Sałatka Caesar,danie_główne,22,10
+1422,sobota,22,Sok pomarańczowy,zimny_napój,8,10
+1423,sobota,22,Pizza Margherita,danie_główne,28,9
+1423,sobota,22,Kawa espresso,gorący_napój,6,9
+1423,sobota,22,Heineken 0.33L,piwo,10,9
+1423,sobota,22,Żywiec 0.5L,piwo,8,9
+1424,sobota,22,Pizza Margherita,danie_główne,28,7
+1424,sobota,22,Herbata,gorący_napój,5,7
+1424,sobota,22,Sok pomarańczowy,zimny_napój,8,7
+1425,sobota,22,Wrap z kurczakiem,danie_główne,18,4
+1426,sobota,22,Zupa dnia,danie_główne,16,9
+1426,sobota,22,Sok pomarańczowy,zimny_napój,8,9
+1427,sobota,22,Risotto,danie_główne,32,9
+1427,sobota,22,Cola 0.33L,zimny_napój,7,9
+1427,sobota,22,Cola 0.33L,zimny_napój,7,9
+1428,sobota,22,Spaghetti Carbonara,danie_główne,26,7
+1428,sobota,22,Cola 0.33L,zimny_napój,7,7
+1429,sobota,22,Pizza Margherita,danie_główne,28,9
+1429,sobota,22,Cola 0.33L,zimny_napój,7,9
+1430,sobota,22,Kotlet schabowy,danie_główne,30,11
+1431,sobota,22,Sałatka Caesar,danie_główne,22,9
+1431,sobota,22,Żywiec 0.5L,piwo,8,9
+1432,sobota,23,Zupa dnia,danie_główne,16,8
+1433,sobota,23,Pizza Margherita,danie_główne,28,4
+1433,sobota,23,Cola 0.33L,zimny_napój,7,4
+1434,sobota,23,Pizza Margherita,danie_główne,28,2
+1434,sobota,23,Sałatka Caesar,danie_główne,22,2
+1435,sobota,23,Wrap z kurczakiem,danie_główne,18,5
+1435,sobota,23,Woda mineralna,zimny_napój,5,5
+1436,sobota,23,Burger Classic,danie_główne,24,7
+1437,sobota,23,Zupa dnia,danie_główne,16,10
+1437,sobota,23,Żywiec 0.5L,piwo,8,10
+1438,sobota,23,Ryba z grilla,danie_główne,35,12
+1438,sobota,23,Żywiec 0.5L,piwo,8,12
+1438,sobota,23,Heineken 0.33L,piwo,10,12
+1439,sobota,23,Quesadilla,danie_główne,20,11
+1439,sobota,23,Craft IPA 0.33L,piwo,14,11
+1440,sobota,23,Quesadilla,danie_główne,20,8
+1440,sobota,23,Woda mineralna,zimny_napój,5,8
+1441,sobota,23,Burger Classic,danie_główne,24,7
+1442,sobota,23,Pizza Margherita,danie_główne,28,7
+1442,sobota,23,Cola 0.33L,zimny_napój,7,7
+1443,sobota,23,Kotlet schabowy,danie_główne,30,6
+1443,sobota,23,Cola 0.33L,zimny_napój,7,6
+1443,sobota,23,Herbata,gorący_napój,5,6
+1443,sobota,23,Ryba z grilla,danie_główne,35,6
+1444,sobota,23,Risotto,danie_główne,32,8
+1444,sobota,23,Żywiec 0.5L,piwo,8,8
+1444,sobota,23,Craft IPA 0.33L,piwo,14,8
+1445,sobota,23,Ryba z grilla,danie_główne,35,5
+1445,sobota,23,Sok pomarańczowy,zimny_napój,8,5
+1446,sobota,23,Quesadilla,danie_główne,20,1
+1446,sobota,23,Cola 0.33L,zimny_napój,7,1
+1446,sobota,23,Kotlet schabowy,danie_główne,30,1
+1447,sobota,23,Pizza Margherita,danie_główne,28,8
+1447,sobota,23,Heineken 0.33L,piwo,10,8
+1448,sobota,23,Burger Classic,danie_główne,24,7
+1448,sobota,23,Craft IPA 0.33L,piwo,14,7
+1449,sobota,23,Risotto,danie_główne,32,4
+1449,sobota,23,Quesadilla,danie_główne,20,4
+1449,sobota,23,Kotlet schabowy,danie_główne,30,4
+1450,sobota,23,Risotto,danie_główne,32,6
+1450,sobota,23,Herbata,gorący_napój,5,6
+1451,sobota,23,Spaghetti Carbonara,danie_główne,26,0
+1451,sobota,23,Herbata,gorący_napój,5,0
+1452,sobota,23,Zupa dnia,danie_główne,16,10
+1452,sobota,23,Herbata,gorący_napój,5,10
+1452,sobota,23,Kawa espresso,gorący_napój,6,10
+1453,sobota,23,Spaghetti Carbonara,danie_główne,26,6
+1453,sobota,23,Sok pomarańczowy,zimny_napój,8,6
+1454,sobota,23,Pizza Margherita,danie_główne,28,10
+1454,sobota,23,Cola 0.33L,zimny_napój,7,10
+1455,sobota,23,Quesadilla,danie_główne,20,6
+1455,sobota,23,Sok pomarańczowy,zimny_napój,8,6
+1456,sobota,24,Pizza Margherita,danie_główne,28,10
+1456,sobota,24,Kawa espresso,gorący_napój,6,10
+1457,sobota,24,Risotto,danie_główne,32,8
+1457,sobota,24,Craft IPA 0.33L,piwo,14,8
+1458,sobota,24,Spaghetti Carbonara,danie_główne,26,5
+1459,sobota,24,Sałatka Caesar,danie_główne,22,9
+1459,sobota,24,Żywiec 0.5L,piwo,8,9
+1460,sobota,24,Kotlet schabowy,danie_główne,30,8
+1460,sobota,24,Craft IPA 0.33L,piwo,14,8
+1461,sobota,24,Spaghetti Carbonara,danie_główne,26,10
+1461,sobota,24,Woda mineralna,zimny_napój,5,10
+1462,sobota,24,Zupa dnia,danie_główne,16,7
+1462,sobota,24,Ryba z grilla,danie_główne,35,7
+1463,sobota,24,Pizza Margherita,danie_główne,28,9
+1463,sobota,24,Heineken 0.33L,piwo,10,9
+1464,sobota,24,Zupa dnia,danie_główne,16,7
+1464,sobota,24,Burger Classic,danie_główne,24,7
+1464,sobota,24,Żywiec 0.5L,piwo,8,7
+1465,sobota,24,Burger Classic,danie_główne,24,7
+1465,sobota,24,Craft IPA 0.33L,piwo,14,7
+1466,sobota,24,Burger Classic,danie_główne,24,4
+1466,sobota,24,Heineken 0.33L,piwo,10,4
+1466,sobota,24,Sałatka Caesar,danie_główne,22,4
+1467,sobota,24,Ryba z grilla,danie_główne,35,7
+1467,sobota,24,Heineken 0.33L,piwo,10,7
+1468,sobota,24,Burger Classic,danie_główne,24,4
+1468,sobota,24,Craft IPA 0.33L,piwo,14,4
+1469,niedziela,13,Zupa dnia,danie_główne,16,10
+1469,niedziela,13,Cola 0.33L,zimny_napój,7,10
+1469,niedziela,13,Sałatka Caesar,danie_główne,22,10
+1470,niedziela,13,Spaghetti Carbonara,danie_główne,26,6
+1470,niedziela,13,Craft IPA 0.33L,piwo,14,6
+1471,niedziela,13,Ryba z grilla,danie_główne,35,1
+1471,niedziela,13,Żywiec 0.5L,piwo,8,1
+1472,niedziela,13,Zupa dnia,danie_główne,16,6
+1473,niedziela,13,Kotlet schabowy,danie_główne,30,7
+1473,niedziela,13,Żywiec 0.5L,piwo,8,7
+1474,niedziela,13,Spaghetti Carbonara,danie_główne,26,9
+1474,niedziela,13,Craft IPA 0.33L,piwo,14,9
+1474,niedziela,13,Żywiec 0.5L,piwo,8,9
+1475,niedziela,13,Ryba z grilla,danie_główne,35,11
+1475,niedziela,13,Kawa espresso,gorący_napój,6,11
+1476,niedziela,13,Kotlet schabowy,danie_główne,30,8
+1476,niedziela,13,Sok pomarańczowy,zimny_napój,8,8
+1476,niedziela,13,Kawa espresso,gorący_napój,6,8
+1477,niedziela,13,Pizza Margherita,danie_główne,28,7
+1477,niedziela,13,Kawa espresso,gorący_napój,6,7
+1478,niedziela,13,Sałatka Caesar,danie_główne,22,11
+1478,niedziela,13,Herbata,gorący_napój,5,11
+1478,niedziela,13,Kawa espresso,gorący_napój,6,11
+1479,niedziela,13,Zupa dnia,danie_główne,16,12
+1480,niedziela,13,Pizza Margherita,danie_główne,28,10
+1480,niedziela,13,Heineken 0.33L,piwo,10,10
+1481,niedziela,13,Wrap z kurczakiem,danie_główne,18,6
+1481,niedziela,13,Herbata,gorący_napój,5,6
+1482,niedziela,13,Quesadilla,danie_główne,20,14
+1482,niedziela,13,Żywiec 0.5L,piwo,8,14
+1483,niedziela,14,Zupa dnia,danie_główne,16,8
+1483,niedziela,14,Kawa espresso,gorący_napój,6,8
+1484,niedziela,14,Pizza Margherita,danie_główne,28,9
+1484,niedziela,14,Cola 0.33L,zimny_napój,7,9
+1485,niedziela,14,Sałatka Caesar,danie_główne,22,3
+1485,niedziela,14,Żywiec 0.5L,piwo,8,3
+1485,niedziela,14,Kotlet schabowy,danie_główne,30,3
+1486,niedziela,14,Pizza Margherita,danie_główne,28,5
+1487,niedziela,14,Pizza Margherita,danie_główne,28,7
+1487,niedziela,14,Cola 0.33L,zimny_napój,7,7
+1488,niedziela,14,Pizza Margherita,danie_główne,28,6
+1488,niedziela,14,Kawa espresso,gorący_napój,6,6
+1489,niedziela,14,Wrap z kurczakiem,danie_główne,18,12
+1489,niedziela,14,Sok pomarańczowy,zimny_napój,8,12
+1489,niedziela,14,Pizza Margherita,danie_główne,28,12
+1490,niedziela,14,Sałatka Caesar,danie_główne,22,11
+1490,niedziela,14,Herbata,gorący_napój,5,11
+1490,niedziela,14,Cola 0.33L,zimny_napój,7,11
+1491,niedziela,14,Burger Classic,danie_główne,24,7
+1491,niedziela,14,Cola 0.33L,zimny_napój,7,7
+1492,niedziela,14,Pizza Margherita,danie_główne,28,11
+1492,niedziela,14,Woda mineralna,zimny_napój,5,11
+1493,niedziela,14,Sałatka Caesar,danie_główne,22,12
+1494,niedziela,14,Pizza Margherita,danie_główne,28,5
+1495,niedziela,14,Kotlet schabowy,danie_główne,30,5
+1495,niedziela,14,Heineken 0.33L,piwo,10,5
+1495,niedziela,14,Cola 0.33L,zimny_napój,7,5
+1496,niedziela,14,Sałatka Caesar,danie_główne,22,6
+1496,niedziela,14,Woda mineralna,zimny_napój,5,6
+1497,niedziela,14,Zupa dnia,danie_główne,16,10
+1497,niedziela,14,Heineken 0.33L,piwo,10,10
+1498,niedziela,14,Quesadilla,danie_główne,20,3
+1498,niedziela,14,Kawa espresso,gorący_napój,6,3
+1499,niedziela,14,Quesadilla,danie_główne,20,11
+1499,niedziela,14,Żywiec 0.5L,piwo,8,11
+1500,niedziela,14,Kotlet schabowy,danie_główne,30,10
+1500,niedziela,14,Woda mineralna,zimny_napój,5,10
+1500,niedziela,14,Spaghetti Carbonara,danie_główne,26,10
+1501,niedziela,14,Kotlet schabowy,danie_główne,30,7
+1501,niedziela,14,Kawa espresso,gorący_napój,6,7
+1502,niedziela,14,Sałatka Caesar,danie_główne,22,10
+1502,niedziela,14,Heineken 0.33L,piwo,10,10
+1503,niedziela,14,Pizza Margherita,danie_główne,28,11
+1503,niedziela,14,Sok pomarańczowy,zimny_napój,8,11
+1504,niedziela,14,Pizza Margherita,danie_główne,28,3
+1504,niedziela,14,Burger Classic,danie_główne,24,3
+1505,niedziela,14,Spaghetti Carbonara,danie_główne,26,8
+1505,niedziela,14,Żywiec 0.5L,piwo,8,8
+1506,niedziela,14,Wrap z kurczakiem,danie_główne,18,1
+1506,niedziela,14,Kawa espresso,gorący_napój,6,1
+1507,niedziela,14,Spaghetti Carbonara,danie_główne,26,4
+1507,niedziela,14,Ryba z grilla,danie_główne,35,4
+1508,niedziela,15,Kotlet schabowy,danie_główne,30,6
+1508,niedziela,15,Żywiec 0.5L,piwo,8,6
+1509,niedziela,15,Ryba z grilla,danie_główne,35,9
+1509,niedziela,15,Żywiec 0.5L,piwo,8,9
+1510,niedziela,15,Sałatka Caesar,danie_główne,22,4
+1510,niedziela,15,Kawa espresso,gorący_napój,6,4
+1510,niedziela,15,Pizza Margherita,danie_główne,28,4
+1510,niedziela,15,Heineken 0.33L,piwo,10,4
+1510,niedziela,15,Zupa dnia,danie_główne,16,4
+1511,niedziela,15,Zupa dnia,danie_główne,16,2
+1511,niedziela,15,Sok pomarańczowy,zimny_napój,8,2
+1512,niedziela,15,Burger Classic,danie_główne,24,9
+1512,niedziela,15,Heineken 0.33L,piwo,10,9
+1513,niedziela,15,Burger Classic,danie_główne,24,5
+1513,niedziela,15,Heineken 0.33L,piwo,10,5
+1514,niedziela,15,Spaghetti Carbonara,danie_główne,26,12
+1514,niedziela,15,Kawa espresso,gorący_napój,6,12
+1515,niedziela,15,Burger Classic,danie_główne,24,12
+1515,niedziela,15,Sok pomarańczowy,zimny_napój,8,12
+1516,niedziela,15,Pizza Margherita,danie_główne,28,5
+1516,niedziela,15,Żywiec 0.5L,piwo,8,5
+1517,niedziela,16,Quesadilla,danie_główne,20,7
+1517,niedziela,16,Kawa espresso,gorący_napój,6,7
+1517,niedziela,16,Spaghetti Carbonara,danie_główne,26,7
+1517,niedziela,16,Cola 0.33L,zimny_napój,7,7
+1517,niedziela,16,Wrap z kurczakiem,danie_główne,18,7
+1518,niedziela,16,Pizza Margherita,danie_główne,28,9
+1518,niedziela,16,Woda mineralna,zimny_napój,5,9
+1519,niedziela,16,Spaghetti Carbonara,danie_główne,26,5
+1519,niedziela,16,Kawa espresso,gorący_napój,6,5
+1520,niedziela,16,Burger Classic,danie_główne,24,13
+1520,niedziela,16,Sok pomarańczowy,zimny_napój,8,13
+1520,niedziela,16,Żywiec 0.5L,piwo,8,13
+1520,niedziela,16,Cola 0.33L,zimny_napój,7,13
+1521,niedziela,16,Spaghetti Carbonara,danie_główne,26,10
+1521,niedziela,16,Sok pomarańczowy,zimny_napój,8,10
+1522,niedziela,16,Kotlet schabowy,danie_główne,30,7
+1522,niedziela,16,Woda mineralna,zimny_napój,5,7
+1523,niedziela,16,Pizza Margherita,danie_główne,28,9
+1523,niedziela,16,Heineken 0.33L,piwo,10,9
+1523,niedziela,16,Pizza Margherita,danie_główne,28,9
+1523,niedziela,16,Sałatka Caesar,danie_główne,22,9
+1524,niedziela,16,Pizza Margherita,danie_główne,28,12
+1524,niedziela,16,Herbata,gorący_napój,5,12
+1524,niedziela,16,Ryba z grilla,danie_główne,35,12
+1525,niedziela,16,Pizza Margherita,danie_główne,28,10
+1525,niedziela,16,Herbata,gorący_napój,5,10
+1525,niedziela,16,Sałatka Caesar,danie_główne,22,10
+1526,niedziela,16,Risotto,danie_główne,32,7
+1526,niedziela,16,Heineken 0.33L,piwo,10,7
+1527,niedziela,16,Risotto,danie_główne,32,7
+1527,niedziela,16,Pizza Margherita,danie_główne,28,7
+1528,niedziela,16,Wrap z kurczakiem,danie_główne,18,6
+1528,niedziela,16,Heineken 0.33L,piwo,10,6
+1529,niedziela,16,Burger Classic,danie_główne,24,9
+1529,niedziela,16,Sok pomarańczowy,zimny_napój,8,9
+1530,niedziela,17,Wrap z kurczakiem,danie_główne,18,8
+1530,niedziela,17,Żywiec 0.5L,piwo,8,8
+1530,niedziela,17,Heineken 0.33L,piwo,10,8
+1531,niedziela,17,Wrap z kurczakiem,danie_główne,18,6
+1531,niedziela,17,Craft IPA 0.33L,piwo,14,6
+1532,niedziela,17,Zupa dnia,danie_główne,16,8
+1532,niedziela,17,Cola 0.33L,zimny_napój,7,8
+1533,niedziela,17,Kotlet schabowy,danie_główne,30,11
+1533,niedziela,17,Sok pomarańczowy,zimny_napój,8,11
+1534,niedziela,17,Ryba z grilla,danie_główne,35,9
+1534,niedziela,17,Heineken 0.33L,piwo,10,9
+1535,niedziela,17,Kotlet schabowy,danie_główne,30,9
+1535,niedziela,17,Sok pomarańczowy,zimny_napój,8,9
+1536,niedziela,17,Quesadilla,danie_główne,20,11
+1537,niedziela,17,Spaghetti Carbonara,danie_główne,26,5
+1537,niedziela,17,Woda mineralna,zimny_napój,5,5
+1538,niedziela,17,Kotlet schabowy,danie_główne,30,11
+1538,niedziela,17,Sok pomarańczowy,zimny_napój,8,11
+1538,niedziela,17,Herbata,gorący_napój,5,11
+1539,niedziela,17,Sałatka Caesar,danie_główne,22,8
+1540,niedziela,17,Burger Classic,danie_główne,24,9
+1540,niedziela,17,Heineken 0.33L,piwo,10,9
+1540,niedziela,17,Zupa dnia,danie_główne,16,9
+1541,niedziela,17,Zupa dnia,danie_główne,16,6
+1541,niedziela,17,Herbata,gorący_napój,5,6
+1542,niedziela,17,Burger Classic,danie_główne,24,9
+1542,niedziela,17,Heineken 0.33L,piwo,10,9
+1542,niedziela,17,Woda mineralna,zimny_napój,5,9
+1542,niedziela,17,Woda mineralna,zimny_napój,5,9
+1542,niedziela,17,Burger Classic,danie_główne,24,9
+1543,niedziela,17,Kotlet schabowy,danie_główne,30,11
+1543,niedziela,17,Cola 0.33L,zimny_napój,7,11
+1543,niedziela,17,Ryba z grilla,danie_główne,35,11
+1544,niedziela,17,Ryba z grilla,danie_główne,35,6
+1544,niedziela,17,Herbata,gorący_napój,5,6
+1544,niedziela,17,Sok pomarańczowy,zimny_napój,8,6
+1545,niedziela,17,Pizza Margherita,danie_główne,28,7
+1545,niedziela,17,Sok pomarańczowy,zimny_napój,8,7
+1546,niedziela,17,Burger Classic,danie_główne,24,5
+1546,niedziela,17,Craft IPA 0.33L,piwo,14,5
+1547,niedziela,17,Zupa dnia,danie_główne,16,13
+1547,niedziela,17,Heineken 0.33L,piwo,10,13
+1548,niedziela,17,Kotlet schabowy,danie_główne,30,11
+1549,niedziela,17,Pizza Margherita,danie_główne,28,14
+1549,niedziela,17,Sok pomarańczowy,zimny_napój,8,14
+1549,niedziela,17,Sok pomarańczowy,zimny_napój,8,14
+1550,niedziela,17,Zupa dnia,danie_główne,16,7
+1550,niedziela,17,Heineken 0.33L,piwo,10,7
+1551,niedziela,17,Burger Classic,danie_główne,24,6
+1551,niedziela,17,Sok pomarańczowy,zimny_napój,8,6
+1552,niedziela,17,Zupa dnia,danie_główne,16,9
+1552,niedziela,17,Cola 0.33L,zimny_napój,7,9
+1553,niedziela,17,Spaghetti Carbonara,danie_główne,26,8
+1553,niedziela,17,Craft IPA 0.33L,piwo,14,8
+1554,niedziela,17,Kotlet schabowy,danie_główne,30,6
+1554,niedziela,17,Cola 0.33L,zimny_napój,7,6
+1555,niedziela,18,Wrap z kurczakiem,danie_główne,18,7
+1555,niedziela,18,Pizza Margherita,danie_główne,28,7
+1556,niedziela,18,Burger Classic,danie_główne,24,6
+1556,niedziela,18,Sok pomarańczowy,zimny_napój,8,6
+1556,niedziela,18,Cola 0.33L,zimny_napój,7,6
+1556,niedziela,18,Żywiec 0.5L,piwo,8,6
+1557,niedziela,18,Spaghetti Carbonara,danie_główne,26,2
+1557,niedziela,18,Heineken 0.33L,piwo,10,2
+1557,niedziela,18,Spaghetti Carbonara,danie_główne,26,2
+1558,niedziela,18,Burger Classic,danie_główne,24,7
+1558,niedziela,18,Sok pomarańczowy,zimny_napój,8,7
+1559,niedziela,18,Spaghetti Carbonara,danie_główne,26,3
+1559,niedziela,18,Herbata,gorący_napój,5,3
+1559,niedziela,18,Kotlet schabowy,danie_główne,30,3
+1560,niedziela,18,Pizza Margherita,danie_główne,28,10
+1561,niedziela,18,Ryba z grilla,danie_główne,35,8
+1561,niedziela,18,Heineken 0.33L,piwo,10,8
+1562,niedziela,18,Zupa dnia,danie_główne,16,5
+1562,niedziela,18,Żywiec 0.5L,piwo,8,5
+1563,niedziela,18,Quesadilla,danie_główne,20,10
+1563,niedziela,18,Żywiec 0.5L,piwo,8,10
+1564,niedziela,18,Spaghetti Carbonara,danie_główne,26,6
+1564,niedziela,18,Kawa espresso,gorący_napój,6,6
+1565,niedziela,18,Kotlet schabowy,danie_główne,30,4
+1565,niedziela,18,Cola 0.33L,zimny_napój,7,4
+1566,niedziela,18,Quesadilla,danie_główne,20,10
+1566,niedziela,18,Żywiec 0.5L,piwo,8,10
+1567,niedziela,18,Sałatka Caesar,danie_główne,22,15
+1567,niedziela,18,Woda mineralna,zimny_napój,5,15
+1567,niedziela,18,Kawa espresso,gorący_napój,6,15
+1567,niedziela,18,Pizza Margherita,danie_główne,28,15
+1568,niedziela,18,Kotlet schabowy,danie_główne,30,8
+1568,niedziela,18,Kawa espresso,gorący_napój,6,8
+1569,niedziela,18,Kotlet schabowy,danie_główne,30,11
+1569,niedziela,18,Cola 0.33L,zimny_napój,7,11
+1570,niedziela,18,Pizza Margherita,danie_główne,28,8
+1570,niedziela,18,Żywiec 0.5L,piwo,8,8
+1571,niedziela,18,Ryba z grilla,danie_główne,35,6
+1571,niedziela,18,Żywiec 0.5L,piwo,8,6
+1572,niedziela,18,Kotlet schabowy,danie_główne,30,9
+1572,niedziela,18,Cola 0.33L,zimny_napój,7,9
+1573,niedziela,18,Pizza Margherita,danie_główne,28,9
+1573,niedziela,18,Heineken 0.33L,piwo,10,9
+1574,niedziela,18,Zupa dnia,danie_główne,16,6
+1574,niedziela,18,Żywiec 0.5L,piwo,8,6
+1575,niedziela,18,Burger Classic,danie_główne,24,6
+1575,niedziela,18,Woda mineralna,zimny_napój,5,6
+1576,niedziela,18,Kotlet schabowy,danie_główne,30,9
+1576,niedziela,18,Herbata,gorący_napój,5,9
+1577,niedziela,18,Wrap z kurczakiem,danie_główne,18,14
+1577,niedziela,18,Sok pomarańczowy,zimny_napój,8,14
+1578,niedziela,18,Spaghetti Carbonara,danie_główne,26,9
+1578,niedziela,18,Heineken 0.33L,piwo,10,9
+1579,niedziela,18,Zupa dnia,danie_główne,16,6
+1579,niedziela,18,Żywiec 0.5L,piwo,8,6
+1580,niedziela,18,Kotlet schabowy,danie_główne,30,3
+1580,niedziela,18,Herbata,gorący_napój,5,3
+1581,niedziela,18,Ryba z grilla,danie_główne,35,5
+1581,niedziela,18,Kawa espresso,gorący_napój,6,5
+1582,niedziela,18,Pizza Margherita,danie_główne,28,11
+1582,niedziela,18,Heineken 0.33L,piwo,10,11
+1583,niedziela,18,Wrap z kurczakiem,danie_główne,18,3
+1583,niedziela,18,Quesadilla,danie_główne,20,3
+1584,niedziela,18,Wrap z kurczakiem,danie_główne,18,9
+1585,niedziela,18,Burger Classic,danie_główne,24,9
+1585,niedziela,18,Cola 0.33L,zimny_napój,7,9
+1585,niedziela,18,Heineken 0.33L,piwo,10,9
+1585,niedziela,18,Kotlet schabowy,danie_główne,30,9
+1586,niedziela,18,Risotto,danie_główne,32,4
+1586,niedziela,18,Cola 0.33L,zimny_napój,7,4
+1587,niedziela,18,Kotlet schabowy,danie_główne,30,4
+1587,niedziela,18,Żywiec 0.5L,piwo,8,4
+1588,niedziela,18,Pizza Margherita,danie_główne,28,10
+1588,niedziela,18,Sok pomarańczowy,zimny_napój,8,10
+1588,niedziela,18,Quesadilla,danie_główne,20,10
+1589,niedziela,18,Spaghetti Carbonara,danie_główne,26,4
+1589,niedziela,18,Cola 0.33L,zimny_napój,7,4
+1589,niedziela,18,Pizza Margherita,danie_główne,28,4
+1590,niedziela,18,Wrap z kurczakiem,danie_główne,18,7
+1590,niedziela,18,Herbata,gorący_napój,5,7
+1590,niedziela,18,Herbata,gorący_napój,5,7
+1590,niedziela,18,Żywiec 0.5L,piwo,8,7
+1590,niedziela,18,Sok pomarańczowy,zimny_napój,8,7
+1591,niedziela,18,Wrap z kurczakiem,danie_główne,18,9
+1591,niedziela,18,Żywiec 0.5L,piwo,8,9
+1592,niedziela,18,Risotto,danie_główne,32,5
+1592,niedziela,18,Heineken 0.33L,piwo,10,5
+1592,niedziela,18,Cola 0.33L,zimny_napój,7,5
+1593,niedziela,18,Sałatka Caesar,danie_główne,22,4
+1593,niedziela,18,Żywiec 0.5L,piwo,8,4
+1594,niedziela,18,Wrap z kurczakiem,danie_główne,18,7
+1595,niedziela,18,Zupa dnia,danie_główne,16,10
+1595,niedziela,18,Craft IPA 0.33L,piwo,14,10
+1596,niedziela,18,Spaghetti Carbonara,danie_główne,26,3
+1596,niedziela,18,Woda mineralna,zimny_napój,5,3
+1596,niedziela,18,Pizza Margherita,danie_główne,28,3
+1597,niedziela,18,Quesadilla,danie_główne,20,14
+1597,niedziela,18,Żywiec 0.5L,piwo,8,14
+1598,niedziela,18,Spaghetti Carbonara,danie_główne,26,4
+1598,niedziela,18,Herbata,gorący_napój,5,4
+1599,niedziela,18,Kotlet schabowy,danie_główne,30,7
+1600,niedziela,18,Wrap z kurczakiem,danie_główne,18,5
+1600,niedziela,18,Żywiec 0.5L,piwo,8,5
+1601,niedziela,18,Burger Classic,danie_główne,24,10
+1601,niedziela,18,Heineken 0.33L,piwo,10,10
+1602,niedziela,18,Kotlet schabowy,danie_główne,30,7
+1602,niedziela,18,Heineken 0.33L,piwo,10,7
+1603,niedziela,18,Risotto,danie_główne,32,8
+1603,niedziela,18,Woda mineralna,zimny_napój,5,8
+1604,niedziela,18,Spaghetti Carbonara,danie_główne,26,7
+1604,niedziela,18,Kawa espresso,gorący_napój,6,7
+1604,niedziela,18,Heineken 0.33L,piwo,10,7
+1605,niedziela,18,Risotto,danie_główne,32,10
+1606,niedziela,19,Sałatka Caesar,danie_główne,22,8
+1606,niedziela,19,Sok pomarańczowy,zimny_napój,8,8
+1607,niedziela,19,Pizza Margherita,danie_główne,28,3
+1607,niedziela,19,Cola 0.33L,zimny_napój,7,3
+1608,niedziela,19,Zupa dnia,danie_główne,16,16
+1608,niedziela,19,Cola 0.33L,zimny_napój,7,16
+1609,niedziela,19,Quesadilla,danie_główne,20,8
+1609,niedziela,19,Cola 0.33L,zimny_napój,7,8
+1610,niedziela,19,Kotlet schabowy,danie_główne,30,12
+1610,niedziela,19,Sok pomarańczowy,zimny_napój,8,12
+1611,niedziela,19,Risotto,danie_główne,32,4
+1611,niedziela,19,Żywiec 0.5L,piwo,8,4
+1612,niedziela,19,Burger Classic,danie_główne,24,2
+1613,niedziela,19,Pizza Margherita,danie_główne,28,10
+1614,niedziela,19,Zupa dnia,danie_główne,16,5
+1614,niedziela,19,Burger Classic,danie_główne,24,5
+1615,niedziela,19,Sałatka Caesar,danie_główne,22,11
+1615,niedziela,19,Woda mineralna,zimny_napój,5,11
+1616,niedziela,19,Pizza Margherita,danie_główne,28,6
+1616,niedziela,19,Craft IPA 0.33L,piwo,14,6
+1617,niedziela,19,Spaghetti Carbonara,danie_główne,26,8
+1618,niedziela,19,Kotlet schabowy,danie_główne,30,8
+1618,niedziela,19,Sok pomarańczowy,zimny_napój,8,8
+1618,niedziela,19,Craft IPA 0.33L,piwo,14,8
+1619,niedziela,19,Zupa dnia,danie_główne,16,13
+1619,niedziela,19,Sok pomarańczowy,zimny_napój,8,13
+1620,niedziela,19,Sałatka Caesar,danie_główne,22,10
+1621,niedziela,19,Burger Classic,danie_główne,24,9
+1621,niedziela,19,Kawa espresso,gorący_napój,6,9
+1622,niedziela,19,Quesadilla,danie_główne,20,8
+1622,niedziela,19,Żywiec 0.5L,piwo,8,8
+1623,niedziela,19,Pizza Margherita,danie_główne,28,14
+1623,niedziela,19,Cola 0.33L,zimny_napój,7,14
+1624,niedziela,19,Kotlet schabowy,danie_główne,30,10
+1624,niedziela,19,Sok pomarańczowy,zimny_napój,8,10
+1625,niedziela,19,Wrap z kurczakiem,danie_główne,18,10
+1625,niedziela,19,Żywiec 0.5L,piwo,8,10
+1626,niedziela,19,Burger Classic,danie_główne,24,5
+1626,niedziela,19,Pizza Margherita,danie_główne,28,5
+1626,niedziela,19,Ryba z grilla,danie_główne,35,5
+1627,niedziela,19,Risotto,danie_główne,32,9
+1627,niedziela,19,Żywiec 0.5L,piwo,8,9
+1627,niedziela,19,Żywiec 0.5L,piwo,8,9
+1628,niedziela,19,Risotto,danie_główne,32,7
+1628,niedziela,19,Heineken 0.33L,piwo,10,7
+1629,niedziela,19,Kotlet schabowy,danie_główne,30,6
+1629,niedziela,19,Craft IPA 0.33L,piwo,14,6
+1629,niedziela,19,Sok pomarańczowy,zimny_napój,8,6
+1630,niedziela,19,Burger Classic,danie_główne,24,17
+1630,niedziela,19,Cola 0.33L,zimny_napój,7,17
+1630,niedziela,19,Kotlet schabowy,danie_główne,30,17
+1631,niedziela,19,Quesadilla,danie_główne,20,4
+1631,niedziela,19,Cola 0.33L,zimny_napój,7,4
+1632,niedziela,19,Risotto,danie_główne,32,3
+1632,niedziela,19,Żywiec 0.5L,piwo,8,3
+1633,niedziela,19,Risotto,danie_główne,32,10
+1633,niedziela,19,Żywiec 0.5L,piwo,8,10
+1634,niedziela,19,Pizza Margherita,danie_główne,28,9
+1634,niedziela,19,Craft IPA 0.33L,piwo,14,9
+1635,niedziela,19,Kotlet schabowy,danie_główne,30,9
+1635,niedziela,19,Sok pomarańczowy,zimny_napój,8,9
+1635,niedziela,19,Kawa espresso,gorący_napój,6,9
+1636,niedziela,19,Zupa dnia,danie_główne,16,7
+1636,niedziela,19,Craft IPA 0.33L,piwo,14,7
+1636,niedziela,19,Sok pomarańczowy,zimny_napój,8,7
+1637,niedziela,19,Burger Classic,danie_główne,24,2
+1637,niedziela,19,Cola 0.33L,zimny_napój,7,2
+1637,niedziela,19,Quesadilla,danie_główne,20,2
+1638,niedziela,19,Zupa dnia,danie_główne,16,12
+1638,niedziela,19,Cola 0.33L,zimny_napój,7,12
+1639,niedziela,19,Sałatka Caesar,danie_główne,22,4
+1639,niedziela,19,Żywiec 0.5L,piwo,8,4
+1640,niedziela,19,Spaghetti Carbonara,danie_główne,26,16
+1641,niedziela,19,Zupa dnia,danie_główne,16,9
+1641,niedziela,19,Kawa espresso,gorący_napój,6,9
+1642,niedziela,19,Quesadilla,danie_główne,20,7
+1642,niedziela,19,Żywiec 0.5L,piwo,8,7
+1643,niedziela,19,Kotlet schabowy,danie_główne,30,13
+1643,niedziela,19,Herbata,gorący_napój,5,13
+1644,niedziela,19,Spaghetti Carbonara,danie_główne,26,11
+1644,niedziela,19,Cola 0.33L,zimny_napój,7,11
+1645,niedziela,19,Spaghetti Carbonara,danie_główne,26,4
+1645,niedziela,19,Heineken 0.33L,piwo,10,4
+1646,niedziela,19,Sałatka Caesar,danie_główne,22,2
+1647,niedziela,19,Pizza Margherita,danie_główne,28,7
+1647,niedziela,19,Cola 0.33L,zimny_napój,7,7
+1648,niedziela,19,Burger Classic,danie_główne,24,14
+1648,niedziela,19,Żywiec 0.5L,piwo,8,14
+1648,niedziela,19,Kotlet schabowy,danie_główne,30,14
+1648,niedziela,19,Craft IPA 0.33L,piwo,14,14
+1649,niedziela,19,Burger Classic,danie_główne,24,3
+1649,niedziela,19,Sok pomarańczowy,zimny_napój,8,3
+1649,niedziela,19,Żywiec 0.5L,piwo,8,3
+1650,niedziela,19,Wrap z kurczakiem,danie_główne,18,10
+1651,niedziela,19,Kotlet schabowy,danie_główne,30,4
+1651,niedziela,19,Herbata,gorący_napój,5,4
+1652,niedziela,19,Wrap z kurczakiem,danie_główne,18,10
+1652,niedziela,19,Ryba z grilla,danie_główne,35,10
+1652,niedziela,19,Cola 0.33L,zimny_napój,7,10
+1652,niedziela,19,Sok pomarańczowy,zimny_napój,8,10
+1652,niedziela,19,Sok pomarańczowy,zimny_napój,8,10
+1653,niedziela,19,Pizza Margherita,danie_główne,28,5
+1653,niedziela,19,Kawa espresso,gorący_napój,6,5
+1654,niedziela,19,Burger Classic,danie_główne,24,8
+1654,niedziela,19,Żywiec 0.5L,piwo,8,8
+1654,niedziela,19,Woda mineralna,zimny_napój,5,8
+1655,niedziela,19,Pizza Margherita,danie_główne,28,7
+1655,niedziela,19,Heineken 0.33L,piwo,10,7
+1655,niedziela,19,Spaghetti Carbonara,danie_główne,26,7
+1656,niedziela,19,Kotlet schabowy,danie_główne,30,8
+1657,niedziela,19,Burger Classic,danie_główne,24,12
+1657,niedziela,19,Heineken 0.33L,piwo,10,12
+1657,niedziela,19,Heineken 0.33L,piwo,10,12
+1658,niedziela,19,Pizza Margherita,danie_główne,28,7
+1658,niedziela,19,Craft IPA 0.33L,piwo,14,7
+1659,niedziela,19,Quesadilla,danie_główne,20,3
+1659,niedziela,19,Cola 0.33L,zimny_napój,7,3
+1660,niedziela,19,Pizza Margherita,danie_główne,28,2
+1660,niedziela,19,Sok pomarańczowy,zimny_napój,8,2
+1661,niedziela,19,Wrap z kurczakiem,danie_główne,18,2
+1661,niedziela,19,Cola 0.33L,zimny_napój,7,2
+1662,niedziela,20,Wrap z kurczakiem,danie_główne,18,10
+1662,niedziela,20,Herbata,gorący_napój,5,10
+1662,niedziela,20,Żywiec 0.5L,piwo,8,10
+1663,niedziela,20,Spaghetti Carbonara,danie_główne,26,13
+1663,niedziela,20,Kawa espresso,gorący_napój,6,13
+1664,niedziela,20,Sałatka Caesar,danie_główne,22,9
+1664,niedziela,20,Herbata,gorący_napój,5,9
+1665,niedziela,20,Pizza Margherita,danie_główne,28,6
+1665,niedziela,20,Żywiec 0.5L,piwo,8,6
+1666,niedziela,20,Spaghetti Carbonara,danie_główne,26,8
+1667,niedziela,20,Spaghetti Carbonara,danie_główne,26,13
+1667,niedziela,20,Herbata,gorący_napój,5,13
+1668,niedziela,20,Kotlet schabowy,danie_główne,30,16
+1668,niedziela,20,Żywiec 0.5L,piwo,8,16
+1668,niedziela,20,Zupa dnia,danie_główne,16,16
+1669,niedziela,20,Quesadilla,danie_główne,20,4
+1670,niedziela,20,Wrap z kurczakiem,danie_główne,18,5
+1670,niedziela,20,Heineken 0.33L,piwo,10,5
+1671,niedziela,20,Pizza Margherita,danie_główne,28,10
+1671,niedziela,20,Żywiec 0.5L,piwo,8,10
+1671,niedziela,20,Heineken 0.33L,piwo,10,10
+1672,niedziela,20,Pizza Margherita,danie_główne,28,8
+1672,niedziela,20,Heineken 0.33L,piwo,10,8
+1673,niedziela,20,Wrap z kurczakiem,danie_główne,18,9
+1673,niedziela,20,Craft IPA 0.33L,piwo,14,9
+1674,niedziela,20,Kotlet schabowy,danie_główne,30,7
+1674,niedziela,20,Kawa espresso,gorący_napój,6,7
+1675,niedziela,20,Zupa dnia,danie_główne,16,4
+1676,niedziela,20,Ryba z grilla,danie_główne,35,7
+1676,niedziela,20,Woda mineralna,zimny_napój,5,7
+1677,niedziela,20,Pizza Margherita,danie_główne,28,11
+1678,niedziela,20,Burger Classic,danie_główne,24,10
+1678,niedziela,20,Żywiec 0.5L,piwo,8,10
+1679,niedziela,20,Sałatka Caesar,danie_główne,22,8
+1680,niedziela,20,Zupa dnia,danie_główne,16,7
+1680,niedziela,20,Herbata,gorący_napój,5,7
+1681,niedziela,20,Sałatka Caesar,danie_główne,22,7
+1681,niedziela,20,Sok pomarańczowy,zimny_napój,8,7
+1681,niedziela,20,Kotlet schabowy,danie_główne,30,7
+1682,niedziela,20,Spaghetti Carbonara,danie_główne,26,8
+1683,niedziela,20,Kotlet schabowy,danie_główne,30,12
+1683,niedziela,20,Heineken 0.33L,piwo,10,12
+1684,niedziela,20,Pizza Margherita,danie_główne,28,10
+1684,niedziela,20,Sok pomarańczowy,zimny_napój,8,10
+1685,niedziela,20,Zupa dnia,danie_główne,16,2
+1685,niedziela,20,Sok pomarańczowy,zimny_napój,8,2
+1686,niedziela,20,Pizza Margherita,danie_główne,28,8
+1686,niedziela,20,Cola 0.33L,zimny_napój,7,8
+1687,niedziela,20,Burger Classic,danie_główne,24,11
+1687,niedziela,20,Woda mineralna,zimny_napój,5,11
+1688,niedziela,20,Spaghetti Carbonara,danie_główne,26,12
+1688,niedziela,20,Żywiec 0.5L,piwo,8,12
+1689,niedziela,20,Quesadilla,danie_główne,20,7
+1689,niedziela,20,Żywiec 0.5L,piwo,8,7
+1690,niedziela,20,Quesadilla,danie_główne,20,7
+1690,niedziela,20,Risotto,danie_główne,32,7
+1690,niedziela,20,Cola 0.33L,zimny_napój,7,7
+1691,niedziela,20,Wrap z kurczakiem,danie_główne,18,6
+1691,niedziela,20,Craft IPA 0.33L,piwo,14,6
+1692,niedziela,20,Spaghetti Carbonara,danie_główne,26,10
+1693,niedziela,20,Quesadilla,danie_główne,20,6
+1693,niedziela,20,Żywiec 0.5L,piwo,8,6
+1694,niedziela,20,Spaghetti Carbonara,danie_główne,26,8
+1694,niedziela,20,Kawa espresso,gorący_napój,6,8
+1695,niedziela,20,Pizza Margherita,danie_główne,28,7
+1695,niedziela,20,Woda mineralna,zimny_napój,5,7
+1696,niedziela,20,Wrap z kurczakiem,danie_główne,18,10
+1696,niedziela,20,Cola 0.33L,zimny_napój,7,10
+1697,niedziela,20,Kotlet schabowy,danie_główne,30,4
+1697,niedziela,20,Kawa espresso,gorący_napój,6,4
+1697,niedziela,20,Woda mineralna,zimny_napój,5,4
+1698,niedziela,20,Zupa dnia,danie_główne,16,9
+1698,niedziela,20,Woda mineralna,zimny_napój,5,9
+1699,niedziela,20,Risotto,danie_główne,32,8
+1699,niedziela,20,Sok pomarańczowy,zimny_napój,8,8
+1700,niedziela,20,Pizza Margherita,danie_główne,28,0
+1700,niedziela,20,Sok pomarańczowy,zimny_napój,8,0
+1701,niedziela,20,Spaghetti Carbonara,danie_główne,26,13
+1701,niedziela,20,Sok pomarańczowy,zimny_napój,8,13
+1701,niedziela,20,Sałatka Caesar,danie_główne,22,13
+1702,niedziela,20,Kotlet schabowy,danie_główne,30,8
+1702,niedziela,20,Żywiec 0.5L,piwo,8,8
+1703,niedziela,20,Spaghetti Carbonara,danie_główne,26,8
+1704,niedziela,20,Kotlet schabowy,danie_główne,30,6
+1704,niedziela,20,Żywiec 0.5L,piwo,8,6
+1704,niedziela,20,Herbata,gorący_napój,5,6
+1705,niedziela,20,Zupa dnia,danie_główne,16,9
+1705,niedziela,20,Craft IPA 0.33L,piwo,14,9
+1706,niedziela,20,Quesadilla,danie_główne,20,10
+1706,niedziela,20,Kawa espresso,gorący_napój,6,10
+1707,niedziela,20,Burger Classic,danie_główne,24,7
+1707,niedziela,20,Heineken 0.33L,piwo,10,7
+1707,niedziela,20,Sok pomarańczowy,zimny_napój,8,7
+1708,niedziela,20,Ryba z grilla,danie_główne,35,11
+1708,niedziela,20,Heineken 0.33L,piwo,10,11
+1709,niedziela,21,Ryba z grilla,danie_główne,35,4
+1709,niedziela,21,Żywiec 0.5L,piwo,8,4
+1710,niedziela,21,Kotlet schabowy,danie_główne,30,10
+1710,niedziela,21,Woda mineralna,zimny_napój,5,10
+1711,niedziela,21,Burger Classic,danie_główne,24,2
+1712,niedziela,21,Burger Classic,danie_główne,24,9
+1712,niedziela,21,Sok pomarańczowy,zimny_napój,8,9
+1713,niedziela,21,Pizza Margherita,danie_główne,28,8
+1713,niedziela,21,Woda mineralna,zimny_napój,5,8
+1714,niedziela,21,Kotlet schabowy,danie_główne,30,9
+1714,niedziela,21,Żywiec 0.5L,piwo,8,9
+1715,niedziela,21,Kotlet schabowy,danie_główne,30,9
+1715,niedziela,21,Sok pomarańczowy,zimny_napój,8,9
+1715,niedziela,21,Żywiec 0.5L,piwo,8,9
+1716,niedziela,21,Wrap z kurczakiem,danie_główne,18,5
+1716,niedziela,21,Kawa espresso,gorący_napój,6,5
+1716,niedziela,21,Cola 0.33L,zimny_napój,7,5
+1717,niedziela,21,Kotlet schabowy,danie_główne,30,8
+1717,niedziela,21,Cola 0.33L,zimny_napój,7,8
+1718,niedziela,21,Wrap z kurczakiem,danie_główne,18,2
+1718,niedziela,21,Heineken 0.33L,piwo,10,2
+1719,niedziela,21,Burger Classic,danie_główne,24,11
+1719,niedziela,21,Żywiec 0.5L,piwo,8,11
+1720,niedziela,21,Quesadilla,danie_główne,20,4
+1720,niedziela,21,Heineken 0.33L,piwo,10,4
+1721,niedziela,21,Burger Classic,danie_główne,24,2
+1721,niedziela,21,Craft IPA 0.33L,piwo,14,2
+1722,niedziela,21,Sałatka Caesar,danie_główne,22,11
+1722,niedziela,21,Kawa espresso,gorący_napój,6,11
+1722,niedziela,21,Herbata,gorący_napój,5,11
+1723,niedziela,21,Pizza Margherita,danie_główne,28,4
+1723,niedziela,21,Heineken 0.33L,piwo,10,4
+1723,niedziela,21,Quesadilla,danie_główne,20,4
+1724,niedziela,21,Kotlet schabowy,danie_główne,30,9
+1724,niedziela,21,Żywiec 0.5L,piwo,8,9
+1724,niedziela,21,Woda mineralna,zimny_napój,5,9
+1725,niedziela,21,Burger Classic,danie_główne,24,7
+1725,niedziela,21,Spaghetti Carbonara,danie_główne,26,7
+1726,niedziela,21,Burger Classic,danie_główne,24,9
+1726,niedziela,21,Heineken 0.33L,piwo,10,9
+1727,niedziela,21,Pizza Margherita,danie_główne,28,9
+1727,niedziela,21,Sok pomarańczowy,zimny_napój,8,9
+1728,niedziela,21,Wrap z kurczakiem,danie_główne,18,12
+1728,niedziela,21,Sok pomarańczowy,zimny_napój,8,12
+1728,niedziela,21,Cola 0.33L,zimny_napój,7,12
+1729,niedziela,21,Burger Classic,danie_główne,24,10
+1729,niedziela,21,Kawa espresso,gorący_napój,6,10
+1730,niedziela,21,Risotto,danie_główne,32,14
+1730,niedziela,21,Żywiec 0.5L,piwo,8,14
+1730,niedziela,21,Woda mineralna,zimny_napój,5,14
+1731,niedziela,21,Ryba z grilla,danie_główne,35,10
+1732,niedziela,21,Pizza Margherita,danie_główne,28,10
+1732,niedziela,21,Cola 0.33L,zimny_napój,7,10
+1733,niedziela,21,Pizza Margherita,danie_główne,28,11
+1733,niedziela,21,Heineken 0.33L,piwo,10,11
+1733,niedziela,21,Burger Classic,danie_główne,24,11
+1734,niedziela,21,Wrap z kurczakiem,danie_główne,18,0
+1734,niedziela,21,Woda mineralna,zimny_napój,5,0
+1735,niedziela,21,Sałatka Caesar,danie_główne,22,12
+1735,niedziela,21,Craft IPA 0.33L,piwo,14,12
+1735,niedziela,21,Heineken 0.33L,piwo,10,12
+1736,niedziela,21,Zupa dnia,danie_główne,16,10
+1737,niedziela,21,Zupa dnia,danie_główne,16,10
+1737,niedziela,21,Heineken 0.33L,piwo,10,10
+1738,niedziela,21,Pizza Margherita,danie_główne,28,10
+1738,niedziela,21,Herbata,gorący_napój,5,10
+1739,niedziela,21,Spaghetti Carbonara,danie_główne,26,10
+1739,niedziela,21,Sok pomarańczowy,zimny_napój,8,10
+1740,niedziela,21,Wrap z kurczakiem,danie_główne,18,8
+1740,niedziela,21,Kawa espresso,gorący_napój,6,8
+1741,niedziela,21,Pizza Margherita,danie_główne,28,5
+1741,niedziela,21,Herbata,gorący_napój,5,5
+1742,niedziela,21,Quesadilla,danie_główne,20,8
+1742,niedziela,21,Żywiec 0.5L,piwo,8,8
+1743,niedziela,21,Quesadilla,danie_główne,20,4
+1743,niedziela,21,Żywiec 0.5L,piwo,8,4
+1744,niedziela,21,Sałatka Caesar,danie_główne,22,10
+1744,niedziela,21,Heineken 0.33L,piwo,10,10
+1745,niedziela,21,Sałatka Caesar,danie_główne,22,8
+1745,niedziela,21,Cola 0.33L,zimny_napój,7,8
+1745,niedziela,21,Sok pomarańczowy,zimny_napój,8,8
+1746,niedziela,21,Zupa dnia,danie_główne,16,4
+1746,niedziela,21,Heineken 0.33L,piwo,10,4
+1747,niedziela,21,Pizza Margherita,danie_główne,28,8
+1747,niedziela,21,Ryba z grilla,danie_główne,35,8
+1748,niedziela,21,Burger Classic,danie_główne,24,6
+1748,niedziela,21,Sok pomarańczowy,zimny_napój,8,6
+1749,niedziela,21,Zupa dnia,danie_główne,16,7
+1749,niedziela,21,Herbata,gorący_napój,5,7
+1750,niedziela,21,Spaghetti Carbonara,danie_główne,26,5
+1750,niedziela,21,Craft IPA 0.33L,piwo,14,5
+1751,niedziela,21,Burger Classic,danie_główne,24,8
+1751,niedziela,21,Woda mineralna,zimny_napój,5,8
+1752,niedziela,21,Spaghetti Carbonara,danie_główne,26,4
+1752,niedziela,21,Heineken 0.33L,piwo,10,4
+1753,niedziela,21,Sałatka Caesar,danie_główne,22,5
+1753,niedziela,21,Woda mineralna,zimny_napój,5,5
+1754,niedziela,21,Burger Classic,danie_główne,24,14
+1754,niedziela,21,Żywiec 0.5L,piwo,8,14
+1755,niedziela,21,Spaghetti Carbonara,danie_główne,26,8
+1755,niedziela,21,Woda mineralna,zimny_napój,5,8
+1756,niedziela,21,Wrap z kurczakiem,danie_główne,18,10
+1756,niedziela,21,Woda mineralna,zimny_napój,5,10
+1757,niedziela,21,Quesadilla,danie_główne,20,9
+1757,niedziela,21,Craft IPA 0.33L,piwo,14,9
+1758,niedziela,21,Kotlet schabowy,danie_główne,30,7
+1758,niedziela,21,Woda mineralna,zimny_napój,5,7
+1759,niedziela,21,Sałatka Caesar,danie_główne,22,11
+1759,niedziela,21,Pizza Margherita,danie_główne,28,11
+1760,niedziela,21,Zupa dnia,danie_główne,16,12
+1760,niedziela,21,Heineken 0.33L,piwo,10,12
+1761,niedziela,21,Wrap z kurczakiem,danie_główne,18,13
+1761,niedziela,21,Burger Classic,danie_główne,24,13
+1762,niedziela,22,Burger Classic,danie_główne,24,5
+1762,niedziela,22,Żywiec 0.5L,piwo,8,5
+1763,niedziela,22,Zupa dnia,danie_główne,16,12
+1763,niedziela,22,Woda mineralna,zimny_napój,5,12
+1764,niedziela,22,Pizza Margherita,danie_główne,28,6
+1764,niedziela,22,Heineken 0.33L,piwo,10,6
+1764,niedziela,22,Woda mineralna,zimny_napój,5,6
+1765,niedziela,22,Quesadilla,danie_główne,20,3
+1765,niedziela,22,Woda mineralna,zimny_napój,5,3
+1766,niedziela,22,Kotlet schabowy,danie_główne,30,10
+1766,niedziela,22,Kawa espresso,gorący_napój,6,10
+1766,niedziela,22,Cola 0.33L,zimny_napój,7,10
+1767,niedziela,22,Quesadilla,danie_główne,20,11
+1767,niedziela,22,Woda mineralna,zimny_napój,5,11
+1767,niedziela,22,Heineken 0.33L,piwo,10,11
+1768,niedziela,22,Kotlet schabowy,danie_główne,30,9
+1768,niedziela,22,Heineken 0.33L,piwo,10,9
+1768,niedziela,22,Sok pomarańczowy,zimny_napój,8,9
+1768,niedziela,22,Heineken 0.33L,piwo,10,9
+1769,niedziela,22,Pizza Margherita,danie_główne,28,7
+1769,niedziela,22,Heineken 0.33L,piwo,10,7
+1769,niedziela,22,Żywiec 0.5L,piwo,8,7
+1770,niedziela,22,Zupa dnia,danie_główne,16,11
+1770,niedziela,22,Herbata,gorący_napój,5,11
+1770,niedziela,22,Risotto,danie_główne,32,11
+1770,niedziela,22,Heineken 0.33L,piwo,10,11
+1770,niedziela,22,Burger Classic,danie_główne,24,11
+1771,niedziela,22,Zupa dnia,danie_główne,16,5
+1771,niedziela,22,Żywiec 0.5L,piwo,8,5
+1772,niedziela,22,Quesadilla,danie_główne,20,7
+1772,niedziela,22,Woda mineralna,zimny_napój,5,7
+1773,niedziela,22,Sałatka Caesar,danie_główne,22,10
+1773,niedziela,22,Żywiec 0.5L,piwo,8,10
+1773,niedziela,22,Heineken 0.33L,piwo,10,10
+1774,niedziela,22,Quesadilla,danie_główne,20,6
+1774,niedziela,22,Sok pomarańczowy,zimny_napój,8,6
+1775,niedziela,22,Zupa dnia,danie_główne,16,2
+1775,niedziela,22,Kawa espresso,gorący_napój,6,2
+1776,niedziela,22,Burger Classic,danie_główne,24,8
+1776,niedziela,22,Sok pomarańczowy,zimny_napój,8,8
+1777,niedziela,22,Spaghetti Carbonara,danie_główne,26,10
+1777,niedziela,22,Sok pomarańczowy,zimny_napój,8,10
+1778,niedziela,22,Risotto,danie_główne,32,5
+1779,niedziela,22,Sałatka Caesar,danie_główne,22,8
+1779,niedziela,22,Sok pomarańczowy,zimny_napój,8,8
+1780,niedziela,22,Risotto,danie_główne,32,10
+1780,niedziela,22,Pizza Margherita,danie_główne,28,10
+1780,niedziela,22,Craft IPA 0.33L,piwo,14,10
+1780,niedziela,22,Kotlet schabowy,danie_główne,30,10
+1781,niedziela,22,Burger Classic,danie_główne,24,5
+1781,niedziela,22,Herbata,gorący_napój,5,5
+1782,niedziela,22,Pizza Margherita,danie_główne,28,5
+1782,niedziela,22,Cola 0.33L,zimny_napój,7,5
+1783,niedziela,22,Spaghetti Carbonara,danie_główne,26,6
+1783,niedziela,22,Heineken 0.33L,piwo,10,6
+1783,niedziela,22,Heineken 0.33L,piwo,10,6
+1784,niedziela,22,Wrap z kurczakiem,danie_główne,18,11
+1784,niedziela,22,Żywiec 0.5L,piwo,8,11
+1785,niedziela,22,Ryba z grilla,danie_główne,35,7
+1785,niedziela,22,Heineken 0.33L,piwo,10,7
+1786,niedziela,22,Zupa dnia,danie_główne,16,10
+1786,niedziela,22,Cola 0.33L,zimny_napój,7,10
+1787,niedziela,22,Pizza Margherita,danie_główne,28,10
+1787,niedziela,22,Cola 0.33L,zimny_napój,7,10
+1788,niedziela,22,Zupa dnia,danie_główne,16,12
+1788,niedziela,22,Craft IPA 0.33L,piwo,14,12
+1789,niedziela,22,Pizza Margherita,danie_główne,28,8
+1789,niedziela,22,Herbata,gorący_napój,5,8
+1790,niedziela,22,Kotlet schabowy,danie_główne,30,9
+1790,niedziela,22,Heineken 0.33L,piwo,10,9
+1791,niedziela,22,Zupa dnia,danie_główne,16,12
+1791,niedziela,22,Heineken 0.33L,piwo,10,12
+1792,niedziela,22,Spaghetti Carbonara,danie_główne,26,10
+1792,niedziela,22,Żywiec 0.5L,piwo,8,10
+1792,niedziela,22,Żywiec 0.5L,piwo,8,10
+1793,niedziela,22,Sałatka Caesar,danie_główne,22,4
+1793,niedziela,22,Cola 0.33L,zimny_napój,7,4
+1793,niedziela,22,Burger Classic,danie_główne,24,4
+1793,niedziela,22,Kotlet schabowy,danie_główne,30,4
+1794,niedziela,22,Zupa dnia,danie_główne,16,11
+1794,niedziela,22,Żywiec 0.5L,piwo,8,11
+1795,niedziela,22,Kotlet schabowy,danie_główne,30,8
+1795,niedziela,22,Herbata,gorący_napój,5,8
+1796,niedziela,22,Burger Classic,danie_główne,24,11
+1797,niedziela,22,Wrap z kurczakiem,danie_główne,18,8
+1797,niedziela,22,Żywiec 0.5L,piwo,8,8
+1798,niedziela,22,Pizza Margherita,danie_główne,28,6
+1799,niedziela,23,Burger Classic,danie_główne,24,7
+1799,niedziela,23,Żywiec 0.5L,piwo,8,7
+1800,niedziela,23,Wrap z kurczakiem,danie_główne,18,4
+1800,niedziela,23,Kotlet schabowy,danie_główne,30,4
+1800,niedziela,23,Woda mineralna,zimny_napój,5,4
+1801,niedziela,23,Quesadilla,danie_główne,20,6
+1801,niedziela,23,Żywiec 0.5L,piwo,8,6
+1802,niedziela,23,Spaghetti Carbonara,danie_główne,26,7
+1802,niedziela,23,Cola 0.33L,zimny_napój,7,7
+1803,niedziela,23,Risotto,danie_główne,32,8
+1803,niedziela,23,Żywiec 0.5L,piwo,8,8
+1803,niedziela,23,Sok pomarańczowy,zimny_napój,8,8
+1804,niedziela,23,Quesadilla,danie_główne,20,8
+1804,niedziela,23,Heineken 0.33L,piwo,10,8
+1805,niedziela,23,Wrap z kurczakiem,danie_główne,18,7
+1805,niedziela,23,Kawa espresso,gorący_napój,6,7
+1806,niedziela,23,Wrap z kurczakiem,danie_główne,18,8
+1806,niedziela,23,Herbata,gorący_napój,5,8
+1806,niedziela,23,Żywiec 0.5L,piwo,8,8
+1806,niedziela,23,Spaghetti Carbonara,danie_główne,26,8
+1807,niedziela,23,Wrap z kurczakiem,danie_główne,18,10
+1807,niedziela,23,Kawa espresso,gorący_napój,6,10
+1807,niedziela,23,Kawa espresso,gorący_napój,6,10
+1807,niedziela,23,Herbata,gorący_napój,5,10
+1808,niedziela,23,Wrap z kurczakiem,danie_główne,18,8
+1808,niedziela,23,Heineken 0.33L,piwo,10,8
+1809,niedziela,23,Kotlet schabowy,danie_główne,30,10
+1809,niedziela,23,Kawa espresso,gorący_napój,6,10
+1810,niedziela,23,Kotlet schabowy,danie_główne,30,8
+1810,niedziela,23,Żywiec 0.5L,piwo,8,8
+1811,niedziela,23,Pizza Margherita,danie_główne,28,7
+1811,niedziela,23,Woda mineralna,zimny_napój,5,7
+1812,niedziela,23,Zupa dnia,danie_główne,16,8
+1812,niedziela,23,Kawa espresso,gorący_napój,6,8
+1813,niedziela,23,Spaghetti Carbonara,danie_główne,26,7
+1813,niedziela,23,Woda mineralna,zimny_napój,5,7
+1813,niedziela,23,Herbata,gorący_napój,5,7
+1814,niedziela,23,Zupa dnia,danie_główne,16,13
+1814,niedziela,23,Kawa espresso,gorący_napój,6,13
+1814,niedziela,23,Ryba z grilla,danie_główne,35,13
+1814,niedziela,23,Kawa espresso,gorący_napój,6,13
+1815,niedziela,23,Wrap z kurczakiem,danie_główne,18,8
+1815,niedziela,23,Sok pomarańczowy,zimny_napój,8,8
+1816,niedziela,23,Zupa dnia,danie_główne,16,10
+1816,niedziela,23,Heineken 0.33L,piwo,10,10
+1817,niedziela,23,Burger Classic,danie_główne,24,12
+1817,niedziela,23,Herbata,gorący_napój,5,12
+1817,niedziela,23,Sok pomarańczowy,zimny_napój,8,12
+1818,niedziela,23,Wrap z kurczakiem,danie_główne,18,4
+1818,niedziela,23,Heineken 0.33L,piwo,10,4
+1819,niedziela,23,Sałatka Caesar,danie_główne,22,12
+1819,niedziela,23,Kawa espresso,gorący_napój,6,12
+1820,niedziela,23,Zupa dnia,danie_główne,16,14
+1820,niedziela,23,Kawa espresso,gorący_napój,6,14
+1821,niedziela,23,Sałatka Caesar,danie_główne,22,4
+1821,niedziela,23,Cola 0.33L,zimny_napój,7,4
+1821,niedziela,23,Żywiec 0.5L,piwo,8,4
+1822,niedziela,23,Zupa dnia,danie_główne,16,8
+1822,niedziela,23,Żywiec 0.5L,piwo,8,8
+1823,niedziela,23,Sałatka Caesar,danie_główne,22,4
+1823,niedziela,23,Kawa espresso,gorący_napój,6,4
+1824,niedziela,23,Spaghetti Carbonara,danie_główne,26,9
+1824,niedziela,23,Craft IPA 0.33L,piwo,14,9
+1825,niedziela,23,Wrap z kurczakiem,danie_główne,18,5
+1825,niedziela,23,Żywiec 0.5L,piwo,8,5
+1826,niedziela,23,Spaghetti Carbonara,danie_główne,26,11
+1826,niedziela,23,Żywiec 0.5L,piwo,8,11
+1826,niedziela,23,Craft IPA 0.33L,piwo,14,11
+1826,niedziela,23,Cola 0.33L,zimny_napój,7,11
+1827,niedziela,23,Zupa dnia,danie_główne,16,9
+1827,niedziela,23,Heineken 0.33L,piwo,10,9
+1827,niedziela,23,Kotlet schabowy,danie_główne,30,9
+1827,niedziela,23,Heineken 0.33L,piwo,10,9
+1827,niedziela,23,Craft IPA 0.33L,piwo,14,9
+1828,niedziela,23,Sałatka Caesar,danie_główne,22,6
+1828,niedziela,23,Woda mineralna,zimny_napój,5,6
+1829,niedziela,23,Risotto,danie_główne,32,9
+1829,niedziela,23,Cola 0.33L,zimny_napój,7,9
+1830,niedziela,23,Spaghetti Carbonara,danie_główne,26,7
+1830,niedziela,23,Żywiec 0.5L,piwo,8,7
+1831,niedziela,24,Ryba z grilla,danie_główne,35,9
+1831,niedziela,24,Żywiec 0.5L,piwo,8,9
+1832,niedziela,24,Kotlet schabowy,danie_główne,30,0
+1832,niedziela,24,Sok pomarańczowy,zimny_napój,8,0
+1832,niedziela,24,Kawa espresso,gorący_napój,6,0
+1833,niedziela,24,Quesadilla,danie_główne,20,4
+1834,niedziela,24,Wrap z kurczakiem,danie_główne,18,6
+1834,niedziela,24,Craft IPA 0.33L,piwo,14,6
+1835,niedziela,24,Sałatka Caesar,danie_główne,22,7
+1835,niedziela,24,Kawa espresso,gorący_napój,6,7
+1835,niedziela,24,Heineken 0.33L,piwo,10,7
