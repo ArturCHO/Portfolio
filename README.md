@@ -34,9 +34,9 @@ in which I will share my work.
 
  - [Project 3: Analysis of mammography research in Poland]
 
-   - Percentage of population covered by surveys over time and population size trend [(LINK)](https://github.com/ArturCHO/Portfolio/blob/main/Mammography%201.pdf)
+   - Percentage of population covered by surveys over time and population size trend [(LINK)](https://github.com/ArturCHO/Portfolio/blob/main/Mammography1.png)
    ![Dashboard](Mammography1.png)
-   - Incidence of cervical cancer in recent years [(Link)](https://github.com/ArturCHO/Portfolio/blob/main/Mammography%202.pdf)
+   - Incidence of cervical cancer in recent years [(Link)](https://github.com/ArturCHO/Portfolio/blob/main/Mammography2.png)
    ![Dashboard](Mammography2.png)
      Cleaning and modeling data with DAX, PowerBi Dashboards
 
