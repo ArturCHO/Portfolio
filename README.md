@@ -36,7 +36,7 @@ in which I will share my work.
 
    - Percentage of population covered by surveys over time and population size trend (https://github.com/ArturCHO/Portfolio/blob/main/Mammography%201.pdf)
    
-   - Incidence of cervical cancer in recent years and Value of spending on patient benefits (https://github.com/ArturCHO/Portfolio/blob/main/Mammography%202.pdf)
+   - Incidence of cervical cancer in recent years (https://github.com/ArturCHO/Portfolio/blob/main/Mammography%202.pdf)
   
      Cleaning and modeling data with DAX, PowerBi Dashboards
 
