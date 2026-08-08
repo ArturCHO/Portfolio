@@ -7,8 +7,26 @@ so that I could implement the system in the company and connect it to the forms 
 my interest in data analysis, and wanting to develop further in this direction, I decided to create this portfolio 
 in which I will share my work.
 
+## Personal Finances Project
 
-## Projects
+  The goal of the project is to create an automated system for processing, storing, and analyzing household financial data.
+The project covers the entire data processing workflow—from retrieving transaction reports from the bank, through the automatic 
+preparation and storage of data in an SQL database, to its visualization in an analytical report.
+
+**Main project phases:**
+
+- Manually download the monthly transaction report from the bank in CSV format.
+- Automatically detect the downloaded report.
+- Move the file to a dedicated archive folder.
+- Standardizing the file name according to the following format: "Transaction History MM.YYYY"
+- ETL and Data Preparation
+- Automatic import of cleaned data into SQL Server.
+- Designing a relational data model.
+- Using a star schema to prepare data for reporting and analysis.
+- Preparing a report for financial analysis.
+- Automatically incorporating new transactions after each import.
+
+### Other projects
 
 - [Project 1: Covid](https://github.com/ArturCHO/Portfolio/blob/main/COVID.sql)
   
