@@ -15,11 +15,11 @@ preparation and storage of data in an SQL database, to its visualization in an a
 
 **Main project phases:**
 
-- Manually download the monthly transaction report from the bank in CSV format. :heavy_check_mark:
-- Automatically detect the downloaded report.
-- Move the file to a dedicated archive folder.
-- Standardizing the file name according to the following format: "Transaction History MM.YYYY"
-- ETL and Data Preparation
+- Manually download the monthly transaction report from the bank in CSV format. :white_check_mark:
+- Automatically detect the downloaded report. :white_check_mark:
+- Move the file to a dedicated archive folder. :white_check_mark:
+- Standardizing the file name according to the following format: "Transaction History MM.YYYY". :white_check_mark:
+- ETL and Data Preparation. :white_check_mark:
 - Automatic import of cleaned data into SQL Server.
 - Designing a relational data model.
 - Using a star schema to prepare data for reporting and analysis.
