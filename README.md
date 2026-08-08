@@ -15,7 +15,7 @@ preparation and storage of data in an SQL database, to its visualization in an a
 
 **Main project phases:**
 
-- Manually download the monthly transaction report from the bank in CSV format.
+- Manually download the monthly transaction report from the bank in CSV format. :check_mark:
 - Automatically detect the downloaded report.
 - Move the file to a dedicated archive folder.
 - Standardizing the file name according to the following format: "Transaction History MM.YYYY"
