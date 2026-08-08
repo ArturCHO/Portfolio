@@ -20,7 +20,7 @@ preparation and storage of data in an SQL database, to its visualization in an a
 - Move the file to a dedicated archive folder. :white_check_mark:
 - Standardizing the file name according to the following format: "Transaction History MM.YYYY". :white_check_mark:
 - ETL and Data Preparation. :white_check_mark:
-![Dashboard](Okno podglądowe.png)
+![Dashboard](Overview.png)
 - Automatic import of cleaned data into SQL Server.
 - Designing a relational data model.
 - Using a star schema to prepare data for reporting and analysis.
