@@ -1,0 +1,344 @@
+import os
+import glob
+import shutil
+import pandas as pd
+import pyodbc
+import tkinter as tk
+from tkinter import ttk
+ 
+ 
+class StatusWindow:
+    """
+    Proste okno podglądowe pokazujące status trzech głównych etapów
+    programu: wykrycie pliku, ETL danych i przeniesienie pliku.
+    Każdy etap ma ikonę statusu (oczekiwanie / sukces / błąd)
+    oraz linię z dodatkowym opisem (np. nazwa pliku).
+    """
+ 
+    # ikona i kolor dla każdego możliwego statusu etapu
+    ICONS = {
+        "pending": ("⏳", "#888888"),
+        "success": ("✔", "#2e7d32"),
+        "error": ("✖", "#c62828"),
+    }
+ 
+    STAGE_LABELS = [
+        "1. Wykrycie pliku w folderze Pobrane",
+        "2. Przetworzenie danych (ETL)",
+        "3. Przeniesienie pliku do folderu docelowego",
+    ]
+ 
+    def __init__(self):
+        # utworzenie głównego okna aplikacji
+        self.root = tk.Tk()
+        self.root.title("Import historii transakcji")
+        self.root.resizable(False, False)
+ 
+        container = ttk.Frame(self.root, padding=16)
+        container.grid(row=0, column=0, sticky="nsew")
+ 
+        self.icon_labels = []
+        self.detail_vars = []
+ 
+        # dynamiczne budowanie wiersza dla każdego etapu z listy STAGE_LABELS
+        for i, text in enumerate(self.STAGE_LABELS):
+            icon_var = tk.StringVar(value=self.ICONS["pending"][0])
+            icon_label = tk.Label(
+                container,
+                textvariable=icon_var,
+                font=("Segoe UI", 14),
+                fg=self.ICONS["pending"][1],
+                width=2,
+            )
+            icon_label.grid(row=i * 2, column=0, sticky="w", padx=(0, 8))
+ 
+            stage_label = ttk.Label(
+                container, text=text, font=("Segoe UI", 10, "bold")
+            )
+            stage_label.grid(row=i * 2, column=1, sticky="w")
+ 
+            detail_var = tk.StringVar(value="Oczekiwanie...")
+            detail_label = ttk.Label(
+                container,
+                textvariable=detail_var,
+                font=("Segoe UI", 9),
+                foreground="#555555",
+                wraplength=380,
+                justify="left",
+            )
+            detail_label.grid(row=i * 2 + 1, column=1, sticky="w", pady=(0, 10))
+ 
+            # zapamiętujemy referencje do widgetów, żeby móc je później aktualizować
+            self.icon_labels.append((icon_label, icon_var))
+            self.detail_vars.append(detail_var)
+ 
+        # przycisk zamykania - nieaktywny dopóki program nie zakończy pracy,
+        # żeby użytkownik przez pomyłkę nie zamknął okna w trakcie importu
+        self.close_button = ttk.Button(
+            container, text="Zamknij", command=self.root.destroy, state="disabled"
+        )
+        self.close_button.grid(
+            row=len(self.STAGE_LABELS) * 2, column=0, columnspan=2, pady=(8, 0)
+        )
+ 
+        # wymuszenie narysowania okna od razu, zanim zacznie się przetwarzanie danych
+        self.root.update()
+ 
+    def set_status(self, stage_index, status, detail=""):
+        """
+        Aktualizuje ikonę i opis danego etapu (0, 1 lub 2) oraz od razu
+        odświeża okno, żeby zmiana była widoczna na bieżąco,
+        a nie dopiero po zakończeniu całego programu.
+        """
+        icon_label, icon_var = self.icon_labels[stage_index]
+        icon_char, color = self.ICONS[status]
+        icon_var.set(icon_char)
+        icon_label.configure(fg=color)
+        if detail:
+            self.detail_vars[stage_index].set(detail)
+        self.root.update()
+ 
+    def finish(self):
+        """
+        Odblokowuje przycisk zamknięcia i wchodzi w pętlę zdarzeń,
+        żeby okno pozostało widoczne (z wynikiem końcowym)
+        do momentu, aż użytkownik sam je zamknie.
+        """
+        self.close_button.configure(state="normal")
+        self.root.mainloop()
+ 
+ 
+def find_latest_report(downloads_path):
+    """
+    Szuka w folderze Downloads/Pobrane plików pasujących do wzorca
+    'Historia_transakcji_*.csv' i zwraca ścieżkę do najnowszego z nich
+    (na podstawie czasu utworzenia pliku).
+    """
+    pattern = os.path.join(downloads_path, "Historia_transakcji_*.csv")
+    # znajdź wszystkie pliki pasujące do wzorca w folderze Downloads
+    files = glob.glob(pattern)
+    if not files:
+        # brak jakiegokolwiek pliku – nie ma czego przetwarzać
+        return None
+    # wybierz plik o najpóźniejszym czasie utworzenia (najnowszy raport)
+    return max(files, key=os.path.getctime)
+ 
+ 
+def transform_columns(df):
+    """
+    Przekształca surowy DataFrame wczytany z CSV banku do formatu
+    gotowego pod zapis do bazy SQL: zostawia tylko potrzebne kolumny,
+    czyści formaty liczbowe i tworzy jedną kolumnę 'Kwota'.
+    """
+ 
+    # kolumny, które faktycznie są nam potrzebne z surowego eksportu banku
+    required_columns = [
+        "Data transakcji",
+        "Opis",
+        "Obciążenia",
+        "Uznania",
+    ]
+ 
+    # walidacja - jasny komunikat błędu zamiast surowego KeyError,
+    # gdyby bank zmienił nagłówki w eksporcie
+    missing = [col for col in required_columns if col not in df.columns]
+    if missing:
+        raise ValueError(f"Brakuje wymaganych kolumn w pliku CSV: {missing}")
+ 
+    # odrzucamy wszystkie pozostałe kolumny z pliku CSV
+    df = df[required_columns]
+ 
+    # zmiana nazwy kolumny na krótszą, używaną dalej w bazie danych
+    df = df.rename(columns={"Data transakcji": "Data"})
+ 
+    def clean_numeric(column):
+        """
+        Czyści tekstową reprezentację liczb w polskim formacie
+        (spacje jako separator tysięcy, przecinek jako separator dziesiętny)
+        i przygotowuje ją do konwersji na typ liczbowy.
+        """
+        return (
+            column.astype(str)
+            # usunięcie spacji używanych jako separator tysięcy (np. "1 234,56")
+            .str.replace(" ", "", regex=False)
+            # zamiana przecinka dziesiętnego na kropkę (format polski -> format Python/SQL)
+            .str.replace(",", ".", regex=False)
+        )
+ 
+    # konwersja obu kolumn kwotowych na typ liczbowy (błędne wartości -> NaN)
+    df["Obciążenia"] = pd.to_numeric(clean_numeric(df["Obciążenia"]), errors="coerce")
+    df["Uznania"] = pd.to_numeric(clean_numeric(df["Uznania"]), errors="coerce")
+ 
+    # scalenie obciążeń i uznań w jedną kolumnę Kwota
+    # (NaN zamieniane na 0, żeby suma nie "znikała" przy braku jednej z wartości)
+    df["Kwota"] = df["Uznania"].fillna(0) + df["Obciążenia"].fillna(0)
+ 
+    # usunięcie kolumn pomocniczych, które nie są już potrzebne po scaleniu
+    df = df.drop(columns=["Obciążenia", "Uznania"])
+ 
+    return df
+ 
+ 
+def build_output_filename(df):
+    """
+    Buduje nazwę pliku wyjściowego na podstawie miesiąca i roku
+    pierwszej transakcji w zestawieniu, np. 'Historia transakcji 08.2026.csv'.
+    """
+    # data pierwszej transakcji w pliku - zakładamy, że wszystkie
+    # transakcje pochodzą z tego samego miesiąca
+    first_date = pd.to_datetime(df["Data"].iloc[0])
+    return f'Historia transakcji {first_date.strftime("%m.%Y")}.csv'
+ 
+ 
+def upload_to_sql(df, source_file):
+    """
+    Zapisuje przetworzone dane do tabeli Table_1 w bazie SQL Server,
+    a następnie uruchamia procedurę przypisującą sprzedawców (merchantów)
+    do zaimportowanych transakcji.
+    """
+ 
+    conn = None
+    try:
+        # połączenie z lokalną instancją SQL Server przy użyciu uwierzytelniania Windows
+        conn = pyodbc.connect(
+            "DRIVER={ODBC Driver 17 for SQL Server};"
+            "SERVER=Artur;"
+            "DATABASE=Finanse;"
+            "Trusted_Connection=yes;"
+        )
+ 
+        cursor = conn.cursor()
+ 
+        # włączenie szybkiego trybu executemany - wysyła dane paczkami
+        # zamiast osobnego round-tripu do serwera dla każdego wiersza
+        cursor.fast_executemany = True
+ 
+        # przygotowanie danych do batch insert
+        # itertuples() jest znacznie szybszy niż iterrows()
+        data = [
+            (row.Data, row.Opis, row.Kwota, source_file)
+            for row in df.itertuples(index=False)
+        ]
+ 
+        # jeden zbiorowy insert wszystkich wierszy naraz
+        cursor.executemany(
+            """
+            INSERT INTO Table_1 (Data, Opis, Kwota, SourceFile)
+            VALUES (?, ?, ?, ?)
+            """,
+            data,
+        )
+ 
+        # zatwierdzenie transakcji z insertami
+        conn.commit()
+ 
+        # automatyczne przypisanie merchant na podstawie opisu transakcji
+        cursor.execute("EXEC AssignMerchants")
+ 
+        # zatwierdzenie efektów procedury AssignMerchants
+        conn.commit()
+ 
+    except Exception:
+        # w razie błędu wycofujemy niezatwierdzone zmiany
+        # i przekazujemy wyjątek dalej (obsłuży go process_latest_report)
+        if conn is not None:
+            conn.rollback()
+        raise
+ 
+    finally:
+        # połączenie zamykane zawsze, niezależnie od wyniku
+        if conn is not None:
+            conn.close()
+ 
+ 
+def process_latest_report(downloads_path, target_folder, status_window):
+    """
+    Główny proces: znajduje najnowszy raport CSV, przetwarza go,
+    zapisuje dane do SQL, a plik przenosi do folderu archiwum.
+    Każdy z trzech głównych etapów aktualizuje status_window,
+    dzięki czemu użytkownik widzi na bieżąco postęp i ewentualne błędy.
+    """
+ 
+    # === ETAP 1: wykrycie pliku w folderze Pobrane ===
+    latest_file = find_latest_report(downloads_path)
+ 
+    if latest_file is None:
+        status_window.set_status(
+            0, "error", "Nie znaleziono pliku Historia_transakcji_*.csv"
+        )
+        return
+ 
+    status_window.set_status(
+        0, "success", f"Znaleziono plik: {os.path.basename(latest_file)}"
+    )
+ 
+    # === ETAP 2: ETL danych (wczytanie, przekształcenie, zapis do SQL) ===
+    try:
+        # wczytanie CSV z automatycznym parsowaniem kolumny daty
+        df = pd.read_csv(latest_file, parse_dates=["Data transakcji"])
+ 
+        # oczyszczenie i przekształcenie kolumn do formatu docelowego
+        df = transform_columns(df)
+ 
+        # wygenerowanie nowej nazwy pliku na podstawie miesiąca transakcji
+        new_filename = build_output_filename(df)
+ 
+        # zapis przetworzonych danych do bazy SQL
+        upload_to_sql(df, new_filename)
+ 
+    except Exception as e:
+        # dowolny błąd na etapie wczytania/przekształcenia/zapisu do SQL
+        # trafia tutaj - plik źródłowy pozostaje nietknięty w Downloads
+        status_window.set_status(1, "error", f"Błąd ETL: {e}")
+        return
+ 
+    status_window.set_status(
+        1, "success", "Dane wczytane, oczyszczone i zapisane w SQL"
+    )
+ 
+    # === ETAP 3: przeniesienie pliku do folderu docelowego ===
+    try:
+        # upewnienie się, że folder docelowy (archiwum) istnieje
+        os.makedirs(target_folder, exist_ok=True)
+ 
+        target_file = os.path.join(target_folder, new_filename)
+ 
+        # jeśli w archiwum istnieje już plik o tej samej nazwie - usuwamy go
+        if os.path.exists(target_file):
+            os.remove(target_file)
+ 
+        # zapis przetworzonych danych bezpośrednio do pliku docelowego w archiwum
+        df.to_csv(target_file, index=False)
+ 
+        # usunięcie oryginalnego pliku z Downloads - dane są już
+        # bezpiecznie zapisane w SQL i w archiwum
+        os.remove(latest_file)
+ 
+    except Exception as e:
+        status_window.set_status(2, "error", f"Błąd przenoszenia pliku: {e}")
+        return
+ 
+    status_window.set_status(2, "success", f"Nowa nazwa pliku: {new_filename}")
+ 
+ 
+def main():
+    # okno statusu tworzone jako pierwsze, żeby było widoczne
+    # od razu na starcie programu, jeszcze przed rozpoczęciem przetwarzania
+    status_window = StatusWindow()
+ 
+    # folder Downloads/Pobrane bieżącego użytkownika systemu
+    downloads_path = os.path.join(os.path.expanduser("~"), "Downloads")
+ 
+    # stały folder docelowy, w którym archiwizowane są miesięczne raporty
+    target_folder = r"D:\Finanse domowe\Raporty"
+ 
+    try:
+        # uruchomienie całego procesu importu najnowszego raportu
+        process_latest_report(downloads_path, target_folder, status_window)
+    finally:
+        # niezależnie od tego, czy proces zakończył się sukcesem czy błędem,
+        # okno pozostaje otwarte z widocznym wynikiem, dopóki użytkownik go nie zamknie
+        status_window.finish()
+ 
+ 
+main()
