@@ -9,6 +9,8 @@ in which I will share my work.
 
 ## [Personal Finances Project](https://github.com/ArturCHO/Portfolio/blob/main/Personal%20Finances/FinancesReadme.md)
 
+The goal of the project is to create an automated system for processing, storing, and analyzing household financial data. The project covers the entire data processing workflow—from retrieving transaction reports from the bank, through the automatic preparation and storage of data in an SQL database, to its visualization in an analytical report.
+
 ### Other projects
 
 - [Project 1: Covid](https://github.com/ArturCHO/Portfolio/blob/main/COVID.sql)
