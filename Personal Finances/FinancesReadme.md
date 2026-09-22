@@ -12,7 +12,7 @@ preparation and storage of data in an SQL database, to its visualization in an a
 - Standardizing the file name according to the following format: "Transaction History MM.YYYY". :white_check_mark:
 - ETL and Data Preparation. :white_check_mark:
 
-![Overview](Personal%20Finances/Overview.png)
+![Overview](Overview.png)
 
 - Automatic import of cleaned data into SQL Server.
 - Designing a relational data model.
