@@ -11,7 +11,7 @@ in which I will share my work.
 
 The goal of the project is to create an automated system for processing, storing, and analyzing household financial data. The project covers the entire data processing workflow—from retrieving transaction reports from the bank, through the automatic preparation and storage of data in an SQL database, to its visualization in an analytical report.
 
-## [Developing a bot on Telegram - In progres]
+## [Developing a bot on Telegram - In progres](https://github.com/ArturCHO/Portfolio/blob/main/Developing%20a%20Bot/BotReadme.md)
 
 The goal of this project is to create a bot that, after receiving a link from me on Instagram, will generate an audio transcript, extract data from the resulting text, and save the selected information to a database or a notepad. Based on the link and any additional instructions provided, the bot is designed to help me save my inspirations and easily revisit them. This marks the beginning of a project to develop an app with an AI module for personal use.
 
