@@ -2,9 +2,9 @@
 
 **Main project phases:**
 
-- Creating a Telegram bot. Done. The bot receives a message containing a link to a Reel. :white_check_mark:
-- Running the bot program in Python. Done. The local program listens for Telegram messages and responds to a link. :white_check_mark:
-- Retrieving Reel data from Instagram via Apify. Done for the text description. The bot sends a link to Apify and receives the description and available Reel metadata. :white_check_mark:
+- Creating a Telegram bot. The bot receives a message containing a link to a Reel. :white_check_mark:
+- Running the bot program in Python. The local program listens for Telegram messages and responds to a link. :white_check_mark:
+- Retrieving Reel data from Instagram via Apify. The bot sends a link to Apify and receives the description and available Reel metadata. :white_check_mark:
 - Extracting specific text using the OpenAI model. Completed locally: Structured fields are generated from the description. :white_check_mark:
 - Creating a remote database with tables. :white_check_mark:
 - Bot update: instead of sending the draft via Telegram, it saves a record in the database Next up. After analyzing the data, the bot will send it to Worker and reply briefly, e.g., “Recipe saved” or “Needs more details.”
