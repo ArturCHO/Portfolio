@@ -7,9 +7,13 @@ so that I could implement the system in the company and connect it to the forms 
 my interest in data analysis, and wanting to develop further in this direction, I decided to create this portfolio 
 in which I will share my work.
 
-## [Personal Finances Project](https://github.com/ArturCHO/Portfolio/blob/main/Personal%20Finances/FinancesReadme.md)
+## [Personal Finances Project - In progress](https://github.com/ArturCHO/Portfolio/blob/main/Personal%20Finances/FinancesReadme.md)
 
 The goal of the project is to create an automated system for processing, storing, and analyzing household financial data. The project covers the entire data processing workflow—from retrieving transaction reports from the bank, through the automatic preparation and storage of data in an SQL database, to its visualization in an analytical report.
+
+## [Developing a bot on Telegram - In progres]
+
+The goal of this project is to create a bot that, after receiving a link from me on Instagram, will generate an audio transcript, extract data from the resulting text, and save the selected information to a database or a notepad. Based on the link and any additional instructions provided, the bot is designed to help me save my inspirations and easily revisit them. This marks the beginning of a project to develop an app with an AI module for personal use.
 
 ### Other projects
 
