@@ -7,7 +7,7 @@ so that I could implement the system in the company and connect it to the forms 
 my interest in data analysis, and wanting to develop further in this direction, I decided to create this portfolio 
 in which I will share my work.
 
-## Personal Finances Project
+## [Personal Finances Project](https://github.com/ArturCHO/Portfolio/blob/main/COVID.sql)
 
   The goal of the project is to create an automated system for processing, storing, and analyzing household financial data.
 The project covers the entire data processing workflow—from retrieving transaction reports from the bank, through the automatic 
