@@ -12,4 +12,4 @@
 - Manually filling in missing and necessary information. Once all information is complete, the record’s status will change to “ready.” :x:
 - Future Development Options: Audio transcription, automatic thumbnail download, search function, tags and launching Telegram via a webhook—without having to turn on your computer. :x:
 
-**Please be patient :) I'll post details about each stage soon.**
+**I abandoned this project because it turned out there are apps that do exactly what I wanted to achieve. I'm not going to reinvent the wheel, so I'll focus on my other projects :)**
