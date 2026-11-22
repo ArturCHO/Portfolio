@@ -6,7 +6,7 @@
 - Running the bot program in Python. The local program listens for Telegram messages and responds to a link. :white_check_mark:
 - Retrieving Reel data from Instagram via Apify. The bot sends a link to Apify and receives the description and available Reel metadata. :white_check_mark:
 - Extracting specific text using the OpenAI model. Completed locally: Structured fields are generated from the description. :white_check_mark:
-- Creating a remote database with tables. :white_check_mark:
+[Progress](https://github.com/ArturCHO/Portfolio/blob/main/Developing%20a%20Bot/IMG_2537.jpeg)
 - Bot update: instead of sending the draft via Telegram, it saves a record in the database Next up. After analyzing the data, the bot will send it to Worker and reply briefly, e.g., “Recipe saved” or “Needs more details.”
 - Creating a web app to browse the database.
 - Manually filling in missing and necessary information. Once all information is complete, the record’s status will change to “ready.”
