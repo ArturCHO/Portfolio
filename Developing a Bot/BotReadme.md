@@ -7,9 +7,9 @@
 - Retrieving Reel data from Instagram via Apify. The bot sends a link to Apify and receives the description and available Reel metadata. :white_check_mark:
 - Extracting specific text using the OpenAI model. Completed locally: Structured fields are generated from the description. :white_check_mark:
 ![Dashboard](IMG_2537.jpeg)
-- Bot update: instead of sending the draft via Telegram, it saves a record in the database Next up. After analyzing the data, the bot will send it to Worker and reply briefly, e.g., “Recipe saved” or “Needs more details.”
-- Creating a web app to browse the database.
-- Manually filling in missing and necessary information. Once all information is complete, the record’s status will change to “ready.”
-- Future Development Options: Audio transcription, automatic thumbnail download, search function, tags and launching Telegram via a webhook—without having to turn on your computer.
+- Bot update: instead of sending the draft via Telegram, it saves a record in the database Next up. After analyzing the data, the bot will send it to Worker and reply briefly, e.g., “Recipe saved” or “Needs more details.” :x:
+- Creating a web app to browse the database. :x:
+- Manually filling in missing and necessary information. Once all information is complete, the record’s status will change to “ready.” :x:
+- Future Development Options: Audio transcription, automatic thumbnail download, search function, tags and launching Telegram via a webhook—without having to turn on your computer. :x:
 
 **Please be patient :) I'll post details about each stage soon.**
